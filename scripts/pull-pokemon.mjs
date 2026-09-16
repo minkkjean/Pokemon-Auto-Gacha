@@ -60,8 +60,6 @@ collection.pulls = collection.pulls.slice(0, 10);
 // 아래 오류 발생 코드를 writeFile 코드로 교체합니다.
 await writeFile(DATA_PATH, `${JSON.stringify(collection, null, 2)}\n` ,"utf8");
 
-
-throw new Error("TODO-API-3: collection.json 저장 코드를 작성하세요.");
 await updateReadme(collection);
 
 // Workflow의 커밋 메시지에서 사용합니다.
