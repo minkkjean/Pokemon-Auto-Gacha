@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 13,
-  "updatedAt": "2026-09-16T01:48:19.364Z",
+  "totalPulls": 14,
+  "updatedAt": "2026-09-16T01:48:49.915Z",
   "lastPull": {
-    "id": 278,
-    "name": "wingull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+    "id": 13,
+    "name": "weedle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
     "types": [
-      "water",
-      "flying"
+      "bug",
+      "poison"
     ],
-    "totalStats": 270,
+    "totalStats": 195,
     "grade": "N",
-    "pulledAt": "2026-09-16T01:48:19.364Z"
+    "pulledAt": "2026-09-16T01:48:49.915Z"
   },
   "pulls": [
+    {
+      "id": 13,
+      "name": "weedle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:48:49.915Z"
+    },
     {
       "id": 278,
       "name": "wingull",
@@ -118,21 +130,25 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-09-16T01:42:54.408Z"
-    },
-    {
-      "id": 453,
-      "name": "croagunk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
-      "types": [
-        "poison",
-        "fighting"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:42:03.879Z"
     }
   ],
   "pokemon": {
+    "13": {
+      "id": 13,
+      "name": "weedle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:48:49.915Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:48:49.915Z",
+      "lastPulledAt": "2026-09-16T01:48:49.915Z"
+    },
     "240": {
       "id": 240,
       "name": "magby",
