@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 1,
-  "updatedAt": "2026-09-16T01:38:27.233Z",
+  "totalPulls": 2,
+  "updatedAt": "2026-09-16T01:40:27.704Z",
   "lastPull": {
-    "id": 466,
-    "name": "electivire",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+    "id": 930,
+    "name": "arboliva",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
     "types": [
-      "electric"
+      "grass",
+      "normal"
     ],
-    "totalStats": 540,
+    "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-09-16T01:38:27.233Z"
+    "pulledAt": "2026-09-16T01:40:27.704Z"
   },
   "pulls": [
+    {
+      "id": 930,
+      "name": "arboliva",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:40:27.704Z"
+    },
     {
       "id": 466,
       "name": "electivire",
@@ -41,6 +54,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:38:27.233Z",
       "lastPulledAt": "2026-09-16T01:38:27.233Z"
+    },
+    "930": {
+      "id": 930,
+      "name": "arboliva",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:40:27.704Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:40:27.704Z",
+      "lastPulledAt": "2026-09-16T01:40:27.704Z"
     }
   },
   "typeTotals": {
