@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 19,
-  "updatedAt": "2026-09-16T06:36:23.842Z",
+  "totalPulls": 20,
+  "updatedAt": "2026-09-16T12:04:31.581Z",
   "lastPull": {
-    "id": 172,
-    "name": "pichu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+    "id": 286,
+    "name": "breloom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
     "types": [
-      "electric"
+      "grass",
+      "fighting"
     ],
-    "totalStats": 205,
-    "grade": "N",
-    "pulledAt": "2026-09-16T06:36:23.842Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-09-16T12:04:31.581Z"
   },
   "pulls": [
+    {
+      "id": 286,
+      "name": "breloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-16T12:04:31.581Z"
+    },
     {
       "id": 172,
       "name": "pichu",
@@ -116,17 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-16T01:47:10.843Z"
-    },
-    {
-      "id": 240,
-      "name": "magby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:46:38.205Z"
     }
   ],
   "pokemon": {
@@ -222,6 +224,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:48:19.364Z",
       "lastPulledAt": "2026-09-16T01:48:19.364Z"
+    },
+    "286": {
+      "id": 286,
+      "name": "breloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-16T12:04:31.581Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T12:04:31.581Z",
+      "lastPulledAt": "2026-09-16T12:04:31.581Z"
     },
     "313": {
       "id": 313,
