@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 7,
-  "updatedAt": "2026-09-16T01:44:38.498Z",
+  "totalPulls": 8,
+  "updatedAt": "2026-09-16T01:45:21.311Z",
   "lastPull": {
-    "id": 797,
-    "name": "celesteela",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
+    "id": 313,
+    "name": "volbeat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
     "types": [
-      "steel",
-      "flying"
+      "bug"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T01:44:38.498Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-09-16T01:45:21.311Z"
   },
   "pulls": [
+    {
+      "id": 313,
+      "name": "volbeat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:45:21.311Z"
+    },
     {
       "id": 797,
       "name": "celesteela",
@@ -113,6 +123,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:41:21.024Z",
       "lastPulledAt": "2026-09-16T01:41:21.024Z"
+    },
+    "313": {
+      "id": 313,
+      "name": "volbeat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:45:21.311Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:45:21.311Z",
+      "lastPulledAt": "2026-09-16T01:45:21.311Z"
     },
     "319": {
       "id": 319,
