@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 2,
-  "updatedAt": "2026-09-16T01:40:27.704Z",
+  "totalPulls": 3,
+  "updatedAt": "2026-09-16T01:41:21.024Z",
   "lastPull": {
-    "id": 930,
-    "name": "arboliva",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
+    "id": 243,
+    "name": "raikou",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
     "types": [
-      "grass",
-      "normal"
+      "electric"
     ],
-    "totalStats": 510,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-09-16T01:40:27.704Z"
+    "pulledAt": "2026-09-16T01:41:21.024Z"
   },
   "pulls": [
+    {
+      "id": 243,
+      "name": "raikou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:41:21.024Z"
+    },
     {
       "id": 930,
       "name": "arboliva",
@@ -40,6 +50,21 @@
     }
   ],
   "pokemon": {
+    "243": {
+      "id": 243,
+      "name": "raikou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:41:21.024Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:41:21.024Z",
+      "lastPulledAt": "2026-09-16T01:41:21.024Z"
+    },
     "466": {
       "id": 466,
       "name": "electivire",
