@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 17,
-  "updatedAt": "2026-09-16T01:50:51.282Z",
+  "totalPulls": 18,
+  "updatedAt": "2026-09-16T01:51:57.051Z",
   "lastPull": {
-    "id": 601,
-    "name": "klinklang",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+    "id": 1016,
+    "name": "fezandipiti",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
     "types": [
-      "steel"
+      "poison",
+      "fairy"
     ],
-    "totalStats": 520,
+    "totalStats": 555,
     "grade": "SR",
-    "pulledAt": "2026-09-16T01:50:51.282Z"
+    "pulledAt": "2026-09-16T01:51:57.051Z"
   },
   "pulls": [
+    {
+      "id": 1016,
+      "name": "fezandipiti",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
+      "types": [
+        "poison",
+        "fairy"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:51:57.051Z"
+    },
     {
       "id": 601,
       "name": "klinklang",
@@ -115,17 +128,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-09-16T01:46:04.256Z"
-    },
-    {
-      "id": 313,
-      "name": "volbeat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 430,
-      "grade": "R",
-      "pulledAt": "2026-09-16T01:45:21.311Z"
     }
   ],
   "pokemon": {
@@ -391,6 +393,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:49:26.554Z",
       "lastPulledAt": "2026-09-16T01:49:26.554Z"
+    },
+    "1016": {
+      "id": 1016,
+      "name": "fezandipiti",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
+      "types": [
+        "poison",
+        "fairy"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:51:57.051Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:51:57.051Z",
+      "lastPulledAt": "2026-09-16T01:51:57.051Z"
     }
   },
   "typeTotals": {
