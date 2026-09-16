@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 16,
-  "updatedAt": "2026-09-16T01:50:04.706Z",
+  "totalPulls": 17,
+  "updatedAt": "2026-09-16T01:50:51.282Z",
   "lastPull": {
-    "id": 728,
-    "name": "popplio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+    "id": 601,
+    "name": "klinklang",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
     "types": [
-      "water"
+      "steel"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-09-16T01:50:04.706Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T01:50:51.282Z"
   },
   "pulls": [
+    {
+      "id": 601,
+      "name": "klinklang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:50:51.282Z"
+    },
     {
       "id": 728,
       "name": "popplio",
@@ -115,18 +126,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-09-16T01:45:21.311Z"
-    },
-    {
-      "id": 797,
-      "name": "celesteela",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
-      "types": [
-        "steel",
-        "flying"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T01:44:38.498Z"
     }
   ],
   "pokemon": {
@@ -284,6 +283,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:38:27.233Z",
       "lastPulledAt": "2026-09-16T01:38:27.233Z"
+    },
+    "601": {
+      "id": 601,
+      "name": "klinklang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:50:51.282Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:50:51.282Z",
+      "lastPulledAt": "2026-09-16T01:50:51.282Z"
     },
     "709": {
       "id": 709,
