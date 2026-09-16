@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 11,
-  "updatedAt": "2026-09-16T01:47:10.843Z",
+  "totalPulls": 12,
+  "updatedAt": "2026-09-16T01:47:44.651Z",
   "lastPull": {
-    "id": 272,
-    "name": "ludicolo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+    "id": 390,
+    "name": "chimchar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
     "types": [
-      "water",
-      "grass"
+      "fire"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:47:10.843Z"
+    "totalStats": 309,
+    "grade": "N",
+    "pulledAt": "2026-09-16T01:47:44.651Z"
   },
   "pulls": [
+    {
+      "id": 390,
+      "name": "chimchar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:47:44.651Z"
+    },
     {
       "id": 272,
       "name": "ludicolo",
@@ -118,18 +128,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-16T01:41:21.024Z"
-    },
-    {
-      "id": 930,
-      "name": "arboliva",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
-      "types": [
-        "grass",
-        "normal"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T01:40:27.704Z"
     }
   ],
   "pokemon": {
@@ -209,6 +207,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:53.604Z",
       "lastPulledAt": "2026-09-16T01:43:53.604Z"
+    },
+    "390": {
+      "id": 390,
+      "name": "chimchar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:47:44.651Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:47:44.651Z",
+      "lastPulledAt": "2026-09-16T01:47:44.651Z"
     },
     "453": {
       "id": 453,
