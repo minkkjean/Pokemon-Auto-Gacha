@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 3,
-  "updatedAt": "2026-09-16T01:41:21.024Z",
+  "totalPulls": 4,
+  "updatedAt": "2026-09-16T01:42:03.879Z",
   "lastPull": {
-    "id": 243,
-    "name": "raikou",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+    "id": 453,
+    "name": "croagunk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
     "types": [
-      "electric"
+      "poison",
+      "fighting"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T01:41:21.024Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-09-16T01:42:03.879Z"
   },
   "pulls": [
+    {
+      "id": 453,
+      "name": "croagunk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:42:03.879Z"
+    },
     {
       "id": 243,
       "name": "raikou",
@@ -64,6 +77,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:41:21.024Z",
       "lastPulledAt": "2026-09-16T01:41:21.024Z"
+    },
+    "453": {
+      "id": 453,
+      "name": "croagunk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:42:03.879Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:42:03.879Z",
+      "lastPulledAt": "2026-09-16T01:42:03.879Z"
     },
     "466": {
       "id": 466,
