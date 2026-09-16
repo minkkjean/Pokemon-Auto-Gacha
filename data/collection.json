@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 5,
-  "updatedAt": "2026-09-16T01:42:54.408Z",
+  "totalPulls": 6,
+  "updatedAt": "2026-09-16T01:43:53.604Z",
   "lastPull": {
-    "id": 709,
-    "name": "trevenant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+    "id": 319,
+    "name": "sharpedo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
     "types": [
-      "ghost",
-      "grass"
+      "water",
+      "dark"
     ],
-    "totalStats": 474,
+    "totalStats": 460,
     "grade": "R",
-    "pulledAt": "2026-09-16T01:42:54.408Z"
+    "pulledAt": "2026-09-16T01:43:53.604Z"
   },
   "pulls": [
+    {
+      "id": 319,
+      "name": "sharpedo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:43:53.604Z"
+    },
     {
       "id": 709,
       "name": "trevenant",
@@ -89,6 +101,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:41:21.024Z",
       "lastPulledAt": "2026-09-16T01:41:21.024Z"
+    },
+    "319": {
+      "id": 319,
+      "name": "sharpedo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:43:53.604Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:43:53.604Z",
+      "lastPulledAt": "2026-09-16T01:43:53.604Z"
     },
     "453": {
       "id": 453,
