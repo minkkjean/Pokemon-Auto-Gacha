@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 10,
-  "updatedAt": "2026-09-16T01:46:38.205Z",
+  "totalPulls": 11,
+  "updatedAt": "2026-09-16T01:47:10.843Z",
   "lastPull": {
-    "id": 240,
-    "name": "magby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+    "id": 272,
+    "name": "ludicolo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
     "types": [
-      "fire"
+      "water",
+      "grass"
     ],
-    "totalStats": 365,
-    "grade": "N",
-    "pulledAt": "2026-09-16T01:46:38.205Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-09-16T01:47:10.843Z"
   },
   "pulls": [
+    {
+      "id": 272,
+      "name": "ludicolo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:47:10.843Z"
+    },
     {
       "id": 240,
       "name": "magby",
@@ -117,17 +130,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-09-16T01:40:27.704Z"
-    },
-    {
-      "id": 466,
-      "name": "electivire",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T01:38:27.233Z"
     }
   ],
   "pokemon": {
@@ -160,6 +162,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:41:21.024Z",
       "lastPulledAt": "2026-09-16T01:41:21.024Z"
+    },
+    "272": {
+      "id": 272,
+      "name": "ludicolo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:47:10.843Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:47:10.843Z",
+      "lastPulledAt": "2026-09-16T01:47:10.843Z"
     },
     "313": {
       "id": 313,
