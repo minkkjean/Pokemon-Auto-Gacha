@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 9,
-  "updatedAt": "2026-09-16T01:46:04.256Z",
+  "totalPulls": 10,
+  "updatedAt": "2026-09-16T01:46:38.205Z",
   "lastPull": {
-    "id": 870,
-    "name": "falinks",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+    "id": 240,
+    "name": "magby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
     "types": [
-      "fighting"
+      "fire"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:46:04.256Z"
+    "totalStats": 365,
+    "grade": "N",
+    "pulledAt": "2026-09-16T01:46:38.205Z"
   },
   "pulls": [
+    {
+      "id": 240,
+      "name": "magby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:46:38.205Z"
+    },
     {
       "id": 870,
       "name": "falinks",
@@ -120,6 +131,21 @@
     }
   ],
   "pokemon": {
+    "240": {
+      "id": 240,
+      "name": "magby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:46:38.205Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:46:38.205Z",
+      "lastPulledAt": "2026-09-16T01:46:38.205Z"
+    },
     "243": {
       "id": 243,
       "name": "raikou",
