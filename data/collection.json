@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 4,
-  "updatedAt": "2026-09-16T01:42:03.879Z",
+  "totalPulls": 5,
+  "updatedAt": "2026-09-16T01:42:54.408Z",
   "lastPull": {
-    "id": 453,
-    "name": "croagunk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+    "id": 709,
+    "name": "trevenant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
     "types": [
-      "poison",
-      "fighting"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-16T01:42:03.879Z"
+    "totalStats": 474,
+    "grade": "R",
+    "pulledAt": "2026-09-16T01:42:54.408Z"
   },
   "pulls": [
+    {
+      "id": 709,
+      "name": "trevenant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:42:54.408Z"
+    },
     {
       "id": 453,
       "name": "croagunk",
@@ -108,6 +120,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:38:27.233Z",
       "lastPulledAt": "2026-09-16T01:38:27.233Z"
+    },
+    "709": {
+      "id": 709,
+      "name": "trevenant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:42:54.408Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:42:54.408Z",
+      "lastPulledAt": "2026-09-16T01:42:54.408Z"
     },
     "930": {
       "id": 930,
