@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-16T19:57:49.735Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-16T22:52:05.180Z",
   "lastPull": {
-    "id": 427,
-    "name": "buneary",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
+    "id": 47,
+    "name": "parasect",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
     "types": [
-      "normal"
+      "bug",
+      "grass"
     ],
-    "totalStats": 350,
-    "grade": "N",
-    "pulledAt": "2026-09-16T19:57:49.735Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-09-16T22:52:05.180Z"
   },
   "pulls": [
+    {
+      "id": 47,
+      "name": "parasect",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-16T22:52:05.180Z"
+    },
     {
       "id": 427,
       "name": "buneary",
@@ -116,18 +129,6 @@
       "totalStats": 195,
       "grade": "N",
       "pulledAt": "2026-09-16T01:48:49.915Z"
-    },
-    {
-      "id": 278,
-      "name": "wingull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:48:19.364Z"
     }
   ],
   "pokemon": {
@@ -146,6 +147,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:48:49.915Z",
       "lastPulledAt": "2026-09-16T01:48:49.915Z"
+    },
+    "47": {
+      "id": 47,
+      "name": "parasect",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-16T22:52:05.180Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T22:52:05.180Z",
+      "lastPulledAt": "2026-09-16T22:52:05.180Z"
     },
     "74": {
       "id": 74,
