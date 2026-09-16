@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 8,
-  "updatedAt": "2026-09-16T01:45:21.311Z",
+  "totalPulls": 9,
+  "updatedAt": "2026-09-16T01:46:04.256Z",
   "lastPull": {
-    "id": 313,
-    "name": "volbeat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+    "id": 870,
+    "name": "falinks",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
     "types": [
-      "bug"
+      "fighting"
     ],
-    "totalStats": 430,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-09-16T01:45:21.311Z"
+    "pulledAt": "2026-09-16T01:46:04.256Z"
   },
   "pulls": [
+    {
+      "id": 870,
+      "name": "falinks",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:46:04.256Z"
+    },
     {
       "id": 313,
       "name": "volbeat",
@@ -217,6 +228,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:44:38.498Z",
       "lastPulledAt": "2026-09-16T01:44:38.498Z"
+    },
+    "870": {
+      "id": 870,
+      "name": "falinks",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:46:04.256Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:46:04.256Z",
+      "lastPulledAt": "2026-09-16T01:46:04.256Z"
     },
     "930": {
       "id": 930,
