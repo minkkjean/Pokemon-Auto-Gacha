@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 15,
-  "updatedAt": "2026-09-16T01:49:26.554Z",
+  "totalPulls": 16,
+  "updatedAt": "2026-09-16T01:50:04.706Z",
   "lastPull": {
-    "id": 999,
-    "name": "gimmighoul",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
+    "id": 728,
+    "name": "popplio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
     "types": [
-      "ghost"
+      "water"
     ],
-    "totalStats": 300,
+    "totalStats": 320,
     "grade": "N",
-    "pulledAt": "2026-09-16T01:49:26.554Z"
+    "pulledAt": "2026-09-16T01:50:04.706Z"
   },
   "pulls": [
+    {
+      "id": 728,
+      "name": "popplio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:50:04.706Z"
+    },
     {
       "id": 999,
       "name": "gimmighoul",
@@ -116,18 +127,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-16T01:44:38.498Z"
-    },
-    {
-      "id": 319,
-      "name": "sharpedo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
-      "types": [
-        "water",
-        "dark"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-16T01:43:53.604Z"
     }
   ],
   "pokemon": {
@@ -301,6 +300,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:54.408Z",
       "lastPulledAt": "2026-09-16T01:42:54.408Z"
+    },
+    "728": {
+      "id": 728,
+      "name": "popplio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:50:04.706Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:50:04.706Z",
+      "lastPulledAt": "2026-09-16T01:50:04.706Z"
     },
     "797": {
       "id": 797,
