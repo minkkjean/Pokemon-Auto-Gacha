@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 6,
-  "updatedAt": "2026-09-16T01:43:53.604Z",
+  "totalPulls": 7,
+  "updatedAt": "2026-09-16T01:44:38.498Z",
   "lastPull": {
-    "id": 319,
-    "name": "sharpedo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+    "id": 797,
+    "name": "celesteela",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
     "types": [
-      "water",
-      "dark"
+      "steel",
+      "flying"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:43:53.604Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T01:44:38.498Z"
   },
   "pulls": [
+    {
+      "id": 797,
+      "name": "celesteela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:44:38.498Z"
+    },
     {
       "id": 319,
       "name": "sharpedo",
@@ -164,6 +176,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:54.408Z",
       "lastPulledAt": "2026-09-16T01:42:54.408Z"
+    },
+    "797": {
+      "id": 797,
+      "name": "celesteela",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:44:38.498Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:44:38.498Z",
+      "lastPulledAt": "2026-09-16T01:44:38.498Z"
     },
     "930": {
       "id": 930,
