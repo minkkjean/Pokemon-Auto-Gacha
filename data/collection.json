@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 27,
-  "updatedAt": "2026-09-17T16:47:30.142Z",
+  "totalPulls": 28,
+  "updatedAt": "2026-09-17T19:54:38.459Z",
   "lastPull": {
-    "id": 372,
-    "name": "shelgon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+    "id": 113,
+    "name": "chansey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
     "types": [
-      "dragon"
+      "normal"
     ],
-    "totalStats": 420,
+    "totalStats": 450,
     "grade": "R",
-    "pulledAt": "2026-09-17T16:47:30.142Z"
+    "pulledAt": "2026-09-17T19:54:38.459Z"
   },
   "pulls": [
+    {
+      "id": 113,
+      "name": "chansey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-17T19:54:38.459Z"
+    },
     {
       "id": 372,
       "name": "shelgon",
@@ -117,18 +128,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-09-16T06:36:23.842Z"
-    },
-    {
-      "id": 1016,
-      "name": "fezandipiti",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
-      "types": [
-        "poison",
-        "fairy"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T01:51:57.051Z"
     }
   ],
   "pokemon": {
@@ -194,6 +193,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T16:52:02.615Z",
       "lastPulledAt": "2026-09-16T16:52:02.615Z"
+    },
+    "113": {
+      "id": 113,
+      "name": "chansey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-17T19:54:38.459Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T19:54:38.459Z",
+      "lastPulledAt": "2026-09-17T19:54:38.459Z"
     },
     "172": {
       "id": 172,
