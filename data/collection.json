@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 26,
-  "updatedAt": "2026-09-17T11:52:46.225Z",
+  "totalPulls": 27,
+  "updatedAt": "2026-09-17T16:47:30.142Z",
   "lastPull": {
-    "id": 36,
-    "name": "clefable",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+    "id": 372,
+    "name": "shelgon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
     "types": [
-      "fairy"
+      "dragon"
     ],
-    "totalStats": 483,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-09-17T11:52:46.225Z"
+    "pulledAt": "2026-09-17T16:47:30.142Z"
   },
   "pulls": [
+    {
+      "id": 372,
+      "name": "shelgon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-17T16:47:30.142Z"
+    },
     {
       "id": 36,
       "name": "clefable",
@@ -118,17 +129,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-09-16T01:51:57.051Z"
-    },
-    {
-      "id": 601,
-      "name": "klinklang",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T01:50:51.282Z"
     }
   ],
   "pokemon": {
@@ -334,6 +334,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:53.604Z",
       "lastPulledAt": "2026-09-16T01:43:53.604Z"
+    },
+    "372": {
+      "id": 372,
+      "name": "shelgon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-17T16:47:30.142Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T16:47:30.142Z",
+      "lastPulledAt": "2026-09-17T16:47:30.142Z"
     },
     "390": {
       "id": 390,
