@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 29,
-  "updatedAt": "2026-09-17T22:47:50.101Z",
+  "totalPulls": 30,
+  "updatedAt": "2026-09-18T00:52:04.855Z",
   "lastPull": {
-    "id": 262,
-    "name": "mightyena",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+    "id": 332,
+    "name": "cacturne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
     "types": [
+      "grass",
       "dark"
     ],
-    "totalStats": 420,
+    "totalStats": 475,
     "grade": "R",
-    "pulledAt": "2026-09-17T22:47:50.101Z"
+    "pulledAt": "2026-09-18T00:52:04.855Z"
   },
   "pulls": [
+    {
+      "id": 332,
+      "name": "cacturne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-18T00:52:04.855Z"
+    },
     {
       "id": 262,
       "name": "mightyena",
@@ -116,18 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-16T16:52:02.615Z"
-    },
-    {
-      "id": 286,
-      "name": "breloom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
-      "types": [
-        "grass",
-        "fighting"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-09-16T12:04:31.581Z"
     }
   ],
   "pokemon": {
@@ -363,6 +364,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:53.604Z",
       "lastPulledAt": "2026-09-16T01:43:53.604Z"
+    },
+    "332": {
+      "id": 332,
+      "name": "cacturne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-18T00:52:04.855Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T00:52:04.855Z",
+      "lastPulledAt": "2026-09-18T00:52:04.855Z"
     },
     "372": {
       "id": 372,
