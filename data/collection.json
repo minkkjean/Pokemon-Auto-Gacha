@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 32,
-  "updatedAt": "2026-09-18T10:05:12.507Z",
+  "totalPulls": 33,
+  "updatedAt": "2026-09-18T14:30:11.865Z",
   "lastPull": {
-    "id": 87,
-    "name": "dewgong",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "id": 301,
+    "name": "delcatty",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
     "types": [
-      "water",
-      "ice"
+      "normal"
     ],
-    "totalStats": 475,
+    "totalStats": 400,
     "grade": "R",
-    "pulledAt": "2026-09-18T10:05:12.507Z"
+    "pulledAt": "2026-09-18T14:30:11.865Z"
   },
   "pulls": [
+    {
+      "id": 301,
+      "name": "delcatty",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-09-18T14:30:11.865Z"
+    },
     {
       "id": 87,
       "name": "dewgong",
@@ -118,18 +128,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-17T01:16:32.832Z"
-    },
-    {
-      "id": 47,
-      "name": "parasect",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-16T22:52:05.180Z"
     }
   ],
   "pokemon": {
@@ -350,6 +348,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T12:04:31.581Z",
       "lastPulledAt": "2026-09-16T12:04:31.581Z"
+    },
+    "301": {
+      "id": 301,
+      "name": "delcatty",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-09-18T14:30:11.865Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T14:30:11.865Z",
+      "lastPulledAt": "2026-09-18T14:30:11.865Z"
     },
     "313": {
       "id": 313,
