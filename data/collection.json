@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 37,
-  "updatedAt": "2026-09-19T01:05:51.603Z",
+  "totalPulls": 38,
+  "updatedAt": "2026-09-19T05:52:23.510Z",
   "lastPull": {
-    "id": 56,
-    "name": "mankey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+    "id": 939,
+    "name": "bellibolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
     "types": [
-      "fighting"
+      "electric"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-19T01:05:51.603Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-09-19T05:52:23.510Z"
   },
   "pulls": [
+    {
+      "id": 939,
+      "name": "bellibolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-19T05:52:23.510Z"
+    },
     {
       "id": 56,
       "name": "mankey",
@@ -117,17 +128,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-17T22:47:50.101Z"
-    },
-    {
-      "id": 113,
-      "name": "chansey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-09-17T19:54:38.459Z"
     }
   ],
   "pokemon": {
@@ -657,6 +657,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:40:27.704Z",
       "lastPulledAt": "2026-09-16T01:40:27.704Z"
+    },
+    "939": {
+      "id": 939,
+      "name": "bellibolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-19T05:52:23.510Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T05:52:23.510Z",
+      "lastPulledAt": "2026-09-19T05:52:23.510Z"
     },
     "999": {
       "id": 999,
