@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 36,
-  "updatedAt": "2026-09-18T22:53:40.341Z",
+  "totalPulls": 37,
+  "updatedAt": "2026-09-19T01:05:51.603Z",
   "lastPull": {
-    "id": 1018,
-    "name": "archaludon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
+    "id": 56,
+    "name": "mankey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
     "types": [
-      "steel",
-      "dragon"
+      "fighting"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-18T22:53:40.341Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-09-19T01:05:51.603Z"
   },
   "pulls": [
+    {
+      "id": 56,
+      "name": "mankey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-19T01:05:51.603Z"
+    },
     {
       "id": 1018,
       "name": "archaludon",
@@ -118,17 +128,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-17T19:54:38.459Z"
-    },
-    {
-      "id": 372,
-      "name": "shelgon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-17T16:47:30.142Z"
     }
   ],
   "pokemon": {
@@ -178,6 +177,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:52:05.180Z",
       "lastPulledAt": "2026-09-16T22:52:05.180Z"
+    },
+    "56": {
+      "id": 56,
+      "name": "mankey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-19T01:05:51.603Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T01:05:51.603Z",
+      "lastPulledAt": "2026-09-19T01:05:51.603Z"
     },
     "74": {
       "id": 74,
