@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 42,
-  "updatedAt": "2026-09-19T19:23:26.973Z",
+  "totalPulls": 43,
+  "updatedAt": "2026-09-19T21:40:16.141Z",
   "lastPull": {
-    "id": 22,
-    "name": "fearow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "id": 472,
+    "name": "gliscor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
     "types": [
-      "normal",
+      "ground",
       "flying"
     ],
-    "totalStats": 442,
-    "grade": "R",
-    "pulledAt": "2026-09-19T19:23:26.973Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T21:40:16.141Z"
   },
   "pulls": [
+    {
+      "id": 472,
+      "name": "gliscor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T21:40:16.141Z"
+    },
     {
       "id": 22,
       "name": "fearow",
@@ -118,17 +130,6 @@
       "totalStats": 318,
       "grade": "N",
       "pulledAt": "2026-09-18T17:52:40.778Z"
-    },
-    {
-      "id": 301,
-      "name": "delcatty",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-09-18T14:30:11.865Z"
     }
   ],
   "pokemon": {
@@ -580,6 +581,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:38:27.233Z",
       "lastPulledAt": "2026-09-16T01:38:27.233Z"
+    },
+    "472": {
+      "id": 472,
+      "name": "gliscor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T21:40:16.141Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T21:40:16.141Z",
+      "lastPulledAt": "2026-09-19T21:40:16.141Z"
     },
     "565": {
       "id": 565,
