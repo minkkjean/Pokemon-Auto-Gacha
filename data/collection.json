@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 41,
-  "updatedAt": "2026-09-19T17:16:22.484Z",
+  "totalPulls": 42,
+  "updatedAt": "2026-09-19T19:23:26.973Z",
   "lastPull": {
-    "id": 1008,
-    "name": "miraidon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+    "id": 22,
+    "name": "fearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
     "types": [
-      "electric",
-      "dragon"
+      "normal",
+      "flying"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-09-19T17:16:22.484Z"
+    "totalStats": 442,
+    "grade": "R",
+    "pulledAt": "2026-09-19T19:23:26.973Z"
   },
   "pulls": [
+    {
+      "id": 22,
+      "name": "fearow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 442,
+      "grade": "R",
+      "pulledAt": "2026-09-19T19:23:26.973Z"
+    },
     {
       "id": 1008,
       "name": "miraidon",
@@ -117,18 +129,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-09-18T14:30:11.865Z"
-    },
-    {
-      "id": 87,
-      "name": "dewgong",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
-      "types": [
-        "water",
-        "ice"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-09-18T10:05:12.507Z"
     }
   ],
   "pokemon": {
@@ -147,6 +147,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:48:49.915Z",
       "lastPulledAt": "2026-09-16T01:48:49.915Z"
+    },
+    "22": {
+      "id": 22,
+      "name": "fearow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 442,
+      "grade": "R",
+      "pulledAt": "2026-09-19T19:23:26.973Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T19:23:26.973Z",
+      "lastPulledAt": "2026-09-19T19:23:26.973Z"
     },
     "36": {
       "id": 36,
