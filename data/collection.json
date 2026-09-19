@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 38,
-  "updatedAt": "2026-09-19T05:52:23.510Z",
+  "totalPulls": 39,
+  "updatedAt": "2026-09-19T10:45:01.016Z",
   "lastPull": {
-    "id": 939,
-    "name": "bellibolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+    "id": 366,
+    "name": "clamperl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
     "types": [
-      "electric"
+      "water"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-09-19T05:52:23.510Z"
+    "totalStats": 345,
+    "grade": "N",
+    "pulledAt": "2026-09-19T10:45:01.016Z"
   },
   "pulls": [
+    {
+      "id": 366,
+      "name": "clamperl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 345,
+      "grade": "N",
+      "pulledAt": "2026-09-19T10:45:01.016Z"
+    },
     {
       "id": 939,
       "name": "bellibolt",
@@ -117,17 +128,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-09-18T00:52:04.855Z"
-    },
-    {
-      "id": 262,
-      "name": "mightyena",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-17T22:47:50.101Z"
     }
   ],
   "pokemon": {
@@ -456,6 +456,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T05:45:38.840Z",
       "lastPulledAt": "2026-09-18T05:45:38.840Z"
+    },
+    "366": {
+      "id": 366,
+      "name": "clamperl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 345,
+      "grade": "N",
+      "pulledAt": "2026-09-19T10:45:01.016Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T10:45:01.016Z",
+      "lastPulledAt": "2026-09-19T10:45:01.016Z"
     },
     "372": {
       "id": 372,
