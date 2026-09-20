@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 46,
-  "updatedAt": "2026-09-20T07:06:59.489Z",
+  "totalPulls": 47,
+  "updatedAt": "2026-09-20T12:21:54.785Z",
   "lastPull": {
-    "id": 716,
-    "name": "xerneas",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
+    "id": 199,
+    "name": "slowking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
     "types": [
-      "fairy"
+      "water",
+      "psychic"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-09-20T07:06:59.489Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-09-20T12:21:54.785Z"
   },
   "pulls": [
+    {
+      "id": 199,
+      "name": "slowking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-20T12:21:54.785Z"
+    },
     {
       "id": 716,
       "name": "xerneas",
@@ -117,17 +130,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-19T05:52:23.510Z"
-    },
-    {
-      "id": 56,
-      "name": "mankey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-09-19T01:05:51.603Z"
     }
   ],
   "pokemon": {
@@ -301,6 +303,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T06:13:14.173Z",
       "lastPulledAt": "2026-09-17T06:13:14.173Z"
+    },
+    "199": {
+      "id": 199,
+      "name": "slowking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-20T12:21:54.785Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T12:21:54.785Z",
+      "lastPulledAt": "2026-09-20T12:21:54.785Z"
     },
     "240": {
       "id": 240,
