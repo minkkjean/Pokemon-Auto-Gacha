@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-20T01:42:11.572Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-20T07:06:59.489Z",
   "lastPull": {
-    "id": 889,
-    "name": "zamazenta",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
+    "id": 716,
+    "name": "xerneas",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
     "types": [
-      "fighting"
+      "fairy"
     ],
-    "totalStats": 660,
+    "totalStats": 680,
     "grade": "SSR",
-    "pulledAt": "2026-09-20T01:42:11.572Z"
+    "pulledAt": "2026-09-20T07:06:59.489Z"
   },
   "pulls": [
+    {
+      "id": 716,
+      "name": "xerneas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T07:06:59.489Z"
+    },
     {
       "id": 889,
       "name": "zamazenta",
@@ -117,18 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-19T01:05:51.603Z"
-    },
-    {
-      "id": 1018,
-      "name": "archaludon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
-      "types": [
-        "steel",
-        "dragon"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-18T22:53:40.341Z"
     }
   ],
   "pokemon": {
@@ -643,6 +642,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:54.408Z",
       "lastPulledAt": "2026-09-16T01:42:54.408Z"
+    },
+    "716": {
+      "id": 716,
+      "name": "xerneas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T07:06:59.489Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T07:06:59.489Z",
+      "lastPulledAt": "2026-09-20T07:06:59.489Z"
     },
     "728": {
       "id": 728,
