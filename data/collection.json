@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 44,
-  "updatedAt": "2026-09-19T23:39:30.355Z",
+  "totalPulls": 45,
+  "updatedAt": "2026-09-20T01:42:11.572Z",
   "lastPull": {
-    "id": 738,
-    "name": "vikavolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png",
+    "id": 889,
+    "name": "zamazenta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
     "types": [
-      "bug",
-      "electric"
+      "fighting"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-19T23:39:30.355Z"
+    "totalStats": 660,
+    "grade": "SSR",
+    "pulledAt": "2026-09-20T01:42:11.572Z"
   },
   "pulls": [
+    {
+      "id": 889,
+      "name": "zamazenta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 660,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T01:42:11.572Z"
+    },
     {
       "id": 738,
       "name": "vikavolt",
@@ -119,18 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-18T22:53:40.341Z"
-    },
-    {
-      "id": 448,
-      "name": "lucario",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
-      "types": [
-        "fighting",
-        "steel"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T20:47:55.567Z"
     }
   ],
   "pokemon": {
@@ -723,6 +721,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:46:04.256Z",
       "lastPulledAt": "2026-09-16T01:46:04.256Z"
+    },
+    "889": {
+      "id": 889,
+      "name": "zamazenta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 660,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T01:42:11.572Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T01:42:11.572Z",
+      "lastPulledAt": "2026-09-20T01:42:11.572Z"
     },
     "930": {
       "id": 930,
