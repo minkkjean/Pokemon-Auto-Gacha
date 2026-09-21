@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 52,
-  "updatedAt": "2026-09-21T01:33:42.792Z",
+  "totalPulls": 53,
+  "updatedAt": "2026-09-21T07:10:18.879Z",
   "lastPull": {
-    "id": 709,
-    "name": "trevenant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+    "id": 950,
+    "name": "klawf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
     "types": [
-      "ghost",
-      "grass"
+      "rock"
     ],
-    "totalStats": 474,
+    "totalStats": 450,
     "grade": "R",
-    "pulledAt": "2026-09-21T01:33:42.792Z"
+    "pulledAt": "2026-09-21T07:10:18.879Z"
   },
   "pulls": [
+    {
+      "id": 950,
+      "name": "klawf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-21T07:10:18.879Z"
+    },
     {
       "id": 709,
       "name": "trevenant",
@@ -117,18 +127,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-19T23:39:30.355Z"
-    },
-    {
-      "id": 472,
-      "name": "gliscor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
-      "types": [
-        "ground",
-        "flying"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T21:40:16.141Z"
     }
   ],
   "pokemon": {
@@ -843,6 +841,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T05:52:23.510Z",
       "lastPulledAt": "2026-09-19T05:52:23.510Z"
+    },
+    "950": {
+      "id": 950,
+      "name": "klawf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-21T07:10:18.879Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T07:10:18.879Z",
+      "lastPulledAt": "2026-09-21T07:10:18.879Z"
     },
     "995": {
       "id": 995,
