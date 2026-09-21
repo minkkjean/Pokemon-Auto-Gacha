@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 53,
-  "updatedAt": "2026-09-21T07:10:18.879Z",
+  "totalPulls": 54,
+  "updatedAt": "2026-09-21T14:20:23.986Z",
   "lastPull": {
-    "id": 950,
-    "name": "klawf",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+    "id": 869,
+    "name": "alcremie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
     "types": [
-      "rock"
+      "fairy"
     ],
-    "totalStats": 450,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-09-21T07:10:18.879Z"
+    "pulledAt": "2026-09-21T14:20:23.986Z"
   },
   "pulls": [
+    {
+      "id": 869,
+      "name": "alcremie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-21T14:20:23.986Z"
+    },
     {
       "id": 950,
       "name": "klawf",
@@ -115,18 +126,6 @@
       "totalStats": 660,
       "grade": "SSR",
       "pulledAt": "2026-09-20T01:42:11.572Z"
-    },
-    {
-      "id": 738,
-      "name": "vikavolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png",
-      "types": [
-        "bug",
-        "electric"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-19T23:39:30.355Z"
     }
   ],
   "pokemon": {
@@ -780,6 +779,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T14:00:16.603Z",
       "lastPulledAt": "2026-09-19T14:00:16.603Z"
+    },
+    "869": {
+      "id": 869,
+      "name": "alcremie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-21T14:20:23.986Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T14:20:23.986Z",
+      "lastPulledAt": "2026-09-21T14:20:23.986Z"
     },
     "870": {
       "id": 870,
