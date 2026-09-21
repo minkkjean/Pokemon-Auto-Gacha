@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 54,
-  "updatedAt": "2026-09-21T14:20:23.986Z",
+  "totalPulls": 55,
+  "updatedAt": "2026-09-21T19:40:46.052Z",
   "lastPull": {
-    "id": 869,
-    "name": "alcremie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+    "id": 714,
+    "name": "noibat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
     "types": [
-      "fairy"
+      "flying",
+      "dragon"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-09-21T14:20:23.986Z"
+    "totalStats": 245,
+    "grade": "N",
+    "pulledAt": "2026-09-21T19:40:46.052Z"
   },
   "pulls": [
+    {
+      "id": 714,
+      "name": "noibat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-09-21T19:40:46.052Z"
+    },
     {
       "id": 869,
       "name": "alcremie",
@@ -115,17 +128,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-09-20T07:06:59.489Z"
-    },
-    {
-      "id": 889,
-      "name": "zamazenta",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 660,
-      "grade": "SSR",
-      "pulledAt": "2026-09-20T01:42:11.572Z"
     }
   ],
   "pokemon": {
@@ -686,6 +688,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:54.408Z",
       "lastPulledAt": "2026-09-21T01:33:42.792Z"
+    },
+    "714": {
+      "id": 714,
+      "name": "noibat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-09-21T19:40:46.052Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T19:40:46.052Z",
+      "lastPulledAt": "2026-09-21T19:40:46.052Z"
     },
     "716": {
       "id": 716,
