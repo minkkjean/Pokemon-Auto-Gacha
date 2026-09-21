@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 51,
-  "updatedAt": "2026-09-20T23:28:33.814Z",
+  "totalPulls": 52,
+  "updatedAt": "2026-09-21T01:33:42.792Z",
   "lastPull": {
-    "id": 763,
-    "name": "tsareena",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
+    "id": 709,
+    "name": "trevenant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
     "types": [
+      "ghost",
       "grass"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-09-20T23:28:33.814Z"
+    "totalStats": 474,
+    "grade": "R",
+    "pulledAt": "2026-09-21T01:33:42.792Z"
   },
   "pulls": [
+    {
+      "id": 709,
+      "name": "trevenant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-09-21T01:33:42.792Z"
+    },
     {
       "id": 763,
       "name": "tsareena",
@@ -116,18 +129,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-09-19T21:40:16.141Z"
-    },
-    {
-      "id": 22,
-      "name": "fearow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 442,
-      "grade": "R",
-      "pulledAt": "2026-09-19T19:23:26.973Z"
     }
   ],
   "pokemon": {
@@ -684,10 +685,10 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-09-16T01:42:54.408Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:54.408Z",
-      "lastPulledAt": "2026-09-16T01:42:54.408Z"
+      "lastPulledAt": "2026-09-21T01:33:42.792Z"
     },
     "716": {
       "id": 716,
