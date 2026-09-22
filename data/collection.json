@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 59,
-  "updatedAt": "2026-09-22T12:07:35.679Z",
+  "totalPulls": 60,
+  "updatedAt": "2026-09-22T16:58:18.359Z",
   "lastPull": {
-    "id": 542,
-    "name": "leavanny",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
+    "id": 660,
+    "name": "diggersby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
     "types": [
-      "bug",
-      "grass"
+      "normal",
+      "ground"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-22T12:07:35.679Z"
+    "totalStats": 423,
+    "grade": "R",
+    "pulledAt": "2026-09-22T16:58:18.359Z"
   },
   "pulls": [
+    {
+      "id": 660,
+      "name": "diggersby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+      "types": [
+        "normal",
+        "ground"
+      ],
+      "totalStats": 423,
+      "grade": "R",
+      "pulledAt": "2026-09-22T16:58:18.359Z"
+    },
     {
       "id": 542,
       "name": "leavanny",
@@ -117,18 +129,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-09-20T23:28:33.814Z"
-    },
-    {
-      "id": 995,
-      "name": "iron-thorns",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
-      "types": [
-        "rock",
-        "electric"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T21:29:26.648Z"
     }
   ],
   "pokemon": {
@@ -704,6 +704,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:50:51.282Z",
       "lastPulledAt": "2026-09-16T01:50:51.282Z"
+    },
+    "660": {
+      "id": 660,
+      "name": "diggersby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
+      "types": [
+        "normal",
+        "ground"
+      ],
+      "totalStats": 423,
+      "grade": "R",
+      "pulledAt": "2026-09-22T16:58:18.359Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T16:58:18.359Z",
+      "lastPulledAt": "2026-09-22T16:58:18.359Z"
     },
     "670": {
       "id": 670,
