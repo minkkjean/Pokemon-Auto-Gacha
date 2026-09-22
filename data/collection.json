@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 56,
-  "updatedAt": "2026-09-21T22:51:19.790Z",
+  "totalPulls": 57,
+  "updatedAt": "2026-09-22T01:32:51.252Z",
   "lastPull": {
-    "id": 992,
-    "name": "iron-hands",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
+    "id": 266,
+    "name": "silcoon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png",
     "types": [
-      "fighting",
-      "electric"
+      "bug"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-21T22:51:19.790Z"
+    "totalStats": 205,
+    "grade": "N",
+    "pulledAt": "2026-09-22T01:32:51.252Z"
   },
   "pulls": [
+    {
+      "id": 266,
+      "name": "silcoon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-09-22T01:32:51.252Z"
+    },
     {
       "id": 992,
       "name": "iron-hands",
@@ -117,18 +127,6 @@
       "totalStats": 253,
       "grade": "N",
       "pulledAt": "2026-09-20T16:25:50.353Z"
-    },
-    {
-      "id": 199,
-      "name": "slowking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-20T12:21:54.785Z"
     }
   ],
   "pokemon": {
@@ -378,6 +376,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T22:47:50.101Z",
       "lastPulledAt": "2026-09-17T22:47:50.101Z"
+    },
+    "266": {
+      "id": 266,
+      "name": "silcoon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-09-22T01:32:51.252Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T01:32:51.252Z",
+      "lastPulledAt": "2026-09-22T01:32:51.252Z"
     },
     "272": {
       "id": 272,
