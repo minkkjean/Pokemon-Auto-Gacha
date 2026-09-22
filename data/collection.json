@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 58,
-  "updatedAt": "2026-09-22T06:47:15.558Z",
+  "totalPulls": 59,
+  "updatedAt": "2026-09-22T12:07:35.679Z",
   "lastPull": {
-    "id": 670,
-    "name": "floette",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png",
+    "id": 542,
+    "name": "leavanny",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
     "types": [
-      "fairy"
+      "bug",
+      "grass"
     ],
-    "totalStats": 371,
-    "grade": "N",
-    "pulledAt": "2026-09-22T06:47:15.558Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-22T12:07:35.679Z"
   },
   "pulls": [
+    {
+      "id": 542,
+      "name": "leavanny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T12:07:35.679Z"
+    },
     {
       "id": 670,
       "name": "floette",
@@ -116,17 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-20T21:29:26.648Z"
-    },
-    {
-      "id": 513,
-      "name": "pansear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 316,
-      "grade": "N",
-      "pulledAt": "2026-09-20T19:00:05.566Z"
     }
   ],
   "pokemon": {
@@ -655,6 +657,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T19:00:05.566Z",
       "lastPulledAt": "2026-09-20T19:00:05.566Z"
+    },
+    "542": {
+      "id": 542,
+      "name": "leavanny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T12:07:35.679Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T12:07:35.679Z",
+      "lastPulledAt": "2026-09-22T12:07:35.679Z"
     },
     "565": {
       "id": 565,
