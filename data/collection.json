@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 65,
-  "updatedAt": "2026-09-23T12:10:13.853Z",
+  "totalPulls": 66,
+  "updatedAt": "2026-09-23T17:15:18.188Z",
   "lastPull": {
-    "id": 1004,
-    "name": "chi-yu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+    "id": 79,
+    "name": "slowpoke",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
     "types": [
-      "dark",
-      "fire"
+      "water",
+      "psychic"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-23T12:10:13.853Z"
+    "totalStats": 315,
+    "grade": "N",
+    "pulledAt": "2026-09-23T17:15:18.188Z"
   },
   "pulls": [
+    {
+      "id": 79,
+      "name": "slowpoke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-09-23T17:15:18.188Z"
+    },
     {
       "id": 1004,
       "name": "chi-yu",
@@ -119,18 +131,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-09-22T01:32:51.252Z"
-    },
-    {
-      "id": 992,
-      "name": "iron-hands",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
-      "types": [
-        "fighting",
-        "electric"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-21T22:51:19.790Z"
     }
   ],
   "pokemon": {
@@ -242,6 +242,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T16:52:02.615Z",
       "lastPulledAt": "2026-09-16T16:52:02.615Z"
+    },
+    "79": {
+      "id": 79,
+      "name": "slowpoke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-09-23T17:15:18.188Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T17:15:18.188Z",
+      "lastPulledAt": "2026-09-23T17:15:18.188Z"
     },
     "87": {
       "id": 87,
