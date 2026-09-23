@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 64,
-  "updatedAt": "2026-09-23T06:33:57.429Z",
+  "totalPulls": 65,
+  "updatedAt": "2026-09-23T12:10:13.853Z",
   "lastPull": {
-    "id": 1014,
-    "name": "okidogi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+    "id": 1004,
+    "name": "chi-yu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
     "types": [
-      "poison",
-      "fighting"
+      "dark",
+      "fire"
     ],
-    "totalStats": 555,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-09-23T06:33:57.429Z"
+    "pulledAt": "2026-09-23T12:10:13.853Z"
   },
   "pulls": [
+    {
+      "id": 1004,
+      "name": "chi-yu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T12:10:13.853Z"
+    },
     {
       "id": 1014,
       "name": "okidogi",
@@ -119,18 +131,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-21T22:51:19.790Z"
-    },
-    {
-      "id": 714,
-      "name": "noibat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
-      "types": [
-        "flying",
-        "dragon"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-09-21T19:40:46.052Z"
     }
   ],
   "pokemon": {
@@ -1047,6 +1047,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:49:26.554Z",
       "lastPulledAt": "2026-09-16T01:49:26.554Z"
+    },
+    "1004": {
+      "id": 1004,
+      "name": "chi-yu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T12:10:13.853Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T12:10:13.853Z",
+      "lastPulledAt": "2026-09-23T12:10:13.853Z"
     },
     "1008": {
       "id": 1008,
