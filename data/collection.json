@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 62,
-  "updatedAt": "2026-09-22T22:57:07.461Z",
+  "totalPulls": 63,
+  "updatedAt": "2026-09-23T01:25:11.508Z",
   "lastPull": {
-    "id": 818,
-    "name": "inteleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
+    "id": 845,
+    "name": "cramorant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
     "types": [
+      "flying",
       "water"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-09-22T22:57:07.461Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-09-23T01:25:11.508Z"
   },
   "pulls": [
+    {
+      "id": 845,
+      "name": "cramorant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-23T01:25:11.508Z"
+    },
     {
       "id": 818,
       "name": "inteleon",
@@ -117,17 +130,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-21T14:20:23.986Z"
-    },
-    {
-      "id": 950,
-      "name": "klawf",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-09-21T07:10:18.879Z"
     }
   ],
   "pokemon": {
@@ -858,6 +860,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T22:57:07.461Z",
       "lastPulledAt": "2026-09-22T22:57:07.461Z"
+    },
+    "845": {
+      "id": 845,
+      "name": "cramorant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-23T01:25:11.508Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T01:25:11.508Z",
+      "lastPulledAt": "2026-09-23T01:25:11.508Z"
     },
     "862": {
       "id": 862,
