@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 67,
-  "updatedAt": "2026-09-23T20:30:47.016Z",
+  "totalPulls": 68,
+  "updatedAt": "2026-09-23T23:08:48.793Z",
   "lastPull": {
-    "id": 849,
-    "name": "toxtricity-amped",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
+    "id": 962,
+    "name": "bombirdier",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
     "types": [
-      "electric",
-      "poison"
+      "flying",
+      "dark"
     ],
-    "totalStats": 502,
-    "grade": "SR",
-    "pulledAt": "2026-09-23T20:30:47.016Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-09-23T23:08:48.793Z"
   },
   "pulls": [
+    {
+      "id": 962,
+      "name": "bombirdier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
+      "types": [
+        "flying",
+        "dark"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-23T23:08:48.793Z"
+    },
     {
       "id": 849,
       "name": "toxtricity-amped",
@@ -121,17 +133,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-22T12:07:35.679Z"
-    },
-    {
-      "id": 670,
-      "name": "floette",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 371,
-      "grade": "N",
-      "pulledAt": "2026-09-22T06:47:15.558Z"
     }
   ],
   "pokemon": {
@@ -1033,6 +1034,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T07:10:18.879Z",
       "lastPulledAt": "2026-09-21T07:10:18.879Z"
+    },
+    "962": {
+      "id": 962,
+      "name": "bombirdier",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
+      "types": [
+        "flying",
+        "dark"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-23T23:08:48.793Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T23:08:48.793Z",
+      "lastPulledAt": "2026-09-23T23:08:48.793Z"
     },
     "992": {
       "id": 992,
