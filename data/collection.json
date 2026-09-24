@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 69,
-  "updatedAt": "2026-09-24T01:26:06.648Z",
+  "totalPulls": 70,
+  "updatedAt": "2026-09-24T06:40:03.454Z",
   "lastPull": {
-    "id": 20,
-    "name": "raticate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "id": 710,
+    "name": "pumpkaboo-average",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
     "types": [
-      "normal"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 413,
-    "grade": "R",
-    "pulledAt": "2026-09-24T01:26:06.648Z"
+    "totalStats": 335,
+    "grade": "N",
+    "pulledAt": "2026-09-24T06:40:03.454Z"
   },
   "pulls": [
+    {
+      "id": 710,
+      "name": "pumpkaboo-average",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-09-24T06:40:03.454Z"
+    },
     {
       "id": 20,
       "name": "raticate",
@@ -119,18 +132,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-22T20:07:18.543Z"
-    },
-    {
-      "id": 660,
-      "name": "diggersby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
-      "types": [
-        "normal",
-        "ground"
-      ],
-      "totalStats": 423,
-      "grade": "R",
-      "pulledAt": "2026-09-22T16:58:18.359Z"
     }
   ],
   "pokemon": {
@@ -784,6 +785,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:54.408Z",
       "lastPulledAt": "2026-09-21T01:33:42.792Z"
+    },
+    "710": {
+      "id": 710,
+      "name": "pumpkaboo-average",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-09-24T06:40:03.454Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T06:40:03.454Z",
+      "lastPulledAt": "2026-09-24T06:40:03.454Z"
     },
     "714": {
       "id": 714,
