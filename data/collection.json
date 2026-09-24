@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 71,
-  "updatedAt": "2026-09-24T12:17:24.617Z",
+  "totalPulls": 72,
+  "updatedAt": "2026-09-24T17:22:12.491Z",
   "lastPull": {
-    "id": 94,
-    "name": "gengar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "id": 874,
+    "name": "stonjourner",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
     "types": [
-      "ghost",
-      "poison"
+      "rock"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-24T12:17:24.617Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-09-24T17:22:12.491Z"
   },
   "pulls": [
+    {
+      "id": 874,
+      "name": "stonjourner",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-24T17:22:12.491Z"
+    },
     {
       "id": 94,
       "name": "gengar",
@@ -121,17 +131,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-09-23T01:25:11.508Z"
-    },
-    {
-      "id": 818,
-      "name": "inteleon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T22:57:07.461Z"
     }
   ],
   "pokemon": {
@@ -1003,6 +1002,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:46:04.256Z",
       "lastPulledAt": "2026-09-16T01:46:04.256Z"
+    },
+    "874": {
+      "id": 874,
+      "name": "stonjourner",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-24T17:22:12.491Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T17:22:12.491Z",
+      "lastPulledAt": "2026-09-24T17:22:12.491Z"
     },
     "882": {
       "id": 882,
