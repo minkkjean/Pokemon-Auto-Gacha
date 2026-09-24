@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 70,
-  "updatedAt": "2026-09-24T06:40:03.454Z",
+  "totalPulls": 71,
+  "updatedAt": "2026-09-24T12:17:24.617Z",
   "lastPull": {
-    "id": 710,
-    "name": "pumpkaboo-average",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
+    "id": 94,
+    "name": "gengar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
     "types": [
       "ghost",
-      "grass"
+      "poison"
     ],
-    "totalStats": 335,
-    "grade": "N",
-    "pulledAt": "2026-09-24T06:40:03.454Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-24T12:17:24.617Z"
   },
   "pulls": [
+    {
+      "id": 94,
+      "name": "gengar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T12:17:24.617Z"
+    },
     {
       "id": 710,
       "name": "pumpkaboo-average",
@@ -120,18 +132,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-22T22:57:07.461Z"
-    },
-    {
-      "id": 882,
-      "name": "dracovish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
-      "types": [
-        "water",
-        "dragon"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T20:07:18.543Z"
     }
   ],
   "pokemon": {
@@ -290,6 +290,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T10:05:12.507Z",
       "lastPulledAt": "2026-09-18T10:05:12.507Z"
+    },
+    "94": {
+      "id": 94,
+      "name": "gengar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T12:17:24.617Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T12:17:24.617Z",
+      "lastPulledAt": "2026-09-24T12:17:24.617Z"
     },
     "113": {
       "id": 113,
