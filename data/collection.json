@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 75,
-  "updatedAt": "2026-09-25T01:54:27.397Z",
+  "totalPulls": 76,
+  "updatedAt": "2026-09-25T07:35:22.101Z",
   "lastPull": {
-    "id": 194,
-    "name": "wooper",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+    "id": 506,
+    "name": "lillipup",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
     "types": [
-      "water",
-      "ground"
+      "normal"
     ],
-    "totalStats": 210,
+    "totalStats": 275,
     "grade": "N",
-    "pulledAt": "2026-09-25T01:54:27.397Z"
+    "pulledAt": "2026-09-25T07:35:22.101Z"
   },
   "pulls": [
+    {
+      "id": 506,
+      "name": "lillipup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-25T07:35:22.101Z"
+    },
     {
       "id": 194,
       "name": "wooper",
@@ -119,18 +129,6 @@
       "totalStats": 502,
       "grade": "SR",
       "pulledAt": "2026-09-23T20:30:47.016Z"
-    },
-    {
-      "id": 79,
-      "name": "slowpoke",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 315,
-      "grade": "N",
-      "pulledAt": "2026-09-23T17:15:18.188Z"
     }
   ],
   "pokemon": {
@@ -723,6 +721,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T21:40:16.141Z",
       "lastPulledAt": "2026-09-19T21:40:16.141Z"
+    },
+    "506": {
+      "id": 506,
+      "name": "lillipup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-25T07:35:22.101Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T07:35:22.101Z",
+      "lastPulledAt": "2026-09-25T07:35:22.101Z"
     },
     "513": {
       "id": 513,
