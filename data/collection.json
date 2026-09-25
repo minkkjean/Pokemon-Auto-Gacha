@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 76,
-  "updatedAt": "2026-09-25T07:35:22.101Z",
+  "totalPulls": 77,
+  "updatedAt": "2026-09-25T12:58:35.145Z",
   "lastPull": {
-    "id": 506,
-    "name": "lillipup",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+    "id": 656,
+    "name": "froakie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 275,
+    "totalStats": 314,
     "grade": "N",
-    "pulledAt": "2026-09-25T07:35:22.101Z"
+    "pulledAt": "2026-09-25T12:58:35.145Z"
   },
   "pulls": [
+    {
+      "id": 656,
+      "name": "froakie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 314,
+      "grade": "N",
+      "pulledAt": "2026-09-25T12:58:35.145Z"
+    },
     {
       "id": 506,
       "name": "lillipup",
@@ -117,18 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-23T23:08:48.793Z"
-    },
-    {
-      "id": 849,
-      "name": "toxtricity-amped",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
-      "types": [
-        "electric",
-        "poison"
-      ],
-      "totalStats": 502,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T20:30:47.016Z"
     }
   ],
   "pokemon": {
@@ -798,6 +797,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:50:51.282Z",
       "lastPulledAt": "2026-09-16T01:50:51.282Z"
+    },
+    "656": {
+      "id": 656,
+      "name": "froakie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 314,
+      "grade": "N",
+      "pulledAt": "2026-09-25T12:58:35.145Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T12:58:35.145Z",
+      "lastPulledAt": "2026-09-25T12:58:35.145Z"
     },
     "660": {
       "id": 660,
