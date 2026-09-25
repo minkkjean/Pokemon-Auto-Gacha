@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 78,
-  "updatedAt": "2026-09-25T17:54:49.735Z",
+  "totalPulls": 79,
+  "updatedAt": "2026-09-25T21:26:17.863Z",
   "lastPull": {
-    "id": 559,
-    "name": "scraggy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+    "id": 466,
+    "name": "electivire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
     "types": [
-      "dark",
-      "fighting"
+      "electric"
     ],
-    "totalStats": 348,
-    "grade": "N",
-    "pulledAt": "2026-09-25T17:54:49.735Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-09-25T21:26:17.863Z"
   },
   "pulls": [
+    {
+      "id": 466,
+      "name": "electivire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T21:26:17.863Z"
+    },
     {
       "id": 559,
       "name": "scraggy",
@@ -118,17 +128,6 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-09-24T06:40:03.454Z"
-    },
-    {
-      "id": 20,
-      "name": "raticate",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 413,
-      "grade": "R",
-      "pulledAt": "2026-09-24T01:26:06.648Z"
     }
   ],
   "pokemon": {
@@ -701,10 +700,10 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-09-16T01:38:27.233Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:38:27.233Z",
-      "lastPulledAt": "2026-09-16T01:38:27.233Z"
+      "lastPulledAt": "2026-09-25T21:26:17.863Z"
     },
     "472": {
       "id": 472,
