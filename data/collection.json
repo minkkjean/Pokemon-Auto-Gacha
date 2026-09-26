@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 81,
-  "updatedAt": "2026-09-26T04:56:19.711Z",
+  "totalPulls": 82,
+  "updatedAt": "2026-09-26T09:48:13.642Z",
   "lastPull": {
-    "id": 631,
-    "name": "heatmor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+    "id": 110,
+    "name": "weezing",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
     "types": [
-      "fire"
+      "poison"
     ],
-    "totalStats": 484,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-09-26T04:56:19.711Z"
+    "pulledAt": "2026-09-26T09:48:13.642Z"
   },
   "pulls": [
+    {
+      "id": 110,
+      "name": "weezing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-26T09:48:13.642Z"
+    },
     {
       "id": 631,
       "name": "heatmor",
@@ -116,17 +127,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-09-24T20:41:59.249Z"
-    },
-    {
-      "id": 874,
-      "name": "stonjourner",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-09-24T17:22:12.491Z"
     }
   ],
   "pokemon": {
@@ -301,6 +301,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T12:17:24.617Z",
       "lastPulledAt": "2026-09-24T12:17:24.617Z"
+    },
+    "110": {
+      "id": 110,
+      "name": "weezing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-26T09:48:13.642Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T09:48:13.642Z",
+      "lastPulledAt": "2026-09-26T09:48:13.642Z"
     },
     "113": {
       "id": 113,
