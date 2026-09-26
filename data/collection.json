@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 80,
-  "updatedAt": "2026-09-26T00:05:59.321Z",
+  "totalPulls": 81,
+  "updatedAt": "2026-09-26T04:56:19.711Z",
   "lastPull": {
-    "id": 880,
-    "name": "dracozolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+    "id": 631,
+    "name": "heatmor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
     "types": [
-      "electric",
-      "dragon"
+      "fire"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-09-26T00:05:59.321Z"
+    "totalStats": 484,
+    "grade": "R",
+    "pulledAt": "2026-09-26T04:56:19.711Z"
   },
   "pulls": [
+    {
+      "id": 631,
+      "name": "heatmor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 484,
+      "grade": "R",
+      "pulledAt": "2026-09-26T04:56:19.711Z"
+    },
     {
       "id": 880,
       "name": "dracozolt",
@@ -117,18 +127,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-09-24T17:22:12.491Z"
-    },
-    {
-      "id": 94,
-      "name": "gengar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
-      "types": [
-        "ghost",
-        "poison"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-24T12:17:24.617Z"
     }
   ],
   "pokemon": {
@@ -814,6 +812,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:50:51.282Z",
       "lastPulledAt": "2026-09-16T01:50:51.282Z"
+    },
+    "631": {
+      "id": 631,
+      "name": "heatmor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 484,
+      "grade": "R",
+      "pulledAt": "2026-09-26T04:56:19.711Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T04:56:19.711Z",
+      "lastPulledAt": "2026-09-26T04:56:19.711Z"
     },
     "656": {
       "id": 656,
