@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 87,
-  "updatedAt": "2026-09-27T01:20:23.815Z",
+  "totalPulls": 88,
+  "updatedAt": "2026-09-27T07:01:04.176Z",
   "lastPull": {
-    "id": 72,
-    "name": "tentacool",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
+    "id": 187,
+    "name": "hoppip",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
     "types": [
-      "water",
-      "poison"
+      "grass",
+      "flying"
     ],
-    "totalStats": 335,
+    "totalStats": 250,
     "grade": "N",
-    "pulledAt": "2026-09-27T01:20:23.815Z"
+    "pulledAt": "2026-09-27T07:01:04.176Z"
   },
   "pulls": [
+    {
+      "id": 187,
+      "name": "hoppip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-09-27T07:01:04.176Z"
+    },
     {
       "id": 72,
       "name": "tentacool",
@@ -115,18 +127,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-09-25T21:26:17.863Z"
-    },
-    {
-      "id": 559,
-      "name": "scraggy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
-      "types": [
-        "dark",
-        "fighting"
-      ],
-      "totalStats": 348,
-      "grade": "N",
-      "pulledAt": "2026-09-25T17:54:49.735Z"
     }
   ],
   "pokemon": {
@@ -392,6 +392,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:36:23.842Z",
       "lastPulledAt": "2026-09-16T06:36:23.842Z"
+    },
+    "187": {
+      "id": 187,
+      "name": "hoppip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-09-27T07:01:04.176Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T07:01:04.176Z",
+      "lastPulledAt": "2026-09-27T07:01:04.176Z"
     },
     "189": {
       "id": 189,
