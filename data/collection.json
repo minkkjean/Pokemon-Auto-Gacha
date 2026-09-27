@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 86,
-  "updatedAt": "2026-09-26T22:58:58.922Z",
+  "totalPulls": 87,
+  "updatedAt": "2026-09-27T01:20:23.815Z",
   "lastPull": {
-    "id": 110,
-    "name": "weezing",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+    "id": 72,
+    "name": "tentacool",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
     "types": [
+      "water",
       "poison"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-26T22:58:58.922Z"
+    "totalStats": 335,
+    "grade": "N",
+    "pulledAt": "2026-09-27T01:20:23.815Z"
   },
   "pulls": [
+    {
+      "id": 72,
+      "name": "tentacool",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-09-27T01:20:23.815Z"
+    },
     {
       "id": 110,
       "name": "weezing",
@@ -114,17 +127,6 @@
       "totalStats": 348,
       "grade": "N",
       "pulledAt": "2026-09-25T17:54:49.735Z"
-    },
-    {
-      "id": 656,
-      "name": "froakie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 314,
-      "grade": "N",
-      "pulledAt": "2026-09-25T12:58:35.145Z"
     }
   ],
   "pokemon": {
@@ -235,6 +237,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:05:51.603Z",
       "lastPulledAt": "2026-09-19T01:05:51.603Z"
+    },
+    "72": {
+      "id": 72,
+      "name": "tentacool",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-09-27T01:20:23.815Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T01:20:23.815Z",
+      "lastPulledAt": "2026-09-27T01:20:23.815Z"
     },
     "74": {
       "id": 74,
