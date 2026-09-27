@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 91,
-  "updatedAt": "2026-09-27T20:27:54.475Z",
+  "totalPulls": 92,
+  "updatedAt": "2026-09-27T23:22:01.736Z",
   "lastPull": {
-    "id": 317,
-    "name": "swalot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+    "id": 465,
+    "name": "tangrowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
     "types": [
-      "poison"
+      "grass"
     ],
-    "totalStats": 467,
-    "grade": "R",
-    "pulledAt": "2026-09-27T20:27:54.475Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-09-27T23:22:01.736Z"
   },
   "pulls": [
+    {
+      "id": 465,
+      "name": "tangrowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T23:22:01.736Z"
+    },
     {
       "id": 317,
       "name": "swalot",
@@ -114,17 +125,6 @@
       "totalStats": 309,
       "grade": "N",
       "pulledAt": "2026-09-26T13:56:22.764Z"
-    },
-    {
-      "id": 110,
-      "name": "weezing",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-26T09:48:13.642Z"
     }
   ],
   "pokemon": {
@@ -793,6 +793,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T20:41:59.249Z",
       "lastPulledAt": "2026-09-24T20:41:59.249Z"
+    },
+    "465": {
+      "id": 465,
+      "name": "tangrowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T23:22:01.736Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T23:22:01.736Z",
+      "lastPulledAt": "2026-09-27T23:22:01.736Z"
     },
     "466": {
       "id": 466,
