@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 93,
-  "updatedAt": "2026-09-28T01:55:54.383Z",
+  "totalPulls": 94,
+  "updatedAt": "2026-09-28T08:36:33.303Z",
   "lastPull": {
-    "id": 692,
-    "name": "clauncher",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+    "id": 460,
+    "name": "abomasnow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
     "types": [
-      "water"
+      "grass",
+      "ice"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-09-28T01:55:54.383Z"
+    "totalStats": 494,
+    "grade": "R",
+    "pulledAt": "2026-09-28T08:36:33.303Z"
   },
   "pulls": [
+    {
+      "id": 460,
+      "name": "abomasnow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "totalStats": 494,
+      "grade": "R",
+      "pulledAt": "2026-09-28T08:36:33.303Z"
+    },
     {
       "id": 692,
       "name": "clauncher",
@@ -114,17 +127,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-09-26T20:12:39.263Z"
-    },
-    {
-      "id": 116,
-      "name": "horsea",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-09-26T17:42:59.873Z"
     }
   ],
   "pokemon": {
@@ -777,6 +779,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:03.879Z",
       "lastPulledAt": "2026-09-16T01:42:03.879Z"
+    },
+    "460": {
+      "id": 460,
+      "name": "abomasnow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "totalStats": 494,
+      "grade": "R",
+      "pulledAt": "2026-09-28T08:36:33.303Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T08:36:33.303Z",
+      "lastPulledAt": "2026-09-28T08:36:33.303Z"
     },
     "461": {
       "id": 461,
