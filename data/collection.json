@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 94,
-  "updatedAt": "2026-09-28T08:36:33.303Z",
+  "totalPulls": 95,
+  "updatedAt": "2026-09-28T17:01:00.716Z",
   "lastPull": {
-    "id": 460,
-    "name": "abomasnow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+    "id": 229,
+    "name": "houndoom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
     "types": [
-      "grass",
-      "ice"
+      "dark",
+      "fire"
     ],
-    "totalStats": 494,
-    "grade": "R",
-    "pulledAt": "2026-09-28T08:36:33.303Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-28T17:01:00.716Z"
   },
   "pulls": [
+    {
+      "id": 229,
+      "name": "houndoom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T17:01:00.716Z"
+    },
     {
       "id": 460,
       "name": "abomasnow",
@@ -116,17 +128,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-26T22:58:58.922Z"
-    },
-    {
-      "id": 383,
-      "name": "groudon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-09-26T20:12:39.263Z"
     }
   ],
   "pokemon": {
@@ -456,6 +457,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T12:21:54.785Z",
       "lastPulledAt": "2026-09-20T12:21:54.785Z"
+    },
+    "229": {
+      "id": 229,
+      "name": "houndoom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T17:01:00.716Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T17:01:00.716Z",
+      "lastPulledAt": "2026-09-28T17:01:00.716Z"
     },
     "240": {
       "id": 240,
