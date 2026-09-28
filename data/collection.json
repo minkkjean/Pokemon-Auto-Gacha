@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 95,
-  "updatedAt": "2026-09-28T17:01:00.716Z",
+  "totalPulls": 96,
+  "updatedAt": "2026-09-28T22:31:58.626Z",
   "lastPull": {
-    "id": 229,
-    "name": "houndoom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+    "id": 559,
+    "name": "scraggy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
     "types": [
       "dark",
-      "fire"
+      "fighting"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-28T17:01:00.716Z"
+    "totalStats": 348,
+    "grade": "N",
+    "pulledAt": "2026-09-28T22:31:58.626Z"
   },
   "pulls": [
+    {
+      "id": 559,
+      "name": "scraggy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-09-28T22:31:58.626Z"
+    },
     {
       "id": 229,
       "name": "houndoom",
@@ -117,17 +129,6 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-09-27T01:20:23.815Z"
-    },
-    {
-      "id": 110,
-      "name": "weezing",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-26T22:58:58.922Z"
     }
   ],
   "pokemon": {
@@ -932,10 +933,10 @@
       "totalStats": 348,
       "grade": "N",
       "pulledAt": "2026-09-25T17:54:49.735Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T17:54:49.735Z",
-      "lastPulledAt": "2026-09-25T17:54:49.735Z"
+      "lastPulledAt": "2026-09-28T22:31:58.626Z"
     },
     "565": {
       "id": 565,
