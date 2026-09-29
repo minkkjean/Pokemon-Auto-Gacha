@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 100,
-  "updatedAt": "2026-09-29T20:00:02.094Z",
+  "totalPulls": 101,
+  "updatedAt": "2026-09-29T23:39:26.283Z",
   "lastPull": {
-    "id": 959,
-    "name": "tinkaton",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+    "id": 327,
+    "name": "spinda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
     "types": [
-      "fairy",
-      "steel"
+      "normal"
     ],
-    "totalStats": 506,
-    "grade": "SR",
-    "pulledAt": "2026-09-29T20:00:02.094Z"
+    "totalStats": 360,
+    "grade": "N",
+    "pulledAt": "2026-09-29T23:39:26.283Z"
   },
   "pulls": [
+    {
+      "id": 327,
+      "name": "spinda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-09-29T23:39:26.283Z"
+    },
     {
       "id": 959,
       "name": "tinkaton",
@@ -118,17 +128,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-09-27T23:22:01.736Z"
-    },
-    {
-      "id": 317,
-      "name": "swalot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 467,
-      "grade": "R",
-      "pulledAt": "2026-09-27T20:27:54.475Z"
     }
   ],
   "pokemon": {
@@ -673,6 +672,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:53.604Z",
       "lastPulledAt": "2026-09-16T01:43:53.604Z"
+    },
+    "327": {
+      "id": 327,
+      "name": "spinda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-09-29T23:39:26.283Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T23:39:26.283Z",
+      "lastPulledAt": "2026-09-29T23:39:26.283Z"
     },
     "332": {
       "id": 332,
