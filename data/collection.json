@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 98,
-  "updatedAt": "2026-09-29T08:45:23.410Z",
+  "totalPulls": 99,
+  "updatedAt": "2026-09-29T15:08:46.921Z",
   "lastPull": {
-    "id": 690,
-    "name": "skrelp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+    "id": 190,
+    "name": "aipom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
     "types": [
-      "poison",
-      "water"
+      "normal"
     ],
-    "totalStats": 320,
+    "totalStats": 360,
     "grade": "N",
-    "pulledAt": "2026-09-29T08:45:23.410Z"
+    "pulledAt": "2026-09-29T15:08:46.921Z"
   },
   "pulls": [
+    {
+      "id": 190,
+      "name": "aipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-09-29T15:08:46.921Z"
+    },
     {
       "id": 690,
       "name": "skrelp",
@@ -117,17 +127,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-27T17:41:47.722Z"
-    },
-    {
-      "id": 617,
-      "name": "accelgor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-27T12:59:55.395Z"
     }
   ],
   "pokemon": {
@@ -425,6 +424,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T06:13:14.173Z",
       "lastPulledAt": "2026-09-17T06:13:14.173Z"
+    },
+    "190": {
+      "id": 190,
+      "name": "aipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-09-29T15:08:46.921Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T15:08:46.921Z",
+      "lastPulledAt": "2026-09-29T15:08:46.921Z"
     },
     "194": {
       "id": 194,
