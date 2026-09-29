@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 97,
-  "updatedAt": "2026-09-29T02:18:07.425Z",
+  "totalPulls": 98,
+  "updatedAt": "2026-09-29T08:45:23.410Z",
   "lastPull": {
-    "id": 210,
-    "name": "granbull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+    "id": 690,
+    "name": "skrelp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
     "types": [
-      "fairy"
+      "poison",
+      "water"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-09-29T02:18:07.425Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-09-29T08:45:23.410Z"
   },
   "pulls": [
+    {
+      "id": 690,
+      "name": "skrelp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-29T08:45:23.410Z"
+    },
     {
       "id": 210,
       "name": "granbull",
@@ -115,18 +128,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-27T12:59:55.395Z"
-    },
-    {
-      "id": 187,
-      "name": "hoppip",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-09-27T07:01:04.176Z"
     }
   ],
   "pokemon": {
@@ -1057,6 +1058,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:47:15.558Z",
       "lastPulledAt": "2026-09-22T06:47:15.558Z"
+    },
+    "690": {
+      "id": 690,
+      "name": "skrelp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-29T08:45:23.410Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T08:45:23.410Z",
+      "lastPulledAt": "2026-09-29T08:45:23.410Z"
     },
     "692": {
       "id": 692,
