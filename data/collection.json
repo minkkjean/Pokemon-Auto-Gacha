@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 103,
-  "updatedAt": "2026-09-30T08:56:15.379Z",
+  "totalPulls": 104,
+  "updatedAt": "2026-09-30T15:50:26.330Z",
   "lastPull": {
-    "id": 856,
-    "name": "hatenna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+    "id": 983,
+    "name": "kingambit",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
     "types": [
-      "psychic"
+      "dark",
+      "steel"
     ],
-    "totalStats": 265,
-    "grade": "N",
-    "pulledAt": "2026-09-30T08:56:15.379Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-09-30T15:50:26.330Z"
   },
   "pulls": [
+    {
+      "id": 983,
+      "name": "kingambit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T15:50:26.330Z"
+    },
     {
       "id": 856,
       "name": "hatenna",
@@ -117,18 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-28T17:01:00.716Z"
-    },
-    {
-      "id": 460,
-      "name": "abomasnow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
-      "types": [
-        "grass",
-        "ice"
-      ],
-      "totalStats": 494,
-      "grade": "R",
-      "pulledAt": "2026-09-28T08:36:33.303Z"
     }
   ],
   "pokemon": {
@@ -1524,6 +1525,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T23:08:48.793Z",
       "lastPulledAt": "2026-09-23T23:08:48.793Z"
+    },
+    "983": {
+      "id": 983,
+      "name": "kingambit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T15:50:26.330Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T15:50:26.330Z",
+      "lastPulledAt": "2026-09-30T15:50:26.330Z"
     },
     "992": {
       "id": 992,
