@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 101,
-  "updatedAt": "2026-09-29T23:39:26.283Z",
+  "totalPulls": 102,
+  "updatedAt": "2026-09-30T02:26:10.864Z",
   "lastPull": {
-    "id": 327,
-    "name": "spinda",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+    "id": 649,
+    "name": "genesect",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
     "types": [
-      "normal"
+      "bug",
+      "steel"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-09-29T23:39:26.283Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-30T02:26:10.864Z"
   },
   "pulls": [
+    {
+      "id": 649,
+      "name": "genesect",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-30T02:26:10.864Z"
+    },
     {
       "id": 327,
       "name": "spinda",
@@ -117,17 +130,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-09-28T01:55:54.383Z"
-    },
-    {
-      "id": 465,
-      "name": "tangrowth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T23:22:01.736Z"
     }
   ],
   "pokemon": {
@@ -1042,6 +1044,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T04:56:19.711Z",
       "lastPulledAt": "2026-09-26T04:56:19.711Z"
+    },
+    "649": {
+      "id": 649,
+      "name": "genesect",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-30T02:26:10.864Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T02:26:10.864Z",
+      "lastPulledAt": "2026-09-30T02:26:10.864Z"
     },
     "656": {
       "id": 656,
