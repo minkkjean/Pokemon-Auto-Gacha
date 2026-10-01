@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 107,
-  "updatedAt": "2026-10-01T06:09:17.326Z",
+  "totalPulls": 108,
+  "updatedAt": "2026-10-01T13:20:59.669Z",
   "lastPull": {
-    "id": 732,
-    "name": "trumbeak",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+    "id": 224,
+    "name": "octillery",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
     "types": [
-      "normal",
-      "flying"
+      "water"
     ],
-    "totalStats": 355,
-    "grade": "N",
-    "pulledAt": "2026-10-01T06:09:17.326Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-01T13:20:59.669Z"
   },
   "pulls": [
+    {
+      "id": 224,
+      "name": "octillery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-01T13:20:59.669Z"
+    },
     {
       "id": 732,
       "name": "trumbeak",
@@ -118,18 +128,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-09-29T15:08:46.921Z"
-    },
-    {
-      "id": 690,
-      "name": "skrelp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
-      "types": [
-        "poison",
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-09-29T08:45:23.410Z"
     }
   ],
   "pokemon": {
@@ -489,6 +487,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T02:18:07.425Z",
       "lastPulledAt": "2026-09-29T02:18:07.425Z"
+    },
+    "224": {
+      "id": 224,
+      "name": "octillery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-01T13:20:59.669Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T13:20:59.669Z",
+      "lastPulledAt": "2026-10-01T13:20:59.669Z"
     },
     "229": {
       "id": 229,
