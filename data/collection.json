@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 106,
-  "updatedAt": "2026-10-01T00:12:21.568Z",
+  "totalPulls": 107,
+  "updatedAt": "2026-10-01T06:09:17.326Z",
   "lastPull": {
-    "id": 616,
-    "name": "shelmet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+    "id": 732,
+    "name": "trumbeak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
     "types": [
-      "bug"
+      "normal",
+      "flying"
     ],
-    "totalStats": 305,
+    "totalStats": 355,
     "grade": "N",
-    "pulledAt": "2026-10-01T00:12:21.568Z"
+    "pulledAt": "2026-10-01T06:09:17.326Z"
   },
   "pulls": [
+    {
+      "id": 732,
+      "name": "trumbeak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-01T06:09:17.326Z"
+    },
     {
       "id": 616,
       "name": "shelmet",
@@ -117,17 +130,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-09-29T08:45:23.410Z"
-    },
-    {
-      "id": 210,
-      "name": "granbull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-09-29T02:18:07.425Z"
     }
   ],
   "pokemon": {
@@ -1244,6 +1246,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:50:04.706Z",
       "lastPulledAt": "2026-09-16T01:50:04.706Z"
+    },
+    "732": {
+      "id": 732,
+      "name": "trumbeak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-01T06:09:17.326Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T06:09:17.326Z",
+      "lastPulledAt": "2026-10-01T06:09:17.326Z"
     },
     "738": {
       "id": 738,
