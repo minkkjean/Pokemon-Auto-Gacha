@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 109,
-  "updatedAt": "2026-10-01T18:59:34.863Z",
+  "totalPulls": 110,
+  "updatedAt": "2026-10-01T23:06:56.616Z",
   "lastPull": {
-    "id": 880,
-    "name": "dracozolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+    "id": 379,
+    "name": "registeel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
     "types": [
-      "electric",
-      "dragon"
+      "steel"
     ],
-    "totalStats": 505,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-10-01T18:59:34.863Z"
+    "pulledAt": "2026-10-01T23:06:56.616Z"
   },
   "pulls": [
+    {
+      "id": 379,
+      "name": "registeel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-01T23:06:56.616Z"
+    },
     {
       "id": 880,
       "name": "dracozolt",
@@ -118,18 +128,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-09-29T23:39:26.283Z"
-    },
-    {
-      "id": 959,
-      "name": "tinkaton",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
-      "types": [
-        "fairy",
-        "steel"
-      ],
-      "totalStats": 506,
-      "grade": "SR",
-      "pulledAt": "2026-09-29T20:00:02.094Z"
     }
   ],
   "pokemon": {
@@ -781,6 +779,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T17:41:47.722Z",
       "lastPulledAt": "2026-09-27T17:41:47.722Z"
+    },
+    "379": {
+      "id": 379,
+      "name": "registeel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-01T23:06:56.616Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T23:06:56.616Z",
+      "lastPulledAt": "2026-10-01T23:06:56.616Z"
     },
     "383": {
       "id": 383,
