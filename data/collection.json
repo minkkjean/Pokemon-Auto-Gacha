@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 108,
-  "updatedAt": "2026-10-01T13:20:59.669Z",
+  "totalPulls": 109,
+  "updatedAt": "2026-10-01T18:59:34.863Z",
   "lastPull": {
-    "id": 224,
-    "name": "octillery",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+    "id": 880,
+    "name": "dracozolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
     "types": [
-      "water"
+      "electric",
+      "dragon"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-01T13:20:59.669Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-01T18:59:34.863Z"
   },
   "pulls": [
+    {
+      "id": 880,
+      "name": "dracozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-01T18:59:34.863Z"
+    },
     {
       "id": 224,
       "name": "octillery",
@@ -117,17 +130,6 @@
       "totalStats": 506,
       "grade": "SR",
       "pulledAt": "2026-09-29T20:00:02.094Z"
-    },
-    {
-      "id": 190,
-      "name": "aipom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-09-29T15:08:46.921Z"
     }
   ],
   "pokemon": {
@@ -1472,10 +1474,10 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-26T00:05:59.321Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T00:05:59.321Z",
-      "lastPulledAt": "2026-09-26T00:05:59.321Z"
+      "lastPulledAt": "2026-10-01T18:59:34.863Z"
     },
     "882": {
       "id": 882,
