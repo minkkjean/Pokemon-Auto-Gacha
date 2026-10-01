@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 105,
-  "updatedAt": "2026-09-30T20:43:58.320Z",
+  "totalPulls": 106,
+  "updatedAt": "2026-10-01T00:12:21.568Z",
   "lastPull": {
-    "id": 397,
-    "name": "staravia",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
+    "id": 616,
+    "name": "shelmet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
     "types": [
-      "normal",
-      "flying"
+      "bug"
     ],
-    "totalStats": 340,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-09-30T20:43:58.320Z"
+    "pulledAt": "2026-10-01T00:12:21.568Z"
   },
   "pulls": [
+    {
+      "id": 616,
+      "name": "shelmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-01T00:12:21.568Z"
+    },
     {
       "id": 397,
       "name": "staravia",
@@ -118,18 +128,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-29T02:18:07.425Z"
-    },
-    {
-      "id": 559,
-      "name": "scraggy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
-      "types": [
-        "dark",
-        "fighting"
-      ],
-      "totalStats": 348,
-      "grade": "N",
-      "pulledAt": "2026-09-28T22:31:58.626Z"
     }
   ],
   "pokemon": {
@@ -1030,6 +1028,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:50:51.282Z",
       "lastPulledAt": "2026-09-16T01:50:51.282Z"
+    },
+    "616": {
+      "id": 616,
+      "name": "shelmet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-01T00:12:21.568Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T00:12:21.568Z",
+      "lastPulledAt": "2026-10-01T00:12:21.568Z"
     },
     "617": {
       "id": 617,
