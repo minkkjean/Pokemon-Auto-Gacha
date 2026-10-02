@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 114,
-  "updatedAt": "2026-10-02T19:56:35.767Z",
+  "totalPulls": 115,
+  "updatedAt": "2026-10-02T23:42:01.256Z",
   "lastPull": {
-    "id": 808,
-    "name": "meltan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
+    "id": 1000,
+    "name": "gholdengo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
     "types": [
-      "steel"
+      "steel",
+      "ghost"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-02T19:56:35.767Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-10-02T23:42:01.256Z"
   },
   "pulls": [
+    {
+      "id": 1000,
+      "name": "gholdengo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-02T23:42:01.256Z"
+    },
     {
       "id": 808,
       "name": "meltan",
@@ -115,18 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-01T00:12:21.568Z"
-    },
-    {
-      "id": 397,
-      "name": "staravia",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-09-30T20:43:58.320Z"
     }
   ],
   "pokemon": {
@@ -1723,6 +1724,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:49:26.554Z",
       "lastPulledAt": "2026-09-16T01:49:26.554Z"
+    },
+    "1000": {
+      "id": 1000,
+      "name": "gholdengo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-10-02T23:42:01.256Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T23:42:01.256Z",
+      "lastPulledAt": "2026-10-02T23:42:01.256Z"
     },
     "1004": {
       "id": 1004,
