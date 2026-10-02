@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 112,
-  "updatedAt": "2026-10-02T08:40:07.382Z",
+  "totalPulls": 113,
+  "updatedAt": "2026-10-02T15:03:35.977Z",
   "lastPull": {
-    "id": 945,
-    "name": "grafaiai",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
+    "id": 294,
+    "name": "loudred",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
     "types": [
-      "poison",
       "normal"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-02T08:40:07.382Z"
+    "totalStats": 360,
+    "grade": "N",
+    "pulledAt": "2026-10-02T15:03:35.977Z"
   },
   "pulls": [
+    {
+      "id": 294,
+      "name": "loudred",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-02T15:03:35.977Z"
+    },
     {
       "id": 945,
       "name": "grafaiai",
@@ -118,17 +128,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-09-30T15:50:26.330Z"
-    },
-    {
-      "id": 856,
-      "name": "hatenna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 265,
-      "grade": "N",
-      "pulledAt": "2026-09-30T08:56:15.379Z"
     }
   ],
   "pokemon": {
@@ -627,6 +626,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T12:04:31.581Z",
       "lastPulledAt": "2026-09-16T12:04:31.581Z"
+    },
+    "294": {
+      "id": 294,
+      "name": "loudred",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-02T15:03:35.977Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T15:03:35.977Z",
+      "lastPulledAt": "2026-10-02T15:03:35.977Z"
     },
     "301": {
       "id": 301,
