@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 110,
-  "updatedAt": "2026-10-01T23:06:56.616Z",
+  "totalPulls": 111,
+  "updatedAt": "2026-10-02T02:15:26.644Z",
   "lastPull": {
-    "id": 379,
-    "name": "registeel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+    "id": 447,
+    "name": "riolu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
     "types": [
-      "steel"
+      "fighting"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-01T23:06:56.616Z"
+    "totalStats": 285,
+    "grade": "N",
+    "pulledAt": "2026-10-02T02:15:26.644Z"
   },
   "pulls": [
+    {
+      "id": 447,
+      "name": "riolu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-10-02T02:15:26.644Z"
+    },
     {
       "id": 379,
       "name": "registeel",
@@ -117,17 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-30T02:26:10.864Z"
-    },
-    {
-      "id": 327,
-      "name": "spinda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-09-29T23:39:26.283Z"
     }
   ],
   "pokemon": {
@@ -855,6 +855,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:57:49.735Z",
       "lastPulledAt": "2026-09-16T19:57:49.735Z"
+    },
+    "447": {
+      "id": 447,
+      "name": "riolu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-10-02T02:15:26.644Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T02:15:26.644Z",
+      "lastPulledAt": "2026-10-02T02:15:26.644Z"
     },
     "448": {
       "id": 448,
