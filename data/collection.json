@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 111,
-  "updatedAt": "2026-10-02T02:15:26.644Z",
+  "totalPulls": 112,
+  "updatedAt": "2026-10-02T08:40:07.382Z",
   "lastPull": {
-    "id": 447,
-    "name": "riolu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+    "id": 945,
+    "name": "grafaiai",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
     "types": [
-      "fighting"
+      "poison",
+      "normal"
     ],
-    "totalStats": 285,
-    "grade": "N",
-    "pulledAt": "2026-10-02T02:15:26.644Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-02T08:40:07.382Z"
   },
   "pulls": [
+    {
+      "id": 945,
+      "name": "grafaiai",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-02T08:40:07.382Z"
+    },
     {
       "id": 447,
       "name": "riolu",
@@ -116,18 +129,6 @@
       "totalStats": 265,
       "grade": "N",
       "pulledAt": "2026-09-30T08:56:15.379Z"
-    },
-    {
-      "id": 649,
-      "name": "genesect",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-30T02:26:10.864Z"
     }
   ],
   "pokemon": {
@@ -1568,6 +1569,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T05:52:23.510Z",
       "lastPulledAt": "2026-09-19T05:52:23.510Z"
+    },
+    "945": {
+      "id": 945,
+      "name": "grafaiai",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-02T08:40:07.382Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T08:40:07.382Z",
+      "lastPulledAt": "2026-10-02T08:40:07.382Z"
     },
     "950": {
       "id": 950,
