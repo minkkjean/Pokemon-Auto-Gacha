@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 115,
-  "updatedAt": "2026-10-02T23:42:01.256Z",
+  "totalPulls": 116,
+  "updatedAt": "2026-10-03T02:23:32.928Z",
   "lastPull": {
-    "id": 1000,
-    "name": "gholdengo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+    "id": 391,
+    "name": "monferno",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
     "types": [
-      "steel",
-      "ghost"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-10-02T23:42:01.256Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-03T02:23:32.928Z"
   },
   "pulls": [
+    {
+      "id": 391,
+      "name": "monferno",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-03T02:23:32.928Z"
+    },
     {
       "id": 1000,
       "name": "gholdengo",
@@ -117,17 +129,6 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-10-01T06:09:17.326Z"
-    },
-    {
-      "id": 616,
-      "name": "shelmet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-01T00:12:21.568Z"
     }
   ],
   "pokemon": {
@@ -839,6 +840,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:44.651Z",
       "lastPulledAt": "2026-09-26T13:56:22.764Z"
+    },
+    "391": {
+      "id": 391,
+      "name": "monferno",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-03T02:23:32.928Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T02:23:32.928Z",
+      "lastPulledAt": "2026-10-03T02:23:32.928Z"
     },
     "397": {
       "id": 397,
