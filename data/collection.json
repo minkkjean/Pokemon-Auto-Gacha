@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 117,
-  "updatedAt": "2026-10-03T08:30:22.677Z",
+  "totalPulls": 118,
+  "updatedAt": "2026-10-03T13:54:26.291Z",
   "lastPull": {
-    "id": 310,
-    "name": "manectric",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+    "id": 312,
+    "name": "minun",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
     "types": [
       "electric"
     ],
-    "totalStats": 475,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-10-03T08:30:22.677Z"
+    "pulledAt": "2026-10-03T13:54:26.291Z"
   },
   "pulls": [
+    {
+      "id": 312,
+      "name": "minun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-03T13:54:26.291Z"
+    },
     {
       "id": 310,
       "name": "manectric",
@@ -116,17 +127,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-01T18:59:34.863Z"
-    },
-    {
-      "id": 224,
-      "name": "octillery",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-01T13:20:59.669Z"
     }
   ],
   "pokemon": {
@@ -670,6 +670,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T08:30:22.677Z",
       "lastPulledAt": "2026-10-03T08:30:22.677Z"
+    },
+    "312": {
+      "id": 312,
+      "name": "minun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-03T13:54:26.291Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T13:54:26.291Z",
+      "lastPulledAt": "2026-10-03T13:54:26.291Z"
     },
     "313": {
       "id": 313,
