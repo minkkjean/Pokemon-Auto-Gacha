@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 120,
-  "updatedAt": "2026-10-03T20:56:17.741Z",
+  "totalPulls": 121,
+  "updatedAt": "2026-10-03T23:43:21.883Z",
   "lastPull": {
-    "id": 938,
-    "name": "tadbulb",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
+    "id": 177,
+    "name": "natu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
     "types": [
-      "electric"
+      "psychic",
+      "flying"
     ],
-    "totalStats": 272,
+    "totalStats": 320,
     "grade": "N",
-    "pulledAt": "2026-10-03T20:56:17.741Z"
+    "pulledAt": "2026-10-03T23:43:21.883Z"
   },
   "pulls": [
+    {
+      "id": 177,
+      "name": "natu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-03T23:43:21.883Z"
+    },
     {
       "id": 938,
       "name": "tadbulb",
@@ -116,17 +129,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-02T08:40:07.382Z"
-    },
-    {
-      "id": 447,
-      "name": "riolu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-10-02T02:15:26.644Z"
     }
   ],
   "pokemon": {
@@ -392,6 +394,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:36:23.842Z",
       "lastPulledAt": "2026-09-16T06:36:23.842Z"
+    },
+    "177": {
+      "id": 177,
+      "name": "natu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-03T23:43:21.883Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T23:43:21.883Z",
+      "lastPulledAt": "2026-10-03T23:43:21.883Z"
     },
     "187": {
       "id": 187,
