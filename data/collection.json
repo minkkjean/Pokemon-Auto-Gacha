@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 118,
-  "updatedAt": "2026-10-03T13:54:26.291Z",
+  "totalPulls": 119,
+  "updatedAt": "2026-10-03T17:52:36.455Z",
   "lastPull": {
-    "id": 312,
-    "name": "minun",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+    "id": 858,
+    "name": "hatterene",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
     "types": [
-      "electric"
+      "psychic",
+      "fairy"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-03T13:54:26.291Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-03T17:52:36.455Z"
   },
   "pulls": [
+    {
+      "id": 858,
+      "name": "hatterene",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T17:52:36.455Z"
+    },
     {
       "id": 312,
       "name": "minun",
@@ -115,18 +128,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-01T23:06:56.616Z"
-    },
-    {
-      "id": 880,
-      "name": "dracozolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
-      "types": [
-        "electric",
-        "dragon"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-01T18:59:34.863Z"
     }
   ],
   "pokemon": {
@@ -1504,6 +1505,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T08:56:15.379Z",
       "lastPulledAt": "2026-09-30T08:56:15.379Z"
+    },
+    "858": {
+      "id": 858,
+      "name": "hatterene",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T17:52:36.455Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T17:52:36.455Z",
+      "lastPulledAt": "2026-10-03T17:52:36.455Z"
     },
     "862": {
       "id": 862,
