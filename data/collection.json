@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 123,
-  "updatedAt": "2026-10-04T09:36:15.482Z",
+  "totalPulls": 124,
+  "updatedAt": "2026-10-04T14:58:37.024Z",
   "lastPull": {
-    "id": 317,
-    "name": "swalot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+    "id": 885,
+    "name": "dreepy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
     "types": [
-      "poison"
+      "dragon",
+      "ghost"
     ],
-    "totalStats": 467,
-    "grade": "R",
-    "pulledAt": "2026-10-04T09:36:15.482Z"
+    "totalStats": 270,
+    "grade": "N",
+    "pulledAt": "2026-10-04T14:58:37.024Z"
   },
   "pulls": [
+    {
+      "id": 885,
+      "name": "dreepy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-04T14:58:37.024Z"
+    },
     {
       "id": 317,
       "name": "swalot",
@@ -117,17 +130,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-10-02T23:42:01.256Z"
-    },
-    {
-      "id": 808,
-      "name": "meltan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-02T19:56:35.767Z"
     }
   ],
   "pokemon": {
@@ -1646,6 +1648,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T20:07:18.543Z",
       "lastPulledAt": "2026-09-22T20:07:18.543Z"
+    },
+    "885": {
+      "id": 885,
+      "name": "dreepy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-04T14:58:37.024Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T14:58:37.024Z",
+      "lastPulledAt": "2026-10-04T14:58:37.024Z"
     },
     "889": {
       "id": 889,
