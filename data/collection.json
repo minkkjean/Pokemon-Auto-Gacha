@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 124,
-  "updatedAt": "2026-10-04T14:58:37.024Z",
+  "totalPulls": 125,
+  "updatedAt": "2026-10-04T18:36:26.765Z",
   "lastPull": {
-    "id": 885,
-    "name": "dreepy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
+    "id": 731,
+    "name": "pikipek",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
     "types": [
-      "dragon",
-      "ghost"
+      "normal",
+      "flying"
     ],
-    "totalStats": 270,
+    "totalStats": 265,
     "grade": "N",
-    "pulledAt": "2026-10-04T14:58:37.024Z"
+    "pulledAt": "2026-10-04T18:36:26.765Z"
   },
   "pulls": [
+    {
+      "id": 731,
+      "name": "pikipek",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-10-04T18:36:26.765Z"
+    },
     {
       "id": 885,
       "name": "dreepy",
@@ -118,18 +130,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-03T02:23:32.928Z"
-    },
-    {
-      "id": 1000,
-      "name": "gholdengo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
-      "types": [
-        "steel",
-        "ghost"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-10-02T23:42:01.256Z"
     }
   ],
   "pokemon": {
@@ -1384,6 +1384,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:50:04.706Z",
       "lastPulledAt": "2026-09-16T01:50:04.706Z"
+    },
+    "731": {
+      "id": 731,
+      "name": "pikipek",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-10-04T18:36:26.765Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T18:36:26.765Z",
+      "lastPulledAt": "2026-10-04T18:36:26.765Z"
     },
     "732": {
       "id": 732,
