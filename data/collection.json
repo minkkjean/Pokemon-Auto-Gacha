@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 127,
-  "updatedAt": "2026-10-05T00:46:07.182Z",
+  "totalPulls": 128,
+  "updatedAt": "2026-10-05T06:19:40.599Z",
   "lastPull": {
-    "id": 956,
-    "name": "espathra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+    "id": 126,
+    "name": "magmar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
     "types": [
-      "psychic"
+      "fire"
     ],
-    "totalStats": 481,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-10-05T00:46:07.182Z"
+    "pulledAt": "2026-10-05T06:19:40.599Z"
   },
   "pulls": [
+    {
+      "id": 126,
+      "name": "magmar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-05T06:19:40.599Z"
+    },
     {
       "id": 956,
       "name": "espathra",
@@ -117,17 +128,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-03T17:52:36.455Z"
-    },
-    {
-      "id": 312,
-      "name": "minun",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-03T13:54:26.291Z"
     }
   ],
   "pokemon": {
@@ -363,6 +363,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T17:42:59.873Z",
       "lastPulledAt": "2026-09-26T17:42:59.873Z"
+    },
+    "126": {
+      "id": 126,
+      "name": "magmar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-05T06:19:40.599Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T06:19:40.599Z",
+      "lastPulledAt": "2026-10-05T06:19:40.599Z"
     },
     "152": {
       "id": 152,
