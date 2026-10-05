@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 128,
-  "updatedAt": "2026-10-05T06:19:40.599Z",
+  "totalPulls": 129,
+  "updatedAt": "2026-10-05T15:04:32.264Z",
   "lastPull": {
-    "id": 126,
-    "name": "magmar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+    "id": 117,
+    "name": "seadra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
     "types": [
-      "fire"
+      "water"
     ],
-    "totalStats": 495,
+    "totalStats": 440,
     "grade": "R",
-    "pulledAt": "2026-10-05T06:19:40.599Z"
+    "pulledAt": "2026-10-05T15:04:32.264Z"
   },
   "pulls": [
+    {
+      "id": 117,
+      "name": "seadra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-05T15:04:32.264Z"
+    },
     {
       "id": 126,
       "name": "magmar",
@@ -116,18 +127,6 @@
       "totalStats": 272,
       "grade": "N",
       "pulledAt": "2026-10-03T20:56:17.741Z"
-    },
-    {
-      "id": 858,
-      "name": "hatterene",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-03T17:52:36.455Z"
     }
   ],
   "pokemon": {
@@ -363,6 +362,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T17:42:59.873Z",
       "lastPulledAt": "2026-09-26T17:42:59.873Z"
+    },
+    "117": {
+      "id": 117,
+      "name": "seadra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-05T15:04:32.264Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T15:04:32.264Z",
+      "lastPulledAt": "2026-10-05T15:04:32.264Z"
     },
     "126": {
       "id": 126,
