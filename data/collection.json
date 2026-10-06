@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 131,
-  "updatedAt": "2026-10-06T02:13:24.526Z",
+  "totalPulls": 132,
+  "updatedAt": "2026-10-06T09:07:04.570Z",
   "lastPull": {
-    "id": 45,
-    "name": "vileplume",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "id": 724,
+    "name": "decidueye",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
     "types": [
       "grass",
-      "poison"
+      "ghost"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-06T02:13:24.526Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-06T09:07:04.570Z"
   },
   "pulls": [
+    {
+      "id": 724,
+      "name": "decidueye",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-06T09:07:04.570Z"
+    },
     {
       "id": 45,
       "name": "vileplume",
@@ -116,18 +128,6 @@
       "totalStats": 467,
       "grade": "R",
       "pulledAt": "2026-10-04T09:36:15.482Z"
-    },
-    {
-      "id": 546,
-      "name": "cottonee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
-      "types": [
-        "grass",
-        "fairy"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-10-04T02:53:27.082Z"
     }
   ],
   "pokemon": {
@@ -1428,6 +1428,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T07:06:59.489Z",
       "lastPulledAt": "2026-09-20T07:06:59.489Z"
+    },
+    "724": {
+      "id": 724,
+      "name": "decidueye",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-06T09:07:04.570Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T09:07:04.570Z",
+      "lastPulledAt": "2026-10-06T09:07:04.570Z"
     },
     "728": {
       "id": 728,
