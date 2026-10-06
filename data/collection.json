@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 132,
-  "updatedAt": "2026-10-06T09:07:04.570Z",
+  "totalPulls": 133,
+  "updatedAt": "2026-10-06T15:57:00.932Z",
   "lastPull": {
-    "id": 724,
-    "name": "decidueye",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+    "id": 734,
+    "name": "yungoos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png",
     "types": [
-      "grass",
-      "ghost"
+      "normal"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-06T09:07:04.570Z"
+    "totalStats": 253,
+    "grade": "N",
+    "pulledAt": "2026-10-06T15:57:00.932Z"
   },
   "pulls": [
+    {
+      "id": 734,
+      "name": "yungoos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 253,
+      "grade": "N",
+      "pulledAt": "2026-10-06T15:57:00.932Z"
+    },
     {
       "id": 724,
       "name": "decidueye",
@@ -117,17 +127,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-10-04T14:58:37.024Z"
-    },
-    {
-      "id": 317,
-      "name": "swalot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 467,
-      "grade": "R",
-      "pulledAt": "2026-10-04T09:36:15.482Z"
     }
   ],
   "pokemon": {
@@ -1491,6 +1490,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T06:09:17.326Z",
       "lastPulledAt": "2026-10-01T06:09:17.326Z"
+    },
+    "734": {
+      "id": 734,
+      "name": "yungoos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 253,
+      "grade": "N",
+      "pulledAt": "2026-10-06T15:57:00.932Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T15:57:00.932Z",
+      "lastPulledAt": "2026-10-06T15:57:00.932Z"
     },
     "738": {
       "id": 738,
