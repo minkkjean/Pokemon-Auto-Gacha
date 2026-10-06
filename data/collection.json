@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 133,
-  "updatedAt": "2026-10-06T15:57:00.932Z",
+  "totalPulls": 134,
+  "updatedAt": "2026-10-06T20:54:26.787Z",
   "lastPull": {
-    "id": 734,
-    "name": "yungoos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png",
+    "id": 965,
+    "name": "varoom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
     "types": [
-      "normal"
+      "steel",
+      "poison"
     ],
-    "totalStats": 253,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-10-06T15:57:00.932Z"
+    "pulledAt": "2026-10-06T20:54:26.787Z"
   },
   "pulls": [
+    {
+      "id": 965,
+      "name": "varoom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+      "types": [
+        "steel",
+        "poison"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-06T20:54:26.787Z"
+    },
     {
       "id": 734,
       "name": "yungoos",
@@ -115,18 +128,6 @@
       "totalStats": 265,
       "grade": "N",
       "pulledAt": "2026-10-04T18:36:26.765Z"
-    },
-    {
-      "id": 885,
-      "name": "dreepy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
-      "types": [
-        "dragon",
-        "ghost"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-04T14:58:37.024Z"
     }
   ],
   "pokemon": {
@@ -1908,6 +1909,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T23:08:48.793Z",
       "lastPulledAt": "2026-09-23T23:08:48.793Z"
+    },
+    "965": {
+      "id": 965,
+      "name": "varoom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+      "types": [
+        "steel",
+        "poison"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-06T20:54:26.787Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T20:54:26.787Z",
+      "lastPulledAt": "2026-10-06T20:54:26.787Z"
     },
     "983": {
       "id": 983,
