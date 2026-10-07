@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 135,
-  "updatedAt": "2026-10-07T00:33:36.100Z",
+  "totalPulls": 136,
+  "updatedAt": "2026-10-07T06:28:18.217Z",
   "lastPull": {
-    "id": 964,
-    "name": "palafin-zero",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
+    "id": 395,
+    "name": "empoleon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
     "types": [
-      "water"
+      "water",
+      "steel"
     ],
-    "totalStats": 457,
-    "grade": "R",
-    "pulledAt": "2026-10-07T00:33:36.100Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-07T06:28:18.217Z"
   },
   "pulls": [
+    {
+      "id": 395,
+      "name": "empoleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+      "types": [
+        "water",
+        "steel"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T06:28:18.217Z"
+    },
     {
       "id": 964,
       "name": "palafin-zero",
@@ -115,17 +128,6 @@
       "totalStats": 481,
       "grade": "R",
       "pulledAt": "2026-10-05T00:46:07.182Z"
-    },
-    {
-      "id": 869,
-      "name": "alcremie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-04T21:57:15.319Z"
     }
   ],
   "pokemon": {
@@ -945,6 +947,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T02:23:32.928Z",
       "lastPulledAt": "2026-10-03T02:23:32.928Z"
+    },
+    "395": {
+      "id": 395,
+      "name": "empoleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+      "types": [
+        "water",
+        "steel"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T06:28:18.217Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T06:28:18.217Z",
+      "lastPulledAt": "2026-10-07T06:28:18.217Z"
     },
     "397": {
       "id": 397,
