@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 136,
-  "updatedAt": "2026-10-07T06:28:18.217Z",
+  "totalPulls": 137,
+  "updatedAt": "2026-10-07T13:49:18.059Z",
   "lastPull": {
-    "id": 395,
-    "name": "empoleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
+    "id": 629,
+    "name": "vullaby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
     "types": [
-      "water",
-      "steel"
+      "dark",
+      "flying"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-07T06:28:18.217Z"
+    "totalStats": 370,
+    "grade": "N",
+    "pulledAt": "2026-10-07T13:49:18.059Z"
   },
   "pulls": [
+    {
+      "id": 629,
+      "name": "vullaby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-10-07T13:49:18.059Z"
+    },
     {
       "id": 395,
       "name": "empoleon",
@@ -117,17 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-05T06:19:40.599Z"
-    },
-    {
-      "id": 956,
-      "name": "espathra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 481,
-      "grade": "R",
-      "pulledAt": "2026-10-05T00:46:07.182Z"
     }
   ],
   "pokemon": {
@@ -1273,6 +1274,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T12:59:55.395Z",
       "lastPulledAt": "2026-09-27T12:59:55.395Z"
+    },
+    "629": {
+      "id": 629,
+      "name": "vullaby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-10-07T13:49:18.059Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T13:49:18.059Z",
+      "lastPulledAt": "2026-10-07T13:49:18.059Z"
     },
     "631": {
       "id": 631,
