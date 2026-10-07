@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-10-06T20:54:26.787Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-10-07T00:33:36.100Z",
   "lastPull": {
-    "id": 965,
-    "name": "varoom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+    "id": 964,
+    "name": "palafin-zero",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
     "types": [
-      "steel",
-      "poison"
+      "water"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-06T20:54:26.787Z"
+    "totalStats": 457,
+    "grade": "R",
+    "pulledAt": "2026-10-07T00:33:36.100Z"
   },
   "pulls": [
+    {
+      "id": 964,
+      "name": "palafin-zero",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 457,
+      "grade": "R",
+      "pulledAt": "2026-10-07T00:33:36.100Z"
+    },
     {
       "id": 965,
       "name": "varoom",
@@ -116,18 +126,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-04T21:57:15.319Z"
-    },
-    {
-      "id": 731,
-      "name": "pikipek",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 265,
-      "grade": "N",
-      "pulledAt": "2026-10-04T18:36:26.765Z"
     }
   ],
   "pokemon": {
@@ -1909,6 +1907,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T23:08:48.793Z",
       "lastPulledAt": "2026-09-23T23:08:48.793Z"
+    },
+    "964": {
+      "id": 964,
+      "name": "palafin-zero",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 457,
+      "grade": "R",
+      "pulledAt": "2026-10-07T00:33:36.100Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T00:33:36.100Z",
+      "lastPulledAt": "2026-10-07T00:33:36.100Z"
     },
     "965": {
       "id": 965,
