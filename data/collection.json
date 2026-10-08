@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 142,
-  "updatedAt": "2026-10-08T18:54:59.602Z",
+  "totalPulls": 143,
+  "updatedAt": "2026-10-08T23:42:34.686Z",
   "lastPull": {
-    "id": 705,
-    "name": "sliggoo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "id": 326,
+    "name": "grumpig",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
     "types": [
-      "dragon"
+      "psychic"
     ],
-    "totalStats": 452,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-10-08T18:54:59.602Z"
+    "pulledAt": "2026-10-08T23:42:34.686Z"
   },
   "pulls": [
+    {
+      "id": 326,
+      "name": "grumpig",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-08T23:42:34.686Z"
+    },
     {
       "id": 705,
       "name": "sliggoo",
@@ -117,17 +128,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-06T20:54:26.787Z"
-    },
-    {
-      "id": 734,
-      "name": "yungoos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 253,
-      "grade": "N",
-      "pulledAt": "2026-10-06T15:57:00.932Z"
     }
   ],
   "pokemon": {
@@ -809,6 +809,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:53.604Z",
       "lastPulledAt": "2026-09-16T01:43:53.604Z"
+    },
+    "326": {
+      "id": 326,
+      "name": "grumpig",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-08T23:42:34.686Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T23:42:34.686Z",
+      "lastPulledAt": "2026-10-08T23:42:34.686Z"
     },
     "327": {
       "id": 327,
