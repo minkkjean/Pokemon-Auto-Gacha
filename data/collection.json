@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 140,
-  "updatedAt": "2026-10-08T05:46:51.386Z",
+  "totalPulls": 141,
+  "updatedAt": "2026-10-08T12:16:21.652Z",
   "lastPull": {
-    "id": 824,
-    "name": "blipbug",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png",
+    "id": 119,
+    "name": "seaking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
     "types": [
-      "bug"
+      "water"
     ],
-    "totalStats": 180,
-    "grade": "N",
-    "pulledAt": "2026-10-08T05:46:51.386Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-10-08T12:16:21.652Z"
   },
   "pulls": [
+    {
+      "id": 119,
+      "name": "seaking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-08T12:16:21.652Z"
+    },
     {
       "id": 824,
       "name": "blipbug",
@@ -118,18 +129,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-06T09:07:04.570Z"
-    },
-    {
-      "id": 45,
-      "name": "vileplume",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-06T02:13:24.526Z"
     }
   ],
   "pokemon": {
@@ -396,6 +395,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T15:04:32.264Z",
       "lastPulledAt": "2026-10-05T15:04:32.264Z"
+    },
+    "119": {
+      "id": 119,
+      "name": "seaking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-08T12:16:21.652Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T12:16:21.652Z",
+      "lastPulledAt": "2026-10-08T12:16:21.652Z"
     },
     "126": {
       "id": 126,
