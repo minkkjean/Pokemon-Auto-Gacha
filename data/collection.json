@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 145,
-  "updatedAt": "2026-10-09T10:37:28.169Z",
+  "totalPulls": 146,
+  "updatedAt": "2026-10-09T17:11:35.614Z",
   "lastPull": {
-    "id": 978,
-    "name": "tatsugiri-curly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+    "id": 814,
+    "name": "raboot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
     "types": [
-      "dragon",
-      "water"
+      "fire"
     ],
-    "totalStats": 475,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-10-09T10:37:28.169Z"
+    "pulledAt": "2026-10-09T17:11:35.614Z"
   },
   "pulls": [
+    {
+      "id": 814,
+      "name": "raboot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-09T17:11:35.614Z"
+    },
     {
       "id": 978,
       "name": "tatsugiri-curly",
@@ -118,18 +128,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-10-07T13:49:18.059Z"
-    },
-    {
-      "id": 395,
-      "name": "empoleon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
-      "types": [
-        "water",
-        "steel"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T06:28:18.217Z"
     }
   ],
   "pokemon": {
@@ -1678,6 +1676,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T19:56:35.767Z",
       "lastPulledAt": "2026-10-02T19:56:35.767Z"
+    },
+    "814": {
+      "id": 814,
+      "name": "raboot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-09T17:11:35.614Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T17:11:35.614Z",
+      "lastPulledAt": "2026-10-09T17:11:35.614Z"
     },
     "818": {
       "id": 818,
