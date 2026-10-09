@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 144,
-  "updatedAt": "2026-10-09T03:09:07.106Z",
+  "totalPulls": 145,
+  "updatedAt": "2026-10-09T10:37:28.169Z",
   "lastPull": {
-    "id": 861,
-    "name": "grimmsnarl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
+    "id": 978,
+    "name": "tatsugiri-curly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
     "types": [
-      "dark",
-      "fairy"
+      "dragon",
+      "water"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-09T03:09:07.106Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-10-09T10:37:28.169Z"
   },
   "pulls": [
+    {
+      "id": 978,
+      "name": "tatsugiri-curly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-09T10:37:28.169Z"
+    },
     {
       "id": 861,
       "name": "grimmsnarl",
@@ -118,17 +130,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-07T06:28:18.217Z"
-    },
-    {
-      "id": 964,
-      "name": "palafin-zero",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 457,
-      "grade": "R",
-      "pulledAt": "2026-10-07T00:33:36.100Z"
     }
   ],
   "pokemon": {
@@ -2081,6 +2082,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T20:54:26.787Z",
       "lastPulledAt": "2026-10-06T20:54:26.787Z"
+    },
+    "978": {
+      "id": 978,
+      "name": "tatsugiri-curly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-09T10:37:28.169Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T10:37:28.169Z",
+      "lastPulledAt": "2026-10-09T10:37:28.169Z"
     },
     "983": {
       "id": 983,
