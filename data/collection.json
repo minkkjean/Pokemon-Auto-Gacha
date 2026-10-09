@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 146,
-  "updatedAt": "2026-10-09T17:11:35.614Z",
+  "totalPulls": 147,
+  "updatedAt": "2026-10-09T21:46:31.653Z",
   "lastPull": {
-    "id": 814,
-    "name": "raboot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+    "id": 314,
+    "name": "illumise",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
     "types": [
-      "fire"
+      "bug"
     ],
-    "totalStats": 420,
+    "totalStats": 430,
     "grade": "R",
-    "pulledAt": "2026-10-09T17:11:35.614Z"
+    "pulledAt": "2026-10-09T21:46:31.653Z"
   },
   "pulls": [
+    {
+      "id": 314,
+      "name": "illumise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-09T21:46:31.653Z"
+    },
     {
       "id": 814,
       "name": "raboot",
@@ -116,18 +127,6 @@
       "totalStats": 436,
       "grade": "R",
       "pulledAt": "2026-10-07T19:39:29.520Z"
-    },
-    {
-      "id": 629,
-      "name": "vullaby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-10-07T13:49:18.059Z"
     }
   ],
   "pokemon": {
@@ -778,6 +777,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:45:21.311Z",
       "lastPulledAt": "2026-09-16T01:45:21.311Z"
+    },
+    "314": {
+      "id": 314,
+      "name": "illumise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-09T21:46:31.653Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T21:46:31.653Z",
+      "lastPulledAt": "2026-10-09T21:46:31.653Z"
     },
     "317": {
       "id": 317,
