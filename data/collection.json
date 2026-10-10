@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 149,
-  "updatedAt": "2026-10-10T07:25:18.421Z",
+  "totalPulls": 150,
+  "updatedAt": "2026-10-10T13:56:25.933Z",
   "lastPull": {
-    "id": 846,
-    "name": "arrokuda",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png",
+    "id": 680,
+    "name": "doublade",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
     "types": [
-      "water"
+      "steel",
+      "ghost"
     ],
-    "totalStats": 280,
-    "grade": "N",
-    "pulledAt": "2026-10-10T07:25:18.421Z"
+    "totalStats": 448,
+    "grade": "R",
+    "pulledAt": "2026-10-10T13:56:25.933Z"
   },
   "pulls": [
+    {
+      "id": 680,
+      "name": "doublade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 448,
+      "grade": "R",
+      "pulledAt": "2026-10-10T13:56:25.933Z"
+    },
     {
       "id": 846,
       "name": "arrokuda",
@@ -114,17 +127,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-10-08T12:16:21.652Z"
-    },
-    {
-      "id": 824,
-      "name": "blipbug",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 180,
-      "grade": "N",
-      "pulledAt": "2026-10-08T05:46:51.386Z"
     }
   ],
   "pokemon": {
@@ -1424,6 +1426,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:47:15.558Z",
       "lastPulledAt": "2026-09-22T06:47:15.558Z"
+    },
+    "680": {
+      "id": 680,
+      "name": "doublade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 448,
+      "grade": "R",
+      "pulledAt": "2026-10-10T13:56:25.933Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T13:56:25.933Z",
+      "lastPulledAt": "2026-10-10T13:56:25.933Z"
     },
     "690": {
       "id": 690,
