@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 150,
-  "updatedAt": "2026-10-10T13:56:25.933Z",
+  "totalPulls": 151,
+  "updatedAt": "2026-10-10T18:26:26.001Z",
   "lastPull": {
-    "id": 680,
-    "name": "doublade",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+    "id": 48,
+    "name": "venonat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
     "types": [
-      "steel",
-      "ghost"
+      "bug",
+      "poison"
     ],
-    "totalStats": 448,
-    "grade": "R",
-    "pulledAt": "2026-10-10T13:56:25.933Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-10T18:26:26.001Z"
   },
   "pulls": [
+    {
+      "id": 48,
+      "name": "venonat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-10T18:26:26.001Z"
+    },
     {
       "id": 680,
       "name": "doublade",
@@ -116,17 +128,6 @@
       "totalStats": 452,
       "grade": "R",
       "pulledAt": "2026-10-08T18:54:59.602Z"
-    },
-    {
-      "id": 119,
-      "name": "seaking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-10-08T12:16:21.652Z"
     }
   ],
   "pokemon": {
@@ -238,6 +239,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:52:05.180Z",
       "lastPulledAt": "2026-09-16T22:52:05.180Z"
+    },
+    "48": {
+      "id": 48,
+      "name": "venonat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-10T18:26:26.001Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T18:26:26.001Z",
+      "lastPulledAt": "2026-10-10T18:26:26.001Z"
     },
     "56": {
       "id": 56,
