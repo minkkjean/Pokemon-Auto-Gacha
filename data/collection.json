@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 148,
-  "updatedAt": "2026-10-10T01:19:51.677Z",
+  "totalPulls": 149,
+  "updatedAt": "2026-10-10T07:25:18.421Z",
   "lastPull": {
-    "id": 506,
-    "name": "lillipup",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+    "id": 846,
+    "name": "arrokuda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 275,
+    "totalStats": 280,
     "grade": "N",
-    "pulledAt": "2026-10-10T01:19:51.677Z"
+    "pulledAt": "2026-10-10T07:25:18.421Z"
   },
   "pulls": [
+    {
+      "id": 846,
+      "name": "arrokuda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-10-10T07:25:18.421Z"
+    },
     {
       "id": 506,
       "name": "lillipup",
@@ -114,18 +125,6 @@
       "totalStats": 180,
       "grade": "N",
       "pulledAt": "2026-10-08T05:46:51.386Z"
-    },
-    {
-      "id": 413,
-      "name": "wormadam-plant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 424,
-      "grade": "R",
-      "pulledAt": "2026-10-07T23:51:20.790Z"
     }
   ],
   "pokemon": {
@@ -1750,6 +1749,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T01:25:11.508Z",
       "lastPulledAt": "2026-09-23T01:25:11.508Z"
+    },
+    "846": {
+      "id": 846,
+      "name": "arrokuda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-10-10T07:25:18.421Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T07:25:18.421Z",
+      "lastPulledAt": "2026-10-10T07:25:18.421Z"
     },
     "849": {
       "id": 849,
