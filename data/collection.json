@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 147,
-  "updatedAt": "2026-10-09T21:46:31.653Z",
+  "totalPulls": 148,
+  "updatedAt": "2026-10-10T01:19:51.677Z",
   "lastPull": {
-    "id": 314,
-    "name": "illumise",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+    "id": 506,
+    "name": "lillipup",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
     "types": [
-      "bug"
+      "normal"
     ],
-    "totalStats": 430,
-    "grade": "R",
-    "pulledAt": "2026-10-09T21:46:31.653Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-10-10T01:19:51.677Z"
   },
   "pulls": [
+    {
+      "id": 506,
+      "name": "lillipup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-10T01:19:51.677Z"
+    },
     {
       "id": 314,
       "name": "illumise",
@@ -115,18 +126,6 @@
       "totalStats": 424,
       "grade": "R",
       "pulledAt": "2026-10-07T23:51:20.790Z"
-    },
-    {
-      "id": 877,
-      "name": "morpeko-full-belly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
-      "types": [
-        "electric",
-        "dark"
-      ],
-      "totalStats": 436,
-      "grade": "R",
-      "pulledAt": "2026-10-07T19:39:29.520Z"
     }
   ],
   "pokemon": {
@@ -1190,10 +1189,10 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-09-25T07:35:22.101Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T07:35:22.101Z",
-      "lastPulledAt": "2026-09-25T07:35:22.101Z"
+      "lastPulledAt": "2026-10-10T01:19:51.677Z"
     },
     "513": {
       "id": 513,
