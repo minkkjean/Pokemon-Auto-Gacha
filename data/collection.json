@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 151,
-  "updatedAt": "2026-10-10T18:26:26.001Z",
+  "totalPulls": 152,
+  "updatedAt": "2026-10-10T21:57:36.996Z",
   "lastPull": {
-    "id": 48,
-    "name": "venonat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "id": 987,
+    "name": "flutter-mane",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
     "types": [
-      "bug",
-      "poison"
+      "ghost",
+      "fairy"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-10-10T18:26:26.001Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-10T21:57:36.996Z"
   },
   "pulls": [
+    {
+      "id": 987,
+      "name": "flutter-mane",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T21:57:36.996Z"
+    },
     {
       "id": 48,
       "name": "venonat",
@@ -117,17 +129,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-08T23:42:34.686Z"
-    },
-    {
-      "id": 705,
-      "name": "sliggoo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 452,
-      "grade": "R",
-      "pulledAt": "2026-10-08T18:54:59.602Z"
     }
   ],
   "pokemon": {
@@ -2189,6 +2190,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T15:50:26.330Z",
       "lastPulledAt": "2026-09-30T15:50:26.330Z"
+    },
+    "987": {
+      "id": 987,
+      "name": "flutter-mane",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T21:57:36.996Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T21:57:36.996Z",
+      "lastPulledAt": "2026-10-10T21:57:36.996Z"
     },
     "992": {
       "id": 992,
