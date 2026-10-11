@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 154,
-  "updatedAt": "2026-10-11T06:59:23.071Z",
+  "totalPulls": 155,
+  "updatedAt": "2026-10-11T13:56:30.596Z",
   "lastPull": {
-    "id": 179,
-    "name": "mareep",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+    "id": 639,
+    "name": "terrakion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
     "types": [
-      "electric"
+      "rock",
+      "fighting"
     ],
-    "totalStats": 280,
-    "grade": "N",
-    "pulledAt": "2026-10-11T06:59:23.071Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-11T13:56:30.596Z"
   },
   "pulls": [
+    {
+      "id": 639,
+      "name": "terrakion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
+      "types": [
+        "rock",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T13:56:30.596Z"
+    },
     {
       "id": 179,
       "name": "mareep",
@@ -115,18 +128,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-09T17:11:35.614Z"
-    },
-    {
-      "id": 978,
-      "name": "tatsugiri-curly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
-      "types": [
-        "dragon",
-        "water"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-09T10:37:28.169Z"
     }
   ],
   "pokemon": {
@@ -1395,6 +1396,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T04:56:19.711Z",
       "lastPulledAt": "2026-09-26T04:56:19.711Z"
+    },
+    "639": {
+      "id": 639,
+      "name": "terrakion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
+      "types": [
+        "rock",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T13:56:30.596Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T13:56:30.596Z",
+      "lastPulledAt": "2026-10-11T13:56:30.596Z"
     },
     "649": {
       "id": 649,
