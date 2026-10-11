@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 155,
-  "updatedAt": "2026-10-11T13:56:30.596Z",
+  "totalPulls": 156,
+  "updatedAt": "2026-10-11T18:46:04.349Z",
   "lastPull": {
-    "id": 639,
-    "name": "terrakion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
+    "id": 565,
+    "name": "carracosta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
     "types": [
-      "rock",
-      "fighting"
+      "water",
+      "rock"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-11T13:56:30.596Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-11T18:46:04.349Z"
   },
   "pulls": [
+    {
+      "id": 565,
+      "name": "carracosta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-11T18:46:04.349Z"
+    },
     {
       "id": 639,
       "name": "terrakion",
@@ -117,17 +129,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-10-09T21:46:31.653Z"
-    },
-    {
-      "id": 814,
-      "name": "raboot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-09T17:11:35.614Z"
     }
   ],
   "pokemon": {
@@ -1316,10 +1317,10 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-17T01:16:32.832Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T01:16:32.832Z",
-      "lastPulledAt": "2026-09-17T01:16:32.832Z"
+      "lastPulledAt": "2026-10-11T18:46:04.349Z"
     },
     "601": {
       "id": 601,
