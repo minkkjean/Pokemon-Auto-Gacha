@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 159,
-  "updatedAt": "2026-10-12T08:07:24.628Z",
+  "totalPulls": 160,
+  "updatedAt": "2026-10-12T17:54:19.586Z",
   "lastPull": {
-    "id": 1013,
-    "name": "sinistcha",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
+    "id": 830,
+    "name": "eldegoss",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png",
     "types": [
-      "grass",
-      "ghost"
+      "grass"
     ],
-    "totalStats": 508,
-    "grade": "SR",
-    "pulledAt": "2026-10-12T08:07:24.628Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-10-12T17:54:19.586Z"
   },
   "pulls": [
+    {
+      "id": 830,
+      "name": "eldegoss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-12T17:54:19.586Z"
+    },
     {
       "id": 1013,
       "name": "sinistcha",
@@ -118,18 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-10T18:26:26.001Z"
-    },
-    {
-      "id": 680,
-      "name": "doublade",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
-      "types": [
-        "steel",
-        "ghost"
-      ],
-      "totalStats": 448,
-      "grade": "R",
-      "pulledAt": "2026-10-10T13:56:25.933Z"
     }
   ],
   "pokemon": {
@@ -1831,6 +1829,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T05:46:51.386Z",
       "lastPulledAt": "2026-10-08T05:46:51.386Z"
+    },
+    "830": {
+      "id": 830,
+      "name": "eldegoss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-12T17:54:19.586Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-12T17:54:19.586Z",
+      "lastPulledAt": "2026-10-12T17:54:19.586Z"
     },
     "837": {
       "id": 837,
