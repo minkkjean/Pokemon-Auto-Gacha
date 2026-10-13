@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 161,
-  "updatedAt": "2026-10-13T00:30:09.286Z",
+  "totalPulls": 162,
+  "updatedAt": "2026-10-13T07:06:11.728Z",
   "lastPull": {
-    "id": 66,
-    "name": "machop",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "id": 702,
+    "name": "dedenne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
     "types": [
-      "fighting"
+      "electric",
+      "fairy"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-10-13T00:30:09.286Z"
+    "totalStats": 431,
+    "grade": "R",
+    "pulledAt": "2026-10-13T07:06:11.728Z"
   },
   "pulls": [
+    {
+      "id": 702,
+      "name": "dedenne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 431,
+      "grade": "R",
+      "pulledAt": "2026-10-13T07:06:11.728Z"
+    },
     {
       "id": 66,
       "name": "machop",
@@ -115,18 +128,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-10-11T00:51:25.568Z"
-    },
-    {
-      "id": 987,
-      "name": "flutter-mane",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
-      "types": [
-        "ghost",
-        "fairy"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-10T21:57:36.996Z"
     }
   ],
   "pokemon": {
@@ -1565,6 +1566,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T01:55:54.383Z",
       "lastPulledAt": "2026-09-28T01:55:54.383Z"
+    },
+    "702": {
+      "id": 702,
+      "name": "dedenne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 431,
+      "grade": "R",
+      "pulledAt": "2026-10-13T07:06:11.728Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T07:06:11.728Z",
+      "lastPulledAt": "2026-10-13T07:06:11.728Z"
     },
     "705": {
       "id": 705,
