@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 160,
-  "updatedAt": "2026-10-12T17:54:19.586Z",
+  "totalPulls": 161,
+  "updatedAt": "2026-10-13T00:30:09.286Z",
   "lastPull": {
-    "id": 830,
-    "name": "eldegoss",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png",
+    "id": 66,
+    "name": "machop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
     "types": [
-      "grass"
+      "fighting"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-10-12T17:54:19.586Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-13T00:30:09.286Z"
   },
   "pulls": [
+    {
+      "id": 66,
+      "name": "machop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-13T00:30:09.286Z"
+    },
     {
       "id": 830,
       "name": "eldegoss",
@@ -116,18 +127,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-10T21:57:36.996Z"
-    },
-    {
-      "id": 48,
-      "name": "venonat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-10T18:26:26.001Z"
     }
   ],
   "pokemon": {
@@ -270,6 +269,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T01:05:51.603Z",
       "lastPulledAt": "2026-09-19T01:05:51.603Z"
+    },
+    "66": {
+      "id": 66,
+      "name": "machop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-13T00:30:09.286Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T00:30:09.286Z",
+      "lastPulledAt": "2026-10-13T00:30:09.286Z"
     },
     "72": {
       "id": 72,
