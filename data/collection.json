@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 164,
-  "updatedAt": "2026-10-13T20:39:52.566Z",
+  "totalPulls": 165,
+  "updatedAt": "2026-10-13T23:57:17.795Z",
   "lastPull": {
-    "id": 425,
-    "name": "drifloon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
+    "id": 180,
+    "name": "flaaffy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
     "types": [
-      "ghost",
-      "flying"
+      "electric"
     ],
-    "totalStats": 348,
+    "totalStats": 365,
     "grade": "N",
-    "pulledAt": "2026-10-13T20:39:52.566Z"
+    "pulledAt": "2026-10-13T23:57:17.795Z"
   },
   "pulls": [
+    {
+      "id": 180,
+      "name": "flaaffy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-10-13T23:57:17.795Z"
+    },
     {
       "id": 425,
       "name": "drifloon",
@@ -118,18 +128,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-11T18:46:04.349Z"
-    },
-    {
-      "id": 639,
-      "name": "terrakion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
-      "types": [
-        "rock",
-        "fighting"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-11T13:56:30.596Z"
     }
   ],
   "pokemon": {
@@ -518,6 +516,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T06:59:23.071Z",
       "lastPulledAt": "2026-10-11T06:59:23.071Z"
+    },
+    "180": {
+      "id": 180,
+      "name": "flaaffy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 365,
+      "grade": "N",
+      "pulledAt": "2026-10-13T23:57:17.795Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T23:57:17.795Z",
+      "lastPulledAt": "2026-10-13T23:57:17.795Z"
     },
     "187": {
       "id": 187,
