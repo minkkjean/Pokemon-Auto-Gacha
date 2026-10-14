@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 167,
-  "updatedAt": "2026-10-14T09:47:44.178Z",
+  "totalPulls": 168,
+  "updatedAt": "2026-10-14T14:44:35.613Z",
   "lastPull": {
-    "id": 979,
-    "name": "annihilape",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+    "id": 44,
+    "name": "gloom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
     "types": [
-      "fighting",
-      "ghost"
+      "grass",
+      "poison"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-10-14T09:47:44.178Z"
+    "totalStats": 395,
+    "grade": "N",
+    "pulledAt": "2026-10-14T14:44:35.613Z"
   },
   "pulls": [
+    {
+      "id": 44,
+      "name": "gloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-10-14T14:44:35.613Z"
+    },
     {
       "id": 979,
       "name": "annihilape",
@@ -118,17 +130,6 @@
       "totalStats": 508,
       "grade": "SR",
       "pulledAt": "2026-10-12T08:07:24.628Z"
-    },
-    {
-      "id": 563,
-      "name": "cofagrigus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 483,
-      "grade": "R",
-      "pulledAt": "2026-10-12T01:46:56.198Z"
     }
   ],
   "pokemon": {
@@ -208,6 +209,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T11:52:46.225Z",
       "lastPulledAt": "2026-09-17T11:52:46.225Z"
+    },
+    "44": {
+      "id": 44,
+      "name": "gloom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-10-14T14:44:35.613Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T14:44:35.613Z",
+      "lastPulledAt": "2026-10-14T14:44:35.613Z"
     },
     "45": {
       "id": 45,
