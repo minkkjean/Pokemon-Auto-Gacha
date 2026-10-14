@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 168,
-  "updatedAt": "2026-10-14T14:44:35.613Z",
+  "totalPulls": 169,
+  "updatedAt": "2026-10-14T18:59:32.344Z",
   "lastPull": {
-    "id": 44,
-    "name": "gloom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+    "id": 529,
+    "name": "drilbur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
     "types": [
-      "grass",
-      "poison"
+      "ground"
     ],
-    "totalStats": 395,
+    "totalStats": 328,
     "grade": "N",
-    "pulledAt": "2026-10-14T14:44:35.613Z"
+    "pulledAt": "2026-10-14T18:59:32.344Z"
   },
   "pulls": [
+    {
+      "id": 529,
+      "name": "drilbur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 328,
+      "grade": "N",
+      "pulledAt": "2026-10-14T18:59:32.344Z"
+    },
     {
       "id": 44,
       "name": "gloom",
@@ -118,18 +128,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-10-12T17:54:19.586Z"
-    },
-    {
-      "id": 1013,
-      "name": "sinistcha",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 508,
-      "grade": "SR",
-      "pulledAt": "2026-10-12T08:07:24.628Z"
     }
   ],
   "pokemon": {
@@ -1336,6 +1334,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T19:00:05.566Z",
       "lastPulledAt": "2026-09-20T19:00:05.566Z"
+    },
+    "529": {
+      "id": 529,
+      "name": "drilbur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 328,
+      "grade": "N",
+      "pulledAt": "2026-10-14T18:59:32.344Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T18:59:32.344Z",
+      "lastPulledAt": "2026-10-14T18:59:32.344Z"
     },
     "531": {
       "id": 531,
