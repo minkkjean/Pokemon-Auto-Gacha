@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 169,
-  "updatedAt": "2026-10-14T18:59:32.344Z",
+  "totalPulls": 170,
+  "updatedAt": "2026-10-14T22:14:31.317Z",
   "lastPull": {
-    "id": 529,
-    "name": "drilbur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "id": 856,
+    "name": "hatenna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
     "types": [
-      "ground"
+      "psychic"
     ],
-    "totalStats": 328,
+    "totalStats": 265,
     "grade": "N",
-    "pulledAt": "2026-10-14T18:59:32.344Z"
+    "pulledAt": "2026-10-14T22:14:31.317Z"
   },
   "pulls": [
+    {
+      "id": 856,
+      "name": "hatenna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-10-14T22:14:31.317Z"
+    },
     {
       "id": 529,
       "name": "drilbur",
@@ -117,17 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-13T00:30:09.286Z"
-    },
-    {
-      "id": 830,
-      "name": "eldegoss",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-10-12T17:54:19.586Z"
     }
   ],
   "pokemon": {
@@ -2026,10 +2026,10 @@
       "totalStats": 265,
       "grade": "N",
       "pulledAt": "2026-09-30T08:56:15.379Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T08:56:15.379Z",
-      "lastPulledAt": "2026-09-30T08:56:15.379Z"
+      "lastPulledAt": "2026-10-14T22:14:31.317Z"
     },
     "858": {
       "id": 858,
