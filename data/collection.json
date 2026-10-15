@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 170,
-  "updatedAt": "2026-10-14T22:14:31.317Z",
+  "totalPulls": 171,
+  "updatedAt": "2026-10-15T00:36:51.977Z",
   "lastPull": {
-    "id": 856,
-    "name": "hatenna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+    "id": 673,
+    "name": "gogoat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
     "types": [
-      "psychic"
+      "grass"
     ],
-    "totalStats": 265,
-    "grade": "N",
-    "pulledAt": "2026-10-14T22:14:31.317Z"
+    "totalStats": 531,
+    "grade": "SR",
+    "pulledAt": "2026-10-15T00:36:51.977Z"
   },
   "pulls": [
+    {
+      "id": 673,
+      "name": "gogoat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 531,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T00:36:51.977Z"
+    },
     {
       "id": 856,
       "name": "hatenna",
@@ -117,17 +128,6 @@
       "totalStats": 431,
       "grade": "R",
       "pulledAt": "2026-10-13T07:06:11.728Z"
-    },
-    {
-      "id": 66,
-      "name": "machop",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-13T00:30:09.286Z"
     }
   ],
   "pokemon": {
@@ -1597,6 +1597,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:47:15.558Z",
       "lastPulledAt": "2026-09-22T06:47:15.558Z"
+    },
+    "673": {
+      "id": 673,
+      "name": "gogoat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 531,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T00:36:51.977Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T00:36:51.977Z",
+      "lastPulledAt": "2026-10-15T00:36:51.977Z"
     },
     "680": {
       "id": 680,
