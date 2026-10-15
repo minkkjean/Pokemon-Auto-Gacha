@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 172,
-  "updatedAt": "2026-10-15T05:14:02.153Z",
+  "totalPulls": 173,
+  "updatedAt": "2026-10-15T10:05:44.495Z",
   "lastPull": {
-    "id": 219,
-    "name": "magcargo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+    "id": 29,
+    "name": "nidoran-f",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
     "types": [
-      "fire",
-      "rock"
+      "poison"
     ],
-    "totalStats": 430,
-    "grade": "R",
-    "pulledAt": "2026-10-15T05:14:02.153Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-10-15T10:05:44.495Z"
   },
   "pulls": [
+    {
+      "id": 29,
+      "name": "nidoran-f",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-15T10:05:44.495Z"
+    },
     {
       "id": 219,
       "name": "magcargo",
@@ -117,18 +127,6 @@
       "totalStats": 348,
       "grade": "N",
       "pulledAt": "2026-10-13T20:39:52.566Z"
-    },
-    {
-      "id": 430,
-      "name": "honchkrow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-13T15:02:23.451Z"
     }
   ],
   "pokemon": {
@@ -193,6 +191,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T19:23:26.973Z",
       "lastPulledAt": "2026-09-19T19:23:26.973Z"
+    },
+    "29": {
+      "id": 29,
+      "name": "nidoran-f",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-15T10:05:44.495Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T10:05:44.495Z",
+      "lastPulledAt": "2026-10-15T10:05:44.495Z"
     },
     "36": {
       "id": 36,
