@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 175,
-  "updatedAt": "2026-10-15T19:04:06.756Z",
+  "totalPulls": 176,
+  "updatedAt": "2026-10-15T22:14:26.543Z",
   "lastPull": {
-    "id": 693,
-    "name": "clawitzer",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
+    "id": 783,
+    "name": "hakamo-o",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
     "types": [
-      "water"
+      "dragon",
+      "fighting"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-15T19:04:06.756Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-15T22:14:26.543Z"
   },
   "pulls": [
+    {
+      "id": 783,
+      "name": "hakamo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-15T22:14:26.543Z"
+    },
     {
       "id": 693,
       "name": "clawitzer",
@@ -115,17 +128,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-14T09:47:44.178Z"
-    },
-    {
-      "id": 963,
-      "name": "finizen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 315,
-      "grade": "N",
-      "pulledAt": "2026-10-14T04:42:32.353Z"
     }
   ],
   "pokemon": {
@@ -1936,6 +1938,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T23:34:17.583Z",
       "lastPulledAt": "2026-09-24T23:34:17.583Z"
+    },
+    "783": {
+      "id": 783,
+      "name": "hakamo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-15T22:14:26.543Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T22:14:26.543Z",
+      "lastPulledAt": "2026-10-15T22:14:26.543Z"
     },
     "797": {
       "id": 797,
