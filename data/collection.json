@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 171,
-  "updatedAt": "2026-10-15T00:36:51.977Z",
+  "totalPulls": 172,
+  "updatedAt": "2026-10-15T05:14:02.153Z",
   "lastPull": {
-    "id": 673,
-    "name": "gogoat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+    "id": 219,
+    "name": "magcargo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
     "types": [
-      "grass"
+      "fire",
+      "rock"
     ],
-    "totalStats": 531,
-    "grade": "SR",
-    "pulledAt": "2026-10-15T00:36:51.977Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-10-15T05:14:02.153Z"
   },
   "pulls": [
+    {
+      "id": 219,
+      "name": "magcargo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-15T05:14:02.153Z"
+    },
     {
       "id": 673,
       "name": "gogoat",
@@ -116,18 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-13T15:02:23.451Z"
-    },
-    {
-      "id": 702,
-      "name": "dedenne",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
-      "types": [
-        "electric",
-        "fairy"
-      ],
-      "totalStats": 431,
-      "grade": "R",
-      "pulledAt": "2026-10-13T07:06:11.728Z"
     }
   ],
   "pokemon": {
@@ -641,6 +642,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T02:18:07.425Z",
       "lastPulledAt": "2026-09-29T02:18:07.425Z"
+    },
+    "219": {
+      "id": 219,
+      "name": "magcargo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-15T05:14:02.153Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T05:14:02.153Z",
+      "lastPulledAt": "2026-10-15T05:14:02.153Z"
     },
     "224": {
       "id": 224,
