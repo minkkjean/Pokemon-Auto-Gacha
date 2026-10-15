@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 173,
-  "updatedAt": "2026-10-15T10:05:44.495Z",
+  "totalPulls": 174,
+  "updatedAt": "2026-10-15T14:59:50.864Z",
   "lastPull": {
-    "id": 29,
-    "name": "nidoran-f",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+    "id": 351,
+    "name": "castform",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
     "types": [
-      "poison"
+      "normal"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-10-15T10:05:44.495Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-15T14:59:50.864Z"
   },
   "pulls": [
+    {
+      "id": 351,
+      "name": "castform",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-15T14:59:50.864Z"
+    },
     {
       "id": 29,
       "name": "nidoran-f",
@@ -115,18 +126,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-10-13T23:57:17.795Z"
-    },
-    {
-      "id": 425,
-      "name": "drifloon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
-      "types": [
-        "ghost",
-        "flying"
-      ],
-      "totalStats": 348,
-      "grade": "N",
-      "pulledAt": "2026-10-13T20:39:52.566Z"
     }
   ],
   "pokemon": {
@@ -993,6 +992,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T05:45:38.840Z",
       "lastPulledAt": "2026-09-18T05:45:38.840Z"
+    },
+    "351": {
+      "id": 351,
+      "name": "castform",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-15T14:59:50.864Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T14:59:50.864Z",
+      "lastPulledAt": "2026-10-15T14:59:50.864Z"
     },
     "366": {
       "id": 366,
