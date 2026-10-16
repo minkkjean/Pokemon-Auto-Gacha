@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 182,
-  "updatedAt": "2026-10-16T21:23:29.278Z",
+  "totalPulls": 183,
+  "updatedAt": "2026-10-16T23:48:35.797Z",
   "lastPull": {
-    "id": 300,
-    "name": "skitty",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png",
+    "id": 881,
+    "name": "arctozolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
     "types": [
-      "normal"
+      "electric",
+      "ice"
     ],
-    "totalStats": 260,
-    "grade": "N",
-    "pulledAt": "2026-10-16T21:23:29.278Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-16T23:48:35.797Z"
   },
   "pulls": [
+    {
+      "id": 881,
+      "name": "arctozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
+      "types": [
+        "electric",
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T23:48:35.797Z"
+    },
     {
       "id": 300,
       "name": "skitty",
@@ -117,17 +130,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-15T14:59:50.864Z"
-    },
-    {
-      "id": 29,
-      "name": "nidoran-f",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-10-15T10:05:44.495Z"
     }
   ],
   "pokemon": {
@@ -2310,6 +2312,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T00:05:59.321Z",
       "lastPulledAt": "2026-10-01T18:59:34.863Z"
+    },
+    "881": {
+      "id": 881,
+      "name": "arctozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
+      "types": [
+        "electric",
+        "ice"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T23:48:35.797Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T23:48:35.797Z",
+      "lastPulledAt": "2026-10-16T23:48:35.797Z"
     },
     "882": {
       "id": 882,
