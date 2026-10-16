@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 177,
-  "updatedAt": "2026-10-16T00:29:52.001Z",
+  "totalPulls": 178,
+  "updatedAt": "2026-10-16T04:56:24.223Z",
   "lastPull": {
-    "id": 937,
-    "name": "ceruledge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+    "id": 317,
+    "name": "swalot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
     "types": [
-      "fire",
-      "ghost"
+      "poison"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-16T00:29:52.001Z"
+    "totalStats": 467,
+    "grade": "R",
+    "pulledAt": "2026-10-16T04:56:24.223Z"
   },
   "pulls": [
+    {
+      "id": 317,
+      "name": "swalot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 467,
+      "grade": "R",
+      "pulledAt": "2026-10-16T04:56:24.223Z"
+    },
     {
       "id": 937,
       "name": "ceruledge",
@@ -116,18 +126,6 @@
       "totalStats": 328,
       "grade": "N",
       "pulledAt": "2026-10-14T18:59:32.344Z"
-    },
-    {
-      "id": 44,
-      "name": "gloom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-10-14T14:44:35.613Z"
     }
   ],
   "pokemon": {
@@ -912,10 +910,10 @@
       "totalStats": 467,
       "grade": "R",
       "pulledAt": "2026-09-27T20:27:54.475Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T20:27:54.475Z",
-      "lastPulledAt": "2026-10-04T09:36:15.482Z"
+      "lastPulledAt": "2026-10-16T04:56:24.223Z"
     },
     "319": {
       "id": 319,
