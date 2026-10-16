@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 180,
-  "updatedAt": "2026-10-16T14:19:05.187Z",
+  "totalPulls": 181,
+  "updatedAt": "2026-10-16T18:13:44.909Z",
   "lastPull": {
-    "id": 329,
-    "name": "vibrava",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+    "id": 256,
+    "name": "combusken",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
     "types": [
-      "ground",
-      "dragon"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-10-16T14:19:05.187Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-16T18:13:44.909Z"
   },
   "pulls": [
+    {
+      "id": 256,
+      "name": "combusken",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-16T18:13:44.909Z"
+    },
     {
       "id": 329,
       "name": "vibrava",
@@ -118,17 +130,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-10-15T05:14:02.153Z"
-    },
-    {
-      "id": 673,
-      "name": "gogoat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 531,
-      "grade": "SR",
-      "pulledAt": "2026-10-15T00:36:51.977Z"
     }
   ],
   "pokemon": {
@@ -734,6 +735,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:41:21.024Z",
       "lastPulledAt": "2026-09-16T01:41:21.024Z"
+    },
+    "256": {
+      "id": 256,
+      "name": "combusken",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-16T18:13:44.909Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T18:13:44.909Z",
+      "lastPulledAt": "2026-10-16T18:13:44.909Z"
     },
     "262": {
       "id": 262,
