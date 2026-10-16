@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 178,
-  "updatedAt": "2026-10-16T04:56:24.223Z",
+  "totalPulls": 179,
+  "updatedAt": "2026-10-16T09:39:11.999Z",
   "lastPull": {
-    "id": 317,
-    "name": "swalot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+    "id": 348,
+    "name": "armaldo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
     "types": [
-      "poison"
+      "rock",
+      "bug"
     ],
-    "totalStats": 467,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-10-16T04:56:24.223Z"
+    "pulledAt": "2026-10-16T09:39:11.999Z"
   },
   "pulls": [
+    {
+      "id": 348,
+      "name": "armaldo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
+      "types": [
+        "rock",
+        "bug"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-16T09:39:11.999Z"
+    },
     {
       "id": 317,
       "name": "swalot",
@@ -115,17 +128,6 @@
       "totalStats": 265,
       "grade": "N",
       "pulledAt": "2026-10-14T22:14:31.317Z"
-    },
-    {
-      "id": 529,
-      "name": "drilbur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 328,
-      "grade": "N",
-      "pulledAt": "2026-10-14T18:59:32.344Z"
     }
   ],
   "pokemon": {
@@ -992,6 +994,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T05:45:38.840Z",
       "lastPulledAt": "2026-09-18T05:45:38.840Z"
+    },
+    "348": {
+      "id": 348,
+      "name": "armaldo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
+      "types": [
+        "rock",
+        "bug"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-16T09:39:11.999Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T09:39:11.999Z",
+      "lastPulledAt": "2026-10-16T09:39:11.999Z"
     },
     "351": {
       "id": 351,
