@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 190,
-  "updatedAt": "2026-10-17T21:47:11.633Z",
+  "totalPulls": 191,
+  "updatedAt": "2026-10-17T23:31:37.090Z",
   "lastPull": {
-    "id": 599,
-    "name": "klink",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+    "id": 699,
+    "name": "aurorus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
     "types": [
-      "steel"
+      "rock",
+      "ice"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-17T21:47:11.633Z"
+    "totalStats": 521,
+    "grade": "SR",
+    "pulledAt": "2026-10-17T23:31:37.090Z"
   },
   "pulls": [
+    {
+      "id": 699,
+      "name": "aurorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+      "types": [
+        "rock",
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T23:31:37.090Z"
+    },
     {
       "id": 599,
       "name": "klink",
@@ -117,18 +130,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-10-16T21:23:29.278Z"
-    },
-    {
-      "id": 256,
-      "name": "combusken",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-16T18:13:44.909Z"
     }
   ],
   "pokemon": {
@@ -1893,6 +1894,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T19:04:06.756Z",
       "lastPulledAt": "2026-10-15T19:04:06.756Z"
+    },
+    "699": {
+      "id": 699,
+      "name": "aurorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+      "types": [
+        "rock",
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T23:31:37.090Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T23:31:37.090Z",
+      "lastPulledAt": "2026-10-17T23:31:37.090Z"
     },
     "702": {
       "id": 702,
