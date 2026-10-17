@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 189,
-  "updatedAt": "2026-10-17T19:41:41.348Z",
+  "totalPulls": 190,
+  "updatedAt": "2026-10-17T21:47:11.633Z",
   "lastPull": {
-    "id": 442,
-    "name": "spiritomb",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
+    "id": 599,
+    "name": "klink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
     "types": [
-      "ghost",
-      "dark"
+      "steel"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-17T19:41:41.348Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-17T21:47:11.633Z"
   },
   "pulls": [
+    {
+      "id": 599,
+      "name": "klink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-17T21:47:11.633Z"
+    },
     {
       "id": 442,
       "name": "spiritomb",
@@ -119,18 +129,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-16T18:13:44.909Z"
-    },
-    {
-      "id": 329,
-      "name": "vibrava",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
-      "types": [
-        "ground",
-        "dragon"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-10-16T14:19:05.187Z"
     }
   ],
   "pokemon": {
@@ -1649,6 +1647,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T14:25:20.054Z",
       "lastPulledAt": "2026-10-17T14:25:20.054Z"
+    },
+    "599": {
+      "id": 599,
+      "name": "klink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-17T21:47:11.633Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T21:47:11.633Z",
+      "lastPulledAt": "2026-10-17T21:47:11.633Z"
     },
     "601": {
       "id": 601,
