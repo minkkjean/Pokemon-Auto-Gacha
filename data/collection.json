@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 187,
-  "updatedAt": "2026-10-17T14:25:20.054Z",
+  "totalPulls": 188,
+  "updatedAt": "2026-10-17T17:29:40.795Z",
   "lastPull": {
-    "id": 574,
-    "name": "gothita",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+    "id": 356,
+    "name": "dusclops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
     "types": [
-      "psychic"
+      "ghost"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-10-17T14:25:20.054Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-10-17T17:29:40.795Z"
   },
   "pulls": [
+    {
+      "id": 356,
+      "name": "dusclops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-17T17:29:40.795Z"
+    },
     {
       "id": 574,
       "name": "gothita",
@@ -119,17 +130,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-16T09:39:11.999Z"
-    },
-    {
-      "id": 317,
-      "name": "swalot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 467,
-      "grade": "R",
-      "pulledAt": "2026-10-16T04:56:24.223Z"
     }
   ],
   "pokemon": {
@@ -1106,6 +1106,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T14:59:50.864Z",
       "lastPulledAt": "2026-10-15T14:59:50.864Z"
+    },
+    "356": {
+      "id": 356,
+      "name": "dusclops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-17T17:29:40.795Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T17:29:40.795Z",
+      "lastPulledAt": "2026-10-17T17:29:40.795Z"
     },
     "366": {
       "id": 366,
