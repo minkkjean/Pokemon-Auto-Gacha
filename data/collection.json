@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 188,
-  "updatedAt": "2026-10-17T17:29:40.795Z",
+  "totalPulls": 189,
+  "updatedAt": "2026-10-17T19:41:41.348Z",
   "lastPull": {
-    "id": 356,
-    "name": "dusclops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+    "id": 442,
+    "name": "spiritomb",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
     "types": [
-      "ghost"
+      "ghost",
+      "dark"
     ],
-    "totalStats": 455,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-10-17T17:29:40.795Z"
+    "pulledAt": "2026-10-17T19:41:41.348Z"
   },
   "pulls": [
+    {
+      "id": 442,
+      "name": "spiritomb",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
+      "types": [
+        "ghost",
+        "dark"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-17T19:41:41.348Z"
+    },
     {
       "id": 356,
       "name": "dusclops",
@@ -118,18 +131,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-16T14:19:05.187Z"
-    },
-    {
-      "id": 348,
-      "name": "armaldo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
-      "types": [
-        "rock",
-        "bug"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-16T09:39:11.999Z"
     }
   ],
   "pokemon": {
@@ -1337,6 +1338,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T22:31:57.050Z",
       "lastPulledAt": "2026-10-11T22:31:57.050Z"
+    },
+    "442": {
+      "id": 442,
+      "name": "spiritomb",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
+      "types": [
+        "ghost",
+        "dark"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-17T19:41:41.348Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T19:41:41.348Z",
+      "lastPulledAt": "2026-10-17T19:41:41.348Z"
     },
     "447": {
       "id": 447,
