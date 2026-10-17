@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 186,
-  "updatedAt": "2026-10-17T11:31:32.216Z",
+  "totalPulls": 187,
+  "updatedAt": "2026-10-17T14:25:20.054Z",
   "lastPull": {
-    "id": 91,
-    "name": "cloyster",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+    "id": 574,
+    "name": "gothita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
     "types": [
-      "water",
-      "ice"
+      "psychic"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-17T11:31:32.216Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-10-17T14:25:20.054Z"
   },
   "pulls": [
+    {
+      "id": 574,
+      "name": "gothita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-17T14:25:20.054Z"
+    },
     {
       "id": 91,
       "name": "cloyster",
@@ -120,18 +130,6 @@
       "totalStats": 467,
       "grade": "R",
       "pulledAt": "2026-10-16T04:56:24.223Z"
-    },
-    {
-      "id": 937,
-      "name": "ceruledge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
-      "types": [
-        "fire",
-        "ghost"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-16T00:29:52.001Z"
     }
   ],
   "pokemon": {
@@ -1604,6 +1602,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T01:16:32.832Z",
       "lastPulledAt": "2026-10-11T18:46:04.349Z"
+    },
+    "574": {
+      "id": 574,
+      "name": "gothita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-17T14:25:20.054Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T14:25:20.054Z",
+      "lastPulledAt": "2026-10-17T14:25:20.054Z"
     },
     "601": {
       "id": 601,
