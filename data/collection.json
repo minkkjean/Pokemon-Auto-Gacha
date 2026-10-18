@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 196,
-  "updatedAt": "2026-10-18T17:58:42.560Z",
+  "totalPulls": 197,
+  "updatedAt": "2026-10-18T20:33:01.790Z",
   "lastPull": {
-    "id": 608,
-    "name": "lampent",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
+    "id": 195,
+    "name": "quagsire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
     "types": [
-      "ghost",
-      "fire"
+      "water",
+      "ground"
     ],
-    "totalStats": 370,
-    "grade": "N",
-    "pulledAt": "2026-10-18T17:58:42.560Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-10-18T20:33:01.790Z"
   },
   "pulls": [
+    {
+      "id": 195,
+      "name": "quagsire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-18T20:33:01.790Z"
+    },
     {
       "id": 608,
       "name": "lampent",
@@ -117,17 +129,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-17T17:29:40.795Z"
-    },
-    {
-      "id": 574,
-      "name": "gothita",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-10-17T14:25:20.054Z"
     }
   ],
   "pokemon": {
@@ -657,6 +658,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T01:54:27.397Z",
       "lastPulledAt": "2026-09-25T01:54:27.397Z"
+    },
+    "195": {
+      "id": 195,
+      "name": "quagsire",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-18T20:33:01.790Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T20:33:01.790Z",
+      "lastPulledAt": "2026-10-18T20:33:01.790Z"
     },
     "199": {
       "id": 199,
