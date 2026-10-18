@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 197,
-  "updatedAt": "2026-10-18T20:33:01.790Z",
+  "totalPulls": 198,
+  "updatedAt": "2026-10-18T22:36:29.373Z",
   "lastPull": {
-    "id": 195,
-    "name": "quagsire",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+    "id": 101,
+    "name": "electrode",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
     "types": [
-      "water",
-      "ground"
+      "electric"
     ],
-    "totalStats": 430,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-10-18T20:33:01.790Z"
+    "pulledAt": "2026-10-18T22:36:29.373Z"
   },
   "pulls": [
+    {
+      "id": 101,
+      "name": "electrode",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-18T22:36:29.373Z"
+    },
     {
       "id": 195,
       "name": "quagsire",
@@ -118,17 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-17T19:41:41.348Z"
-    },
-    {
-      "id": 356,
-      "name": "dusclops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-17T17:29:40.795Z"
     }
   ],
   "pokemon": {
@@ -413,6 +412,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T12:17:24.617Z",
       "lastPulledAt": "2026-09-24T12:17:24.617Z"
+    },
+    "101": {
+      "id": 101,
+      "name": "electrode",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-18T22:36:29.373Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T22:36:29.373Z",
+      "lastPulledAt": "2026-10-18T22:36:29.373Z"
     },
     "110": {
       "id": 110,
