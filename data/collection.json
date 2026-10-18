@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 194,
-  "updatedAt": "2026-10-18T11:43:08.122Z",
+  "totalPulls": 195,
+  "updatedAt": "2026-10-18T14:53:55.169Z",
   "lastPull": {
-    "id": 569,
-    "name": "garbodor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+    "id": 522,
+    "name": "blitzle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
     "types": [
-      "poison"
+      "electric"
     ],
-    "totalStats": 474,
-    "grade": "R",
-    "pulledAt": "2026-10-18T11:43:08.122Z"
+    "totalStats": 295,
+    "grade": "N",
+    "pulledAt": "2026-10-18T14:53:55.169Z"
   },
   "pulls": [
+    {
+      "id": 522,
+      "name": "blitzle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-10-18T14:53:55.169Z"
+    },
     {
       "id": 569,
       "name": "garbodor",
@@ -116,18 +127,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-17T11:31:32.216Z"
-    },
-    {
-      "id": 163,
-      "name": "hoothoot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 262,
-      "grade": "N",
-      "pulledAt": "2026-10-17T06:54:05.911Z"
     }
   ],
   "pokemon": {
@@ -1537,6 +1536,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T19:00:05.566Z",
       "lastPulledAt": "2026-09-20T19:00:05.566Z"
+    },
+    "522": {
+      "id": 522,
+      "name": "blitzle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-10-18T14:53:55.169Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T14:53:55.169Z",
+      "lastPulledAt": "2026-10-18T14:53:55.169Z"
     },
     "529": {
       "id": 529,
