@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 195,
-  "updatedAt": "2026-10-18T14:53:55.169Z",
+  "totalPulls": 196,
+  "updatedAt": "2026-10-18T17:58:42.560Z",
   "lastPull": {
-    "id": 522,
-    "name": "blitzle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
+    "id": 608,
+    "name": "lampent",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
     "types": [
-      "electric"
+      "ghost",
+      "fire"
     ],
-    "totalStats": 295,
+    "totalStats": 370,
     "grade": "N",
-    "pulledAt": "2026-10-18T14:53:55.169Z"
+    "pulledAt": "2026-10-18T17:58:42.560Z"
   },
   "pulls": [
+    {
+      "id": 608,
+      "name": "lampent",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-10-18T17:58:42.560Z"
+    },
     {
       "id": 522,
       "name": "blitzle",
@@ -115,18 +128,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-17T14:25:20.054Z"
-    },
-    {
-      "id": 91,
-      "name": "cloyster",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
-      "types": [
-        "water",
-        "ice"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T11:31:32.216Z"
     }
   ],
   "pokemon": {
@@ -1720,6 +1721,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:50:51.282Z",
       "lastPulledAt": "2026-09-16T01:50:51.282Z"
+    },
+    "608": {
+      "id": 608,
+      "name": "lampent",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-10-18T17:58:42.560Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T17:58:42.560Z",
+      "lastPulledAt": "2026-10-18T17:58:42.560Z"
     },
     "616": {
       "id": 616,
