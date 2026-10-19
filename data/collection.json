@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 198,
-  "updatedAt": "2026-10-18T22:36:29.373Z",
+  "totalPulls": 199,
+  "updatedAt": "2026-10-19T00:30:43.906Z",
   "lastPull": {
-    "id": 101,
-    "name": "electrode",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "id": 981,
+    "name": "farigiraf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
     "types": [
-      "electric"
+      "normal",
+      "psychic"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-18T22:36:29.373Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-19T00:30:43.906Z"
   },
   "pulls": [
+    {
+      "id": 981,
+      "name": "farigiraf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T00:30:43.906Z"
+    },
     {
       "id": 101,
       "name": "electrode",
@@ -116,18 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-17T21:47:11.633Z"
-    },
-    {
-      "id": 442,
-      "name": "spiritomb",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
-      "types": [
-        "ghost",
-        "dark"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-17T19:41:41.348Z"
     }
   ],
   "pokemon": {
@@ -2824,6 +2825,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T09:47:44.178Z",
       "lastPulledAt": "2026-10-14T09:47:44.178Z"
+    },
+    "981": {
+      "id": 981,
+      "name": "farigiraf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T00:30:43.906Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T00:30:43.906Z",
+      "lastPulledAt": "2026-10-19T00:30:43.906Z"
     },
     "983": {
       "id": 983,
