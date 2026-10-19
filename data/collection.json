@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 200,
-  "updatedAt": "2026-10-19T05:19:41.763Z",
+  "totalPulls": 201,
+  "updatedAt": "2026-10-19T11:01:27.394Z",
   "lastPull": {
-    "id": 996,
-    "name": "frigibax",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+    "id": 435,
+    "name": "skuntank",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
     "types": [
-      "dragon",
-      "ice"
+      "poison",
+      "dark"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-10-19T05:19:41.763Z"
+    "totalStats": 479,
+    "grade": "R",
+    "pulledAt": "2026-10-19T11:01:27.394Z"
   },
   "pulls": [
+    {
+      "id": 435,
+      "name": "skuntank",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-10-19T11:01:27.394Z"
+    },
     {
       "id": 996,
       "name": "frigibax",
@@ -118,18 +130,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-18T01:31:48.230Z"
-    },
-    {
-      "id": 699,
-      "name": "aurorus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
-      "types": [
-        "rock",
-        "ice"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T23:31:37.090Z"
     }
   ],
   "pokemon": {
@@ -1368,6 +1368,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T22:31:57.050Z",
       "lastPulledAt": "2026-10-11T22:31:57.050Z"
+    },
+    "435": {
+      "id": 435,
+      "name": "skuntank",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-10-19T11:01:27.394Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T11:01:27.394Z",
+      "lastPulledAt": "2026-10-19T11:01:27.394Z"
     },
     "442": {
       "id": 442,
