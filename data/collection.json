@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 206,
-  "updatedAt": "2026-10-20T10:22:16.269Z",
+  "totalPulls": 207,
+  "updatedAt": "2026-10-20T15:19:41.333Z",
   "lastPull": {
-    "id": 384,
-    "name": "rayquaza",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+    "id": 87,
+    "name": "dewgong",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
     "types": [
-      "dragon",
-      "flying"
+      "water",
+      "ice"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-10-20T10:22:16.269Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-10-20T15:19:41.333Z"
   },
   "pulls": [
+    {
+      "id": 87,
+      "name": "dewgong",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-20T15:19:41.333Z"
+    },
     {
       "id": 384,
       "name": "rayquaza",
@@ -119,18 +131,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-18T22:36:29.373Z"
-    },
-    {
-      "id": 195,
-      "name": "quagsire",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 430,
-      "grade": "R",
-      "pulledAt": "2026-10-18T20:33:01.790Z"
     }
   ],
   "pokemon": {
@@ -379,10 +379,10 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-09-18T10:05:12.507Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T10:05:12.507Z",
-      "lastPulledAt": "2026-09-18T10:05:12.507Z"
+      "lastPulledAt": "2026-10-20T15:19:41.333Z"
     },
     "91": {
       "id": 91,
