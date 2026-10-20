@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 208,
-  "updatedAt": "2026-10-20T19:26:17.598Z",
+  "totalPulls": 209,
+  "updatedAt": "2026-10-20T22:34:35.507Z",
   "lastPull": {
-    "id": 902,
-    "name": "basculegion-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+    "id": 687,
+    "name": "malamar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
     "types": [
-      "water",
-      "ghost"
+      "dark",
+      "psychic"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-20T19:26:17.598Z"
+    "totalStats": 482,
+    "grade": "R",
+    "pulledAt": "2026-10-20T22:34:35.507Z"
   },
   "pulls": [
+    {
+      "id": 687,
+      "name": "malamar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-10-20T22:34:35.507Z"
+    },
     {
       "id": 902,
       "name": "basculegion-male",
@@ -120,18 +132,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-19T05:19:41.763Z"
-    },
-    {
-      "id": 981,
-      "name": "farigiraf",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-10-19T00:30:43.906Z"
     }
   ],
   "pokemon": {
@@ -1974,6 +1974,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T13:56:25.933Z",
       "lastPulledAt": "2026-10-10T13:56:25.933Z"
+    },
+    "687": {
+      "id": 687,
+      "name": "malamar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-10-20T22:34:35.507Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T22:34:35.507Z",
+      "lastPulledAt": "2026-10-20T22:34:35.507Z"
     },
     "690": {
       "id": 690,
