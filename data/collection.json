@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 204,
-  "updatedAt": "2026-10-20T00:44:59.633Z",
+  "totalPulls": 205,
+  "updatedAt": "2026-10-20T05:26:24.608Z",
   "lastPull": {
-    "id": 828,
-    "name": "thievul",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+    "id": 764,
+    "name": "comfey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
     "types": [
-      "dark"
+      "fairy"
     ],
-    "totalStats": 455,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-10-20T00:44:59.633Z"
+    "pulledAt": "2026-10-20T05:26:24.608Z"
   },
   "pulls": [
+    {
+      "id": 764,
+      "name": "comfey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-20T05:26:24.608Z"
+    },
     {
       "id": 828,
       "name": "thievul",
@@ -119,17 +130,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-10-18T17:58:42.560Z"
-    },
-    {
-      "id": 522,
-      "name": "blitzle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-10-18T14:53:55.169Z"
     }
   ],
   "pokemon": {
@@ -2237,6 +2237,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T23:28:33.814Z",
       "lastPulledAt": "2026-09-20T23:28:33.814Z"
+    },
+    "764": {
+      "id": 764,
+      "name": "comfey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-20T05:26:24.608Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T05:26:24.608Z",
+      "lastPulledAt": "2026-10-20T05:26:24.608Z"
     },
     "771": {
       "id": 771,
