@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 203,
-  "updatedAt": "2026-10-19T21:43:16.977Z",
+  "totalPulls": 204,
+  "updatedAt": "2026-10-20T00:44:59.633Z",
   "lastPull": {
-    "id": 957,
-    "name": "tinkatink",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+    "id": 828,
+    "name": "thievul",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
     "types": [
-      "fairy",
-      "steel"
+      "dark"
     ],
-    "totalStats": 297,
-    "grade": "N",
-    "pulledAt": "2026-10-19T21:43:16.977Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-10-20T00:44:59.633Z"
   },
   "pulls": [
+    {
+      "id": 828,
+      "name": "thievul",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-20T00:44:59.633Z"
+    },
     {
       "id": 957,
       "name": "tinkatink",
@@ -120,17 +130,6 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-10-18T14:53:55.169Z"
-    },
-    {
-      "id": 569,
-      "name": "garbodor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 474,
-      "grade": "R",
-      "pulledAt": "2026-10-18T11:43:08.122Z"
     }
   ],
   "pokemon": {
@@ -2345,6 +2344,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T05:46:51.386Z",
       "lastPulledAt": "2026-10-08T05:46:51.386Z"
+    },
+    "828": {
+      "id": 828,
+      "name": "thievul",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-20T00:44:59.633Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T00:44:59.633Z",
+      "lastPulledAt": "2026-10-20T00:44:59.633Z"
     },
     "830": {
       "id": 830,
