@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 207,
-  "updatedAt": "2026-10-20T15:19:41.333Z",
+  "totalPulls": 208,
+  "updatedAt": "2026-10-20T19:26:17.598Z",
   "lastPull": {
-    "id": 87,
-    "name": "dewgong",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "id": 902,
+    "name": "basculegion-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
     "types": [
       "water",
-      "ice"
+      "ghost"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-10-20T15:19:41.333Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-20T19:26:17.598Z"
   },
   "pulls": [
+    {
+      "id": 902,
+      "name": "basculegion-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T19:26:17.598Z"
+    },
     {
       "id": 87,
       "name": "dewgong",
@@ -120,17 +132,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-19T00:30:43.906Z"
-    },
-    {
-      "id": 101,
-      "name": "electrode",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-18T22:36:29.373Z"
     }
   ],
   "pokemon": {
@@ -2671,6 +2672,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:42:11.572Z",
       "lastPulledAt": "2026-09-20T01:42:11.572Z"
+    },
+    "902": {
+      "id": 902,
+      "name": "basculegion-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T19:26:17.598Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T19:26:17.598Z",
+      "lastPulledAt": "2026-10-20T19:26:17.598Z"
     },
     "930": {
       "id": 930,
