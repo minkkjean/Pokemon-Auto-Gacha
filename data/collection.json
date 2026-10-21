@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 210,
-  "updatedAt": "2026-10-21T00:57:11.473Z",
+  "totalPulls": 211,
+  "updatedAt": "2026-10-21T05:55:20.360Z",
   "lastPull": {
-    "id": 431,
-    "name": "glameow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+    "id": 249,
+    "name": "lugia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
     "types": [
-      "normal"
+      "psychic",
+      "flying"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-10-21T00:57:11.473Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-10-21T05:55:20.360Z"
   },
   "pulls": [
+    {
+      "id": 249,
+      "name": "lugia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-21T05:55:20.360Z"
+    },
     {
       "id": 431,
       "name": "glameow",
@@ -118,18 +131,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-19T17:27:33.392Z"
-    },
-    {
-      "id": 435,
-      "name": "skuntank",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
-      "types": [
-        "poison",
-        "dark"
-      ],
-      "totalStats": 479,
-      "grade": "R",
-      "pulledAt": "2026-10-19T11:01:27.394Z"
     }
   ],
   "pokemon": {
@@ -798,6 +799,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:41:21.024Z",
       "lastPulledAt": "2026-09-16T01:41:21.024Z"
+    },
+    "249": {
+      "id": 249,
+      "name": "lugia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-21T05:55:20.360Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T05:55:20.360Z",
+      "lastPulledAt": "2026-10-21T05:55:20.360Z"
     },
     "256": {
       "id": 256,
