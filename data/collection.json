@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 209,
-  "updatedAt": "2026-10-20T22:34:35.507Z",
+  "totalPulls": 210,
+  "updatedAt": "2026-10-21T00:57:11.473Z",
   "lastPull": {
-    "id": 687,
-    "name": "malamar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
+    "id": 431,
+    "name": "glameow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
     "types": [
-      "dark",
-      "psychic"
+      "normal"
     ],
-    "totalStats": 482,
-    "grade": "R",
-    "pulledAt": "2026-10-20T22:34:35.507Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-10-21T00:57:11.473Z"
   },
   "pulls": [
+    {
+      "id": 431,
+      "name": "glameow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-21T00:57:11.473Z"
+    },
     {
       "id": 687,
       "name": "malamar",
@@ -120,18 +130,6 @@
       "totalStats": 479,
       "grade": "R",
       "pulledAt": "2026-10-19T11:01:27.394Z"
-    },
-    {
-      "id": 996,
-      "name": "frigibax",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
-      "types": [
-        "dragon",
-        "ice"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-19T05:19:41.763Z"
     }
   ],
   "pokemon": {
@@ -1382,10 +1380,10 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-11T22:31:57.050Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T22:31:57.050Z",
-      "lastPulledAt": "2026-10-11T22:31:57.050Z"
+      "lastPulledAt": "2026-10-21T00:57:11.473Z"
     },
     "435": {
       "id": 435,
