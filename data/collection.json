@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 214,
-  "updatedAt": "2026-10-21T20:09:28.494Z",
+  "totalPulls": 215,
+  "updatedAt": "2026-10-21T23:23:16.695Z",
   "lastPull": {
-    "id": 916,
-    "name": "oinkologne-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+    "id": 221,
+    "name": "piloswine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
     "types": [
-      "normal"
+      "ice",
+      "ground"
     ],
-    "totalStats": 489,
+    "totalStats": 450,
     "grade": "R",
-    "pulledAt": "2026-10-21T20:09:28.494Z"
+    "pulledAt": "2026-10-21T23:23:16.695Z"
   },
   "pulls": [
+    {
+      "id": 221,
+      "name": "piloswine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-21T23:23:16.695Z"
+    },
     {
       "id": 916,
       "name": "oinkologne-male",
@@ -118,17 +131,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-20T10:22:16.269Z"
-    },
-    {
-      "id": 764,
-      "name": "comfey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-20T05:26:24.608Z"
     }
   ],
   "pokemon": {
@@ -751,6 +753,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T05:14:02.153Z",
       "lastPulledAt": "2026-10-15T05:14:02.153Z"
+    },
+    "221": {
+      "id": 221,
+      "name": "piloswine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-21T23:23:16.695Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T23:23:16.695Z",
+      "lastPulledAt": "2026-10-21T23:23:16.695Z"
     },
     "224": {
       "id": 224,
