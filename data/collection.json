@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 212,
-  "updatedAt": "2026-10-21T11:37:37.720Z",
+  "totalPulls": 213,
+  "updatedAt": "2026-10-21T16:07:03.213Z",
   "lastPull": {
-    "id": 914,
-    "name": "quaquaval",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+    "id": 201,
+    "name": "unown",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
     "types": [
-      "water",
-      "fighting"
+      "psychic"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-21T11:37:37.720Z"
+    "totalStats": 336,
+    "grade": "N",
+    "pulledAt": "2026-10-21T16:07:03.213Z"
   },
   "pulls": [
+    {
+      "id": 201,
+      "name": "unown",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 336,
+      "grade": "N",
+      "pulledAt": "2026-10-21T16:07:03.213Z"
+    },
     {
       "id": 914,
       "name": "quaquaval",
@@ -119,18 +129,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-20T00:44:59.633Z"
-    },
-    {
-      "id": 957,
-      "name": "tinkatink",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
-      "types": [
-        "fairy",
-        "steel"
-      ],
-      "totalStats": 297,
-      "grade": "N",
-      "pulledAt": "2026-10-19T21:43:16.977Z"
     }
   ],
   "pokemon": {
@@ -707,6 +705,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T12:21:54.785Z",
       "lastPulledAt": "2026-09-20T12:21:54.785Z"
+    },
+    "201": {
+      "id": 201,
+      "name": "unown",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 336,
+      "grade": "N",
+      "pulledAt": "2026-10-21T16:07:03.213Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T16:07:03.213Z",
+      "lastPulledAt": "2026-10-21T16:07:03.213Z"
     },
     "210": {
       "id": 210,
