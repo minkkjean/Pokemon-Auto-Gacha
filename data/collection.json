@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 217,
-  "updatedAt": "2026-10-22T06:39:49.912Z",
+  "totalPulls": 218,
+  "updatedAt": "2026-10-22T12:30:02.766Z",
   "lastPull": {
-    "id": 601,
-    "name": "klinklang",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+    "id": 964,
+    "name": "palafin-zero",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
     "types": [
-      "steel"
+      "water"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-10-22T06:39:49.912Z"
+    "totalStats": 457,
+    "grade": "R",
+    "pulledAt": "2026-10-22T12:30:02.766Z"
   },
   "pulls": [
+    {
+      "id": 964,
+      "name": "palafin-zero",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 457,
+      "grade": "R",
+      "pulledAt": "2026-10-22T12:30:02.766Z"
+    },
     {
       "id": 601,
       "name": "klinklang",
@@ -116,18 +127,6 @@
       "totalStats": 482,
       "grade": "R",
       "pulledAt": "2026-10-20T22:34:35.507Z"
-    },
-    {
-      "id": 902,
-      "name": "basculegion-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
-      "types": [
-        "water",
-        "ghost"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T19:26:17.598Z"
     }
   ],
   "pokemon": {
@@ -2991,10 +2990,10 @@
       "totalStats": 457,
       "grade": "R",
       "pulledAt": "2026-10-07T00:33:36.100Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T00:33:36.100Z",
-      "lastPulledAt": "2026-10-07T00:33:36.100Z"
+      "lastPulledAt": "2026-10-22T12:30:02.766Z"
     },
     "965": {
       "id": 965,
