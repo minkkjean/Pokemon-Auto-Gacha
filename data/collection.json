@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 215,
-  "updatedAt": "2026-10-21T23:23:16.695Z",
+  "totalPulls": 216,
+  "updatedAt": "2026-10-22T01:44:05.565Z",
   "lastPull": {
-    "id": 221,
-    "name": "piloswine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+    "id": 23,
+    "name": "ekans",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
     "types": [
-      "ice",
-      "ground"
+      "poison"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-10-21T23:23:16.695Z"
+    "totalStats": 288,
+    "grade": "N",
+    "pulledAt": "2026-10-22T01:44:05.565Z"
   },
   "pulls": [
+    {
+      "id": 23,
+      "name": "ekans",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-10-22T01:44:05.565Z"
+    },
     {
       "id": 221,
       "name": "piloswine",
@@ -119,18 +129,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-20T15:19:41.333Z"
-    },
-    {
-      "id": 384,
-      "name": "rayquaza",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
-      "types": [
-        "dragon",
-        "flying"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-10-20T10:22:16.269Z"
     }
   ],
   "pokemon": {
@@ -195,6 +193,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T19:23:26.973Z",
       "lastPulledAt": "2026-09-19T19:23:26.973Z"
+    },
+    "23": {
+      "id": 23,
+      "name": "ekans",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-10-22T01:44:05.565Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T01:44:05.565Z",
+      "lastPulledAt": "2026-10-22T01:44:05.565Z"
     },
     "29": {
       "id": 29,
