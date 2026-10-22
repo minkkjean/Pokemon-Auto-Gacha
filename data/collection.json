@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 219,
-  "updatedAt": "2026-10-22T17:38:26.885Z",
+  "totalPulls": 220,
+  "updatedAt": "2026-10-22T20:49:00.826Z",
   "lastPull": {
-    "id": 1006,
-    "name": "iron-valiant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
+    "id": 347,
+    "name": "anorith",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
     "types": [
-      "fairy",
-      "fighting"
+      "rock",
+      "bug"
     ],
-    "totalStats": 590,
-    "grade": "SR",
-    "pulledAt": "2026-10-22T17:38:26.885Z"
+    "totalStats": 355,
+    "grade": "N",
+    "pulledAt": "2026-10-22T20:49:00.826Z"
   },
   "pulls": [
+    {
+      "id": 347,
+      "name": "anorith",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
+      "types": [
+        "rock",
+        "bug"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-22T20:49:00.826Z"
+    },
     {
       "id": 1006,
       "name": "iron-valiant",
@@ -117,17 +129,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-21T05:55:20.360Z"
-    },
-    {
-      "id": 431,
-      "name": "glameow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-21T00:57:11.473Z"
     }
   ],
   "pokemon": {
@@ -1166,6 +1167,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T05:45:38.840Z",
       "lastPulledAt": "2026-09-18T05:45:38.840Z"
+    },
+    "347": {
+      "id": 347,
+      "name": "anorith",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
+      "types": [
+        "rock",
+        "bug"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-22T20:49:00.826Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T20:49:00.826Z",
+      "lastPulledAt": "2026-10-22T20:49:00.826Z"
     },
     "348": {
       "id": 348,
