@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 216,
-  "updatedAt": "2026-10-22T01:44:05.565Z",
+  "totalPulls": 217,
+  "updatedAt": "2026-10-22T06:39:49.912Z",
   "lastPull": {
-    "id": 23,
-    "name": "ekans",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+    "id": 601,
+    "name": "klinklang",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
     "types": [
-      "poison"
+      "steel"
     ],
-    "totalStats": 288,
-    "grade": "N",
-    "pulledAt": "2026-10-22T01:44:05.565Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-22T06:39:49.912Z"
   },
   "pulls": [
+    {
+      "id": 601,
+      "name": "klinklang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-22T06:39:49.912Z"
+    },
     {
       "id": 23,
       "name": "ekans",
@@ -117,18 +128,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-20T19:26:17.598Z"
-    },
-    {
-      "id": 87,
-      "name": "dewgong",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
-      "types": [
-        "water",
-        "ice"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-20T15:19:41.333Z"
     }
   ],
   "pokemon": {
@@ -1843,10 +1842,10 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-09-16T01:50:51.282Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:50:51.282Z",
-      "lastPulledAt": "2026-09-16T01:50:51.282Z"
+      "lastPulledAt": "2026-10-22T06:39:49.912Z"
     },
     "608": {
       "id": 608,
