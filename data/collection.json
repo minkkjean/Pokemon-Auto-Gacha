@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 221,
-  "updatedAt": "2026-10-22T23:47:00.820Z",
+  "totalPulls": 222,
+  "updatedAt": "2026-10-23T02:02:39.668Z",
   "lastPull": {
-    "id": 559,
-    "name": "scraggy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+    "id": 160,
+    "name": "feraligatr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png",
     "types": [
-      "dark",
-      "fighting"
+      "water"
     ],
-    "totalStats": 348,
-    "grade": "N",
-    "pulledAt": "2026-10-22T23:47:00.820Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-23T02:02:39.668Z"
   },
   "pulls": [
+    {
+      "id": 160,
+      "name": "feraligatr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T02:02:39.668Z"
+    },
     {
       "id": 559,
       "name": "scraggy",
@@ -117,18 +127,6 @@
       "totalStats": 336,
       "grade": "N",
       "pulledAt": "2026-10-21T16:07:03.213Z"
-    },
-    {
-      "id": 914,
-      "name": "quaquaval",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
-      "types": [
-        "water",
-        "fighting"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-21T11:37:37.720Z"
     }
   ],
   "pokemon": {
@@ -548,6 +546,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T17:52:40.778Z",
       "lastPulledAt": "2026-09-18T17:52:40.778Z"
+    },
+    "160": {
+      "id": 160,
+      "name": "feraligatr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T02:02:39.668Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T02:02:39.668Z",
+      "lastPulledAt": "2026-10-23T02:02:39.668Z"
     },
     "163": {
       "id": 163,
