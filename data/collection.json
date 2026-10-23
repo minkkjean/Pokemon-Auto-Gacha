@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 222,
-  "updatedAt": "2026-10-23T02:02:39.668Z",
+  "totalPulls": 223,
+  "updatedAt": "2026-10-23T07:28:11.762Z",
   "lastPull": {
-    "id": 160,
-    "name": "feraligatr",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png",
+    "id": 416,
+    "name": "vespiquen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
     "types": [
-      "water"
+      "bug",
+      "flying"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-23T02:02:39.668Z"
+    "totalStats": 474,
+    "grade": "R",
+    "pulledAt": "2026-10-23T07:28:11.762Z"
   },
   "pulls": [
+    {
+      "id": 416,
+      "name": "vespiquen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-10-23T07:28:11.762Z"
+    },
     {
       "id": 160,
       "name": "feraligatr",
@@ -116,17 +129,6 @@
       "totalStats": 489,
       "grade": "R",
       "pulledAt": "2026-10-21T20:09:28.494Z"
-    },
-    {
-      "id": 201,
-      "name": "unown",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 336,
-      "grade": "N",
-      "pulledAt": "2026-10-21T16:07:03.213Z"
     }
   ],
   "pokemon": {
@@ -1412,6 +1414,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T23:51:20.790Z",
       "lastPulledAt": "2026-10-07T23:51:20.790Z"
+    },
+    "416": {
+      "id": 416,
+      "name": "vespiquen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-10-23T07:28:11.762Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T07:28:11.762Z",
+      "lastPulledAt": "2026-10-23T07:28:11.762Z"
     },
     "425": {
       "id": 425,
