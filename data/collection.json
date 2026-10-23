@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 223,
-  "updatedAt": "2026-10-23T07:28:11.762Z",
+  "totalPulls": 224,
+  "updatedAt": "2026-10-23T12:49:57.186Z",
   "lastPull": {
-    "id": 416,
-    "name": "vespiquen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
+    "id": 855,
+    "name": "polteageist",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
     "types": [
-      "bug",
-      "flying"
+      "ghost"
     ],
-    "totalStats": 474,
-    "grade": "R",
-    "pulledAt": "2026-10-23T07:28:11.762Z"
+    "totalStats": 508,
+    "grade": "SR",
+    "pulledAt": "2026-10-23T12:49:57.186Z"
   },
   "pulls": [
+    {
+      "id": 855,
+      "name": "polteageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 508,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T12:49:57.186Z"
+    },
     {
       "id": 416,
       "name": "vespiquen",
@@ -118,17 +128,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-10-21T23:23:16.695Z"
-    },
-    {
-      "id": 916,
-      "name": "oinkologne-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 489,
-      "grade": "R",
-      "pulledAt": "2026-10-21T20:09:28.494Z"
     }
   ],
   "pokemon": {
@@ -2591,6 +2590,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T20:30:47.016Z",
       "lastPulledAt": "2026-09-23T20:30:47.016Z"
+    },
+    "855": {
+      "id": 855,
+      "name": "polteageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 508,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T12:49:57.186Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T12:49:57.186Z",
+      "lastPulledAt": "2026-10-23T12:49:57.186Z"
     },
     "856": {
       "id": 856,
