@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 227,
-  "updatedAt": "2026-10-23T23:33:10.272Z",
+  "totalPulls": 228,
+  "updatedAt": "2026-10-24T01:58:40.994Z",
   "lastPull": {
-    "id": 612,
-    "name": "haxorus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "id": 94,
+    "name": "gengar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
     "types": [
-      "dragon"
+      "ghost",
+      "poison"
     ],
-    "totalStats": 540,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-10-23T23:33:10.272Z"
+    "pulledAt": "2026-10-24T01:58:40.994Z"
   },
   "pulls": [
+    {
+      "id": 94,
+      "name": "gengar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T01:58:40.994Z"
+    },
     {
       "id": 612,
       "name": "haxorus",
@@ -116,17 +129,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-10-22T17:38:26.885Z"
-    },
-    {
-      "id": 964,
-      "name": "palafin-zero",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 457,
-      "grade": "R",
-      "pulledAt": "2026-10-22T12:30:02.766Z"
     }
   ],
   "pokemon": {
@@ -437,10 +439,10 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-24T12:17:24.617Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T12:17:24.617Z",
-      "lastPulledAt": "2026-09-24T12:17:24.617Z"
+      "lastPulledAt": "2026-10-24T01:58:40.994Z"
     },
     "101": {
       "id": 101,
