@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 237,
-  "updatedAt": "2026-10-25T12:27:58.460Z",
+  "totalPulls": 238,
+  "updatedAt": "2026-10-25T16:45:28.354Z",
   "lastPull": {
-    "id": 278,
-    "name": "wingull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+    "id": 184,
+    "name": "azumarill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
     "types": [
       "water",
-      "flying"
+      "fairy"
     ],
-    "totalStats": 270,
-    "grade": "N",
-    "pulledAt": "2026-10-25T12:27:58.460Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-25T16:45:28.354Z"
   },
   "pulls": [
+    {
+      "id": 184,
+      "name": "azumarill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-25T16:45:28.354Z"
+    },
     {
       "id": 278,
       "name": "wingull",
@@ -118,18 +130,6 @@
       "totalStats": 218,
       "grade": "N",
       "pulledAt": "2026-10-24T07:12:14.752Z"
-    },
-    {
-      "id": 94,
-      "name": "gengar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
-      "types": [
-        "ghost",
-        "poison"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T01:58:40.994Z"
     }
   ],
   "pokemon": {
@@ -671,6 +671,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T23:57:17.795Z",
       "lastPulledAt": "2026-10-13T23:57:17.795Z"
+    },
+    "184": {
+      "id": 184,
+      "name": "azumarill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-25T16:45:28.354Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T16:45:28.354Z",
+      "lastPulledAt": "2026-10-25T16:45:28.354Z"
     },
     "187": {
       "id": 187,
