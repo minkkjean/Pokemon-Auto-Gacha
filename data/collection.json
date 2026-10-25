@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 236,
-  "updatedAt": "2026-10-25T06:51:54.898Z",
+  "totalPulls": 237,
+  "updatedAt": "2026-10-25T12:27:58.460Z",
   "lastPull": {
-    "id": 893,
-    "name": "zarude",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
+    "id": 278,
+    "name": "wingull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
     "types": [
-      "dark",
-      "grass"
+      "water",
+      "flying"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-25T06:51:54.898Z"
+    "totalStats": 270,
+    "grade": "N",
+    "pulledAt": "2026-10-25T12:27:58.460Z"
   },
   "pulls": [
+    {
+      "id": 278,
+      "name": "wingull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-25T12:27:58.460Z"
+    },
     {
       "id": 893,
       "name": "zarude",
@@ -118,17 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-24T01:58:40.994Z"
-    },
-    {
-      "id": 612,
-      "name": "haxorus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T23:33:10.272Z"
     }
   ],
   "pokemon": {
@@ -1009,10 +1010,10 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-09-16T01:48:19.364Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:48:19.364Z",
-      "lastPulledAt": "2026-09-16T01:48:19.364Z"
+      "lastPulledAt": "2026-10-25T12:27:58.460Z"
     },
     "286": {
       "id": 286,
