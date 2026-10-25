@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 234,
-  "updatedAt": "2026-10-24T23:24:37.203Z",
+  "totalPulls": 235,
+  "updatedAt": "2026-10-25T01:30:19.266Z",
   "lastPull": {
-    "id": 794,
-    "name": "buzzwole",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
+    "id": 506,
+    "name": "lillipup",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
     "types": [
-      "bug",
-      "fighting"
+      "normal"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-24T23:24:37.203Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-10-25T01:30:19.266Z"
   },
   "pulls": [
+    {
+      "id": 506,
+      "name": "lillipup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-25T01:30:19.266Z"
+    },
     {
       "id": 794,
       "name": "buzzwole",
@@ -117,17 +127,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-23T20:39:45.830Z"
-    },
-    {
-      "id": 52,
-      "name": "meowth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-10-23T17:38:31.858Z"
     }
   ],
   "pokemon": {
@@ -1782,10 +1781,10 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-09-25T07:35:22.101Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T07:35:22.101Z",
-      "lastPulledAt": "2026-10-10T01:19:51.677Z"
+      "lastPulledAt": "2026-10-25T01:30:19.266Z"
     },
     "513": {
       "id": 513,
