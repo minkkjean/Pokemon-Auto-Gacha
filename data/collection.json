@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 239,
-  "updatedAt": "2026-10-25T19:20:51.993Z",
+  "totalPulls": 240,
+  "updatedAt": "2026-10-25T21:59:40.081Z",
   "lastPull": {
-    "id": 691,
-    "name": "dragalge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
+    "id": 421,
+    "name": "cherrim",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png",
     "types": [
-      "poison",
-      "dragon"
+      "grass"
     ],
-    "totalStats": 494,
+    "totalStats": 450,
     "grade": "R",
-    "pulledAt": "2026-10-25T19:20:51.993Z"
+    "pulledAt": "2026-10-25T21:59:40.081Z"
   },
   "pulls": [
+    {
+      "id": 421,
+      "name": "cherrim",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-25T21:59:40.081Z"
+    },
     {
       "id": 691,
       "name": "dragalge",
@@ -120,17 +130,6 @@
       "totalStats": 263,
       "grade": "N",
       "pulledAt": "2026-10-24T15:55:10.362Z"
-    },
-    {
-      "id": 217,
-      "name": "ursaring",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T12:05:24.698Z"
     }
   ],
   "pokemon": {
@@ -1524,6 +1523,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T07:28:11.762Z",
       "lastPulledAt": "2026-10-23T07:28:11.762Z"
+    },
+    "421": {
+      "id": 421,
+      "name": "cherrim",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-25T21:59:40.081Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T21:59:40.081Z",
+      "lastPulledAt": "2026-10-25T21:59:40.081Z"
     },
     "425": {
       "id": 425,
