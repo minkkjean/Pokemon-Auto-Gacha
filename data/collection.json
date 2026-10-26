@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 243,
-  "updatedAt": "2026-10-26T10:59:24.657Z",
+  "totalPulls": 244,
+  "updatedAt": "2026-10-26T17:17:18.941Z",
   "lastPull": {
-    "id": 1021,
-    "name": "raging-bolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+    "id": 559,
+    "name": "scraggy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
     "types": [
-      "electric",
-      "dragon"
+      "dark",
+      "fighting"
     ],
-    "totalStats": 590,
-    "grade": "SR",
-    "pulledAt": "2026-10-26T10:59:24.657Z"
+    "totalStats": 348,
+    "grade": "N",
+    "pulledAt": "2026-10-26T17:17:18.941Z"
   },
   "pulls": [
+    {
+      "id": 559,
+      "name": "scraggy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-10-26T17:17:18.941Z"
+    },
     {
       "id": 1021,
       "name": "raging-bolt",
@@ -119,18 +131,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-10-25T01:30:19.266Z"
-    },
-    {
-      "id": 794,
-      "name": "buzzwole",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
-      "types": [
-        "bug",
-        "fighting"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T23:24:37.203Z"
     }
   ],
   "pokemon": {
@@ -1939,10 +1939,10 @@
       "totalStats": 348,
       "grade": "N",
       "pulledAt": "2026-09-25T17:54:49.735Z",
-      "count": 3,
-      "fusionLevel": 0,
+      "count": 4,
+      "fusionLevel": 1,
       "firstPulledAt": "2026-09-25T17:54:49.735Z",
-      "lastPulledAt": "2026-10-22T23:47:00.820Z"
+      "lastPulledAt": "2026-10-26T17:17:18.941Z"
     },
     "563": {
       "id": 563,
