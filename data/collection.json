@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 242,
-  "updatedAt": "2026-10-26T04:59:46.309Z",
+  "totalPulls": 243,
+  "updatedAt": "2026-10-26T10:59:24.657Z",
   "lastPull": {
-    "id": 336,
-    "name": "seviper",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+    "id": 1021,
+    "name": "raging-bolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
     "types": [
-      "poison"
+      "electric",
+      "dragon"
     ],
-    "totalStats": 458,
-    "grade": "R",
-    "pulledAt": "2026-10-26T04:59:46.309Z"
+    "totalStats": 590,
+    "grade": "SR",
+    "pulledAt": "2026-10-26T10:59:24.657Z"
   },
   "pulls": [
+    {
+      "id": 1021,
+      "name": "raging-bolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-10-26T10:59:24.657Z"
+    },
     {
       "id": 336,
       "name": "seviper",
@@ -118,18 +131,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-24T23:24:37.203Z"
-    },
-    {
-      "id": 267,
-      "name": "beautifly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-10-24T21:15:34.965Z"
     }
   ],
   "pokemon": {
@@ -3578,6 +3579,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T22:53:40.341Z",
       "lastPulledAt": "2026-09-18T22:53:40.341Z"
+    },
+    "1021": {
+      "id": 1021,
+      "name": "raging-bolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-10-26T10:59:24.657Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T10:59:24.657Z",
+      "lastPulledAt": "2026-10-26T10:59:24.657Z"
     }
   },
   "typeTotals": {
