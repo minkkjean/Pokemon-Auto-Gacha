@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 241,
-  "updatedAt": "2026-10-26T00:11:38.205Z",
+  "totalPulls": 242,
+  "updatedAt": "2026-10-26T04:59:46.309Z",
   "lastPull": {
-    "id": 658,
-    "name": "greninja",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "id": 336,
+    "name": "seviper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
     "types": [
-      "water",
-      "dark"
+      "poison"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-26T00:11:38.205Z"
+    "totalStats": 458,
+    "grade": "R",
+    "pulledAt": "2026-10-26T04:59:46.309Z"
   },
   "pulls": [
+    {
+      "id": 336,
+      "name": "seviper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 458,
+      "grade": "R",
+      "pulledAt": "2026-10-26T04:59:46.309Z"
+    },
     {
       "id": 658,
       "name": "greninja",
@@ -120,18 +130,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-10-24T21:15:34.965Z"
-    },
-    {
-      "id": 484,
-      "name": "palkia",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
-      "types": [
-        "water",
-        "dragon"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-10-24T18:43:15.694Z"
     }
   ],
   "pokemon": {
@@ -1246,6 +1244,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T00:52:04.855Z",
       "lastPulledAt": "2026-09-18T00:52:04.855Z"
+    },
+    "336": {
+      "id": 336,
+      "name": "seviper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 458,
+      "grade": "R",
+      "pulledAt": "2026-10-26T04:59:46.309Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T04:59:46.309Z",
+      "lastPulledAt": "2026-10-26T04:59:46.309Z"
     },
     "344": {
       "id": 344,
