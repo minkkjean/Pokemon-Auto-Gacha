@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 246,
-  "updatedAt": "2026-10-27T00:55:00.972Z",
+  "totalPulls": 247,
+  "updatedAt": "2026-10-27T06:08:15.619Z",
   "lastPull": {
-    "id": 564,
-    "name": "tirtouga",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
+    "id": 305,
+    "name": "lairon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
     "types": [
-      "water",
+      "steel",
       "rock"
     ],
-    "totalStats": 355,
-    "grade": "N",
-    "pulledAt": "2026-10-27T00:55:00.972Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-10-27T06:08:15.619Z"
   },
   "pulls": [
+    {
+      "id": 305,
+      "name": "lairon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-27T06:08:15.619Z"
+    },
     {
       "id": 564,
       "name": "tirtouga",
@@ -120,18 +132,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-25T16:45:28.354Z"
-    },
-    {
-      "id": 278,
-      "name": "wingull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-25T12:27:58.460Z"
     }
   ],
   "pokemon": {
@@ -1093,6 +1093,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T14:30:11.865Z",
       "lastPulledAt": "2026-09-18T14:30:11.865Z"
+    },
+    "305": {
+      "id": 305,
+      "name": "lairon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-27T06:08:15.619Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T06:08:15.619Z",
+      "lastPulledAt": "2026-10-27T06:08:15.619Z"
     },
     "310": {
       "id": 310,
