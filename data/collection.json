@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 245,
-  "updatedAt": "2026-10-26T21:41:59.800Z",
+  "totalPulls": 246,
+  "updatedAt": "2026-10-27T00:55:00.972Z",
   "lastPull": {
-    "id": 396,
-    "name": "starly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+    "id": 564,
+    "name": "tirtouga",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
     "types": [
-      "normal",
-      "flying"
+      "water",
+      "rock"
     ],
-    "totalStats": 245,
+    "totalStats": 355,
     "grade": "N",
-    "pulledAt": "2026-10-26T21:41:59.800Z"
+    "pulledAt": "2026-10-27T00:55:00.972Z"
   },
   "pulls": [
+    {
+      "id": 564,
+      "name": "tirtouga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-27T00:55:00.972Z"
+    },
     {
       "id": 396,
       "name": "starly",
@@ -120,18 +132,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-10-25T12:27:58.460Z"
-    },
-    {
-      "id": 893,
-      "name": "zarude",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
-      "types": [
-        "dark",
-        "grass"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-25T06:51:54.898Z"
     }
   ],
   "pokemon": {
@@ -1975,6 +1975,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-12T01:46:56.198Z",
       "lastPulledAt": "2026-10-12T01:46:56.198Z"
+    },
+    "564": {
+      "id": 564,
+      "name": "tirtouga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-27T00:55:00.972Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T00:55:00.972Z",
+      "lastPulledAt": "2026-10-27T00:55:00.972Z"
     },
     "565": {
       "id": 565,
