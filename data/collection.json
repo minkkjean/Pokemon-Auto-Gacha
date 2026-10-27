@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 247,
-  "updatedAt": "2026-10-27T06:08:15.619Z",
+  "totalPulls": 248,
+  "updatedAt": "2026-10-27T12:14:10.978Z",
   "lastPull": {
-    "id": 305,
-    "name": "lairon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+    "id": 202,
+    "name": "wobbuffet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
     "types": [
-      "steel",
-      "rock"
+      "psychic"
     ],
-    "totalStats": 430,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-10-27T06:08:15.619Z"
+    "pulledAt": "2026-10-27T12:14:10.978Z"
   },
   "pulls": [
+    {
+      "id": 202,
+      "name": "wobbuffet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-27T12:14:10.978Z"
+    },
     {
       "id": 305,
       "name": "lairon",
@@ -120,18 +130,6 @@
       "totalStats": 494,
       "grade": "R",
       "pulledAt": "2026-10-25T19:20:51.993Z"
-    },
-    {
-      "id": 184,
-      "name": "azumarill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
-      "types": [
-        "water",
-        "fairy"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-25T16:45:28.354Z"
     }
   ],
   "pokemon": {
@@ -799,6 +797,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T16:07:03.213Z",
       "lastPulledAt": "2026-10-21T16:07:03.213Z"
+    },
+    "202": {
+      "id": 202,
+      "name": "wobbuffet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-27T12:14:10.978Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T12:14:10.978Z",
+      "lastPulledAt": "2026-10-27T12:14:10.978Z"
     },
     "210": {
       "id": 210,
