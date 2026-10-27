@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 249,
-  "updatedAt": "2026-10-27T18:06:00.732Z",
+  "totalPulls": 250,
+  "updatedAt": "2026-10-27T22:12:11.316Z",
   "lastPull": {
-    "id": 88,
-    "name": "grimer",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+    "id": 876,
+    "name": "indeedee-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
     "types": [
-      "poison"
+      "psychic",
+      "normal"
     ],
-    "totalStats": 325,
-    "grade": "N",
-    "pulledAt": "2026-10-27T18:06:00.732Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-10-27T22:12:11.316Z"
   },
   "pulls": [
+    {
+      "id": 876,
+      "name": "indeedee-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
+      "types": [
+        "psychic",
+        "normal"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-27T22:12:11.316Z"
+    },
     {
       "id": 88,
       "name": "grimer",
@@ -118,17 +131,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-26T00:11:38.205Z"
-    },
-    {
-      "id": 421,
-      "name": "cherrim",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-10-25T21:59:40.081Z"
     }
   ],
   "pokemon": {
@@ -3008,6 +3010,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T17:22:12.491Z",
       "lastPulledAt": "2026-09-24T17:22:12.491Z"
+    },
+    "876": {
+      "id": 876,
+      "name": "indeedee-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
+      "types": [
+        "psychic",
+        "normal"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-27T22:12:11.316Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T22:12:11.316Z",
+      "lastPulledAt": "2026-10-27T22:12:11.316Z"
     },
     "877": {
       "id": 877,
