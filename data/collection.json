@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 250,
-  "updatedAt": "2026-10-27T22:12:11.316Z",
+  "totalPulls": 251,
+  "updatedAt": "2026-10-28T01:28:17.684Z",
   "lastPull": {
-    "id": 876,
-    "name": "indeedee-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
+    "id": 944,
+    "name": "shroodle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
     "types": [
-      "psychic",
+      "poison",
       "normal"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-10-27T22:12:11.316Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-10-28T01:28:17.684Z"
   },
   "pulls": [
+    {
+      "id": 944,
+      "name": "shroodle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-28T01:28:17.684Z"
+    },
     {
       "id": 876,
       "name": "indeedee-male",
@@ -119,18 +131,6 @@
       "totalStats": 458,
       "grade": "R",
       "pulledAt": "2026-10-26T04:59:46.309Z"
-    },
-    {
-      "id": 658,
-      "name": "greninja",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
-      "types": [
-        "water",
-        "dark"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-26T00:11:38.205Z"
     }
   ],
   "pokemon": {
@@ -3246,6 +3246,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T05:52:23.510Z",
       "lastPulledAt": "2026-09-19T05:52:23.510Z"
+    },
+    "944": {
+      "id": 944,
+      "name": "shroodle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-28T01:28:17.684Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T01:28:17.684Z",
+      "lastPulledAt": "2026-10-28T01:28:17.684Z"
     },
     "945": {
       "id": 945,
