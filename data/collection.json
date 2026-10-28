@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 253,
-  "updatedAt": "2026-10-28T14:12:45.849Z",
+  "totalPulls": 254,
+  "updatedAt": "2026-10-28T19:39:57.614Z",
   "lastPull": {
-    "id": 941,
-    "name": "kilowattrel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+    "id": 451,
+    "name": "skorupi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
     "types": [
-      "electric",
-      "flying"
+      "poison",
+      "bug"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-28T14:12:45.849Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-10-28T19:39:57.614Z"
   },
   "pulls": [
+    {
+      "id": 451,
+      "name": "skorupi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-28T19:39:57.614Z"
+    },
     {
       "id": 941,
       "name": "kilowattrel",
@@ -119,18 +131,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-10-26T21:41:59.800Z"
-    },
-    {
-      "id": 559,
-      "name": "scraggy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
-      "types": [
-        "dark",
-        "fighting"
-      ],
-      "totalStats": 348,
-      "grade": "N",
-      "pulledAt": "2026-10-26T17:17:18.941Z"
     }
   ],
   "pokemon": {
@@ -1756,6 +1756,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T20:47:55.567Z",
       "lastPulledAt": "2026-09-18T20:47:55.567Z"
+    },
+    "451": {
+      "id": 451,
+      "name": "skorupi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
+      "types": [
+        "poison",
+        "bug"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-28T19:39:57.614Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T19:39:57.614Z",
+      "lastPulledAt": "2026-10-28T19:39:57.614Z"
     },
     "452": {
       "id": 452,
