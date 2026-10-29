@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 255,
-  "updatedAt": "2026-10-28T23:36:36.387Z",
+  "totalPulls": 256,
+  "updatedAt": "2026-10-29T02:53:15.671Z",
   "lastPull": {
-    "id": 498,
-    "name": "tepig",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
+    "id": 948,
+    "name": "toedscool",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
     "types": [
-      "fire"
+      "ground",
+      "grass"
     ],
-    "totalStats": 308,
+    "totalStats": 335,
     "grade": "N",
-    "pulledAt": "2026-10-28T23:36:36.387Z"
+    "pulledAt": "2026-10-29T02:53:15.671Z"
   },
   "pulls": [
+    {
+      "id": 948,
+      "name": "toedscool",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
+      "types": [
+        "ground",
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-10-29T02:53:15.671Z"
+    },
     {
       "id": 498,
       "name": "tepig",
@@ -117,18 +130,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-10-27T06:08:15.619Z"
-    },
-    {
-      "id": 564,
-      "name": "tirtouga",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
-      "types": [
-        "water",
-        "rock"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-10-27T00:55:00.972Z"
     }
   ],
   "pokemon": {
@@ -3338,6 +3339,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T08:40:07.382Z",
       "lastPulledAt": "2026-10-02T08:40:07.382Z"
+    },
+    "948": {
+      "id": 948,
+      "name": "toedscool",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
+      "types": [
+        "ground",
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-10-29T02:53:15.671Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T02:53:15.671Z",
+      "lastPulledAt": "2026-10-29T02:53:15.671Z"
     },
     "950": {
       "id": 950,
