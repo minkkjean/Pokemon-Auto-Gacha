@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 258,
-  "updatedAt": "2026-10-29T16:26:57.568Z",
+  "totalPulls": 259,
+  "updatedAt": "2026-10-29T21:21:49.682Z",
   "lastPull": {
-    "id": 861,
-    "name": "grimmsnarl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
+    "id": 550,
+    "name": "basculin-red-striped",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
     "types": [
-      "dark",
-      "fairy"
+      "water"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-29T16:26:57.568Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-10-29T21:21:49.682Z"
   },
   "pulls": [
+    {
+      "id": 550,
+      "name": "basculin-red-striped",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-29T21:21:49.682Z"
+    },
     {
       "id": 861,
       "name": "grimmsnarl",
@@ -119,17 +129,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-27T22:12:11.316Z"
-    },
-    {
-      "id": 88,
-      "name": "grimer",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 325,
-      "grade": "N",
-      "pulledAt": "2026-10-27T18:06:00.732Z"
     }
   ],
   "pokemon": {
@@ -2034,6 +2033,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T02:53:27.082Z",
       "lastPulledAt": "2026-10-04T02:53:27.082Z"
+    },
+    "550": {
+      "id": 550,
+      "name": "basculin-red-striped",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-29T21:21:49.682Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T21:21:49.682Z",
+      "lastPulledAt": "2026-10-29T21:21:49.682Z"
     },
     "559": {
       "id": 559,
