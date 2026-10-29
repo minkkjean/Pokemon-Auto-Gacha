@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 257,
-  "updatedAt": "2026-10-29T09:45:03.283Z",
+  "totalPulls": 258,
+  "updatedAt": "2026-10-29T16:26:57.568Z",
   "lastPull": {
-    "id": 23,
-    "name": "ekans",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+    "id": 861,
+    "name": "grimmsnarl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
     "types": [
-      "poison"
+      "dark",
+      "fairy"
     ],
-    "totalStats": 288,
-    "grade": "N",
-    "pulledAt": "2026-10-29T09:45:03.283Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-29T16:26:57.568Z"
   },
   "pulls": [
+    {
+      "id": 861,
+      "name": "grimmsnarl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
+      "types": [
+        "dark",
+        "fairy"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-29T16:26:57.568Z"
+    },
     {
       "id": 23,
       "name": "ekans",
@@ -117,17 +130,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-10-27T18:06:00.732Z"
-    },
-    {
-      "id": 202,
-      "name": "wobbuffet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-27T12:14:10.978Z"
     }
   ],
   "pokemon": {
@@ -2988,10 +2990,10 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-09T03:09:07.106Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T03:09:07.106Z",
-      "lastPulledAt": "2026-10-09T03:09:07.106Z"
+      "lastPulledAt": "2026-10-29T16:26:57.568Z"
     },
     "862": {
       "id": 862,
