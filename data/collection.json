@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 259,
-  "updatedAt": "2026-10-29T21:21:49.682Z",
+  "totalPulls": 260,
+  "updatedAt": "2026-10-30T01:17:53.379Z",
   "lastPull": {
-    "id": 550,
-    "name": "basculin-red-striped",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+    "id": 621,
+    "name": "druddigon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
     "types": [
-      "water"
+      "dragon"
     ],
-    "totalStats": 460,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-10-29T21:21:49.682Z"
+    "pulledAt": "2026-10-30T01:17:53.379Z"
   },
   "pulls": [
+    {
+      "id": 621,
+      "name": "druddigon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-30T01:17:53.379Z"
+    },
     {
       "id": 550,
       "name": "basculin-red-striped",
@@ -117,18 +128,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-28T01:28:17.684Z"
-    },
-    {
-      "id": 876,
-      "name": "indeedee-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
-      "types": [
-        "psychic",
-        "normal"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-27T22:12:11.316Z"
     }
   ],
   "pokemon": {
@@ -2232,6 +2231,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T12:59:55.395Z",
       "lastPulledAt": "2026-09-27T12:59:55.395Z"
+    },
+    "621": {
+      "id": 621,
+      "name": "druddigon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-30T01:17:53.379Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T01:17:53.379Z",
+      "lastPulledAt": "2026-10-30T01:17:53.379Z"
     },
     "629": {
       "id": 629,
