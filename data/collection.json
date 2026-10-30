@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 263,
-  "updatedAt": "2026-10-30T19:38:07.449Z",
+  "totalPulls": 264,
+  "updatedAt": "2026-10-30T23:16:19.763Z",
   "lastPull": {
-    "id": 14,
-    "name": "kakuna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "id": 620,
+    "name": "mienshao",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
     "types": [
-      "bug",
-      "poison"
+      "fighting"
     ],
-    "totalStats": 205,
-    "grade": "N",
-    "pulledAt": "2026-10-30T19:38:07.449Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-30T23:16:19.763Z"
   },
   "pulls": [
+    {
+      "id": 620,
+      "name": "mienshao",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T23:16:19.763Z"
+    },
     {
       "id": 14,
       "name": "kakuna",
@@ -117,18 +127,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-10-28T23:36:36.387Z"
-    },
-    {
-      "id": 451,
-      "name": "skorupi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
-      "types": [
-        "poison",
-        "bug"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-28T19:39:57.614Z"
     }
   ],
   "pokemon": {
@@ -2263,6 +2261,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T12:59:55.395Z",
       "lastPulledAt": "2026-09-27T12:59:55.395Z"
+    },
+    "620": {
+      "id": 620,
+      "name": "mienshao",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T23:16:19.763Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T23:16:19.763Z",
+      "lastPulledAt": "2026-10-30T23:16:19.763Z"
     },
     "621": {
       "id": 621,
