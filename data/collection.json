@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 268,
-  "updatedAt": "2026-10-31T19:22:53.124Z",
+  "totalPulls": 269,
+  "updatedAt": "2026-10-31T22:44:16.421Z",
   "lastPull": {
-    "id": 304,
-    "name": "aron",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+    "id": 690,
+    "name": "skrelp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
     "types": [
-      "steel",
-      "rock"
+      "poison",
+      "water"
     ],
-    "totalStats": 330,
+    "totalStats": 320,
     "grade": "N",
-    "pulledAt": "2026-10-31T19:22:53.124Z"
+    "pulledAt": "2026-10-31T22:44:16.421Z"
   },
   "pulls": [
+    {
+      "id": 690,
+      "name": "skrelp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-31T22:44:16.421Z"
+    },
     {
       "id": 304,
       "name": "aron",
@@ -117,17 +129,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-30T01:17:53.379Z"
-    },
-    {
-      "id": 550,
-      "name": "basculin-red-striped",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-10-29T21:21:49.682Z"
     }
   ],
   "pokemon": {
@@ -2522,10 +2523,10 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-09-29T08:45:23.410Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T08:45:23.410Z",
-      "lastPulledAt": "2026-09-29T08:45:23.410Z"
+      "lastPulledAt": "2026-10-31T22:44:16.421Z"
     },
     "691": {
       "id": 691,
