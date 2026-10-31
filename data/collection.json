@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 265,
-  "updatedAt": "2026-10-31T02:31:45.461Z",
+  "totalPulls": 266,
+  "updatedAt": "2026-10-31T08:52:35.901Z",
   "lastPull": {
-    "id": 651,
-    "name": "quilladin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+    "id": 241,
+    "name": "miltank",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
     "types": [
-      "grass"
+      "normal"
     ],
-    "totalStats": 405,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-10-31T02:31:45.461Z"
+    "pulledAt": "2026-10-31T08:52:35.901Z"
   },
   "pulls": [
+    {
+      "id": 241,
+      "name": "miltank",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-31T08:52:35.901Z"
+    },
     {
       "id": 651,
       "name": "quilladin",
@@ -115,18 +126,6 @@
       "totalStats": 288,
       "grade": "N",
       "pulledAt": "2026-10-29T09:45:03.283Z"
-    },
-    {
-      "id": 948,
-      "name": "toedscool",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
-      "types": [
-        "ground",
-        "grass"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-10-29T02:53:15.671Z"
     }
   ],
   "pokemon": {
@@ -963,6 +962,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:46:38.205Z",
       "lastPulledAt": "2026-09-16T01:46:38.205Z"
+    },
+    "241": {
+      "id": 241,
+      "name": "miltank",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-31T08:52:35.901Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T08:52:35.901Z",
+      "lastPulledAt": "2026-10-31T08:52:35.901Z"
     },
     "243": {
       "id": 243,
