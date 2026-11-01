@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 272,
-  "updatedAt": "2026-11-01T15:13:02.235Z",
+  "totalPulls": 273,
+  "updatedAt": "2026-11-01T19:47:20.858Z",
   "lastPull": {
-    "id": 360,
-    "name": "wynaut",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+    "id": 163,
+    "name": "hoothoot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
     "types": [
-      "psychic"
+      "normal",
+      "flying"
     ],
-    "totalStats": 260,
+    "totalStats": 262,
     "grade": "N",
-    "pulledAt": "2026-11-01T15:13:02.235Z"
+    "pulledAt": "2026-11-01T19:47:20.858Z"
   },
   "pulls": [
+    {
+      "id": 163,
+      "name": "hoothoot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 262,
+      "grade": "N",
+      "pulledAt": "2026-11-01T19:47:20.858Z"
+    },
     {
       "id": 360,
       "name": "wynaut",
@@ -116,18 +129,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-30T23:16:19.763Z"
-    },
-    {
-      "id": 14,
-      "name": "kakuna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 205,
-      "grade": "N",
-      "pulledAt": "2026-10-30T19:38:07.449Z"
     }
   ],
   "pokemon": {
@@ -635,10 +636,10 @@
       "totalStats": 262,
       "grade": "N",
       "pulledAt": "2026-10-17T06:54:05.911Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T06:54:05.911Z",
-      "lastPulledAt": "2026-10-17T06:54:05.911Z"
+      "lastPulledAt": "2026-11-01T19:47:20.858Z"
     },
     "172": {
       "id": 172,
