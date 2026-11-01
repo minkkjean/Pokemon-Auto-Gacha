@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 269,
-  "updatedAt": "2026-10-31T22:44:16.421Z",
+  "totalPulls": 270,
+  "updatedAt": "2026-11-01T01:32:01.558Z",
   "lastPull": {
-    "id": 690,
-    "name": "skrelp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+    "id": 544,
+    "name": "whirlipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
     "types": [
-      "poison",
-      "water"
+      "bug",
+      "poison"
     ],
-    "totalStats": 320,
+    "totalStats": 360,
     "grade": "N",
-    "pulledAt": "2026-10-31T22:44:16.421Z"
+    "pulledAt": "2026-11-01T01:32:01.558Z"
   },
   "pulls": [
+    {
+      "id": 544,
+      "name": "whirlipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-11-01T01:32:01.558Z"
+    },
     {
       "id": 690,
       "name": "skrelp",
@@ -118,17 +130,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-30T07:20:24.997Z"
-    },
-    {
-      "id": 621,
-      "name": "druddigon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-30T01:17:53.379Z"
     }
   ],
   "pokemon": {
@@ -2079,6 +2080,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T12:07:35.679Z",
       "lastPulledAt": "2026-09-22T12:07:35.679Z"
+    },
+    "544": {
+      "id": 544,
+      "name": "whirlipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-11-01T01:32:01.558Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T01:32:01.558Z",
+      "lastPulledAt": "2026-11-01T01:32:01.558Z"
     },
     "546": {
       "id": 546,
