@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 273,
-  "updatedAt": "2026-11-01T19:47:20.858Z",
+  "totalPulls": 274,
+  "updatedAt": "2026-11-01T23:09:05.829Z",
   "lastPull": {
-    "id": 163,
-    "name": "hoothoot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
+    "id": 880,
+    "name": "dracozolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
     "types": [
-      "normal",
-      "flying"
+      "electric",
+      "dragon"
     ],
-    "totalStats": 262,
-    "grade": "N",
-    "pulledAt": "2026-11-01T19:47:20.858Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-11-01T23:09:05.829Z"
   },
   "pulls": [
+    {
+      "id": 880,
+      "name": "dracozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T23:09:05.829Z"
+    },
     {
       "id": 163,
       "name": "hoothoot",
@@ -118,17 +130,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-31T02:31:45.461Z"
-    },
-    {
-      "id": 620,
-      "name": "mienshao",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-30T23:16:19.763Z"
     }
   ],
   "pokemon": {
@@ -3282,10 +3283,10 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-26T00:05:59.321Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T00:05:59.321Z",
-      "lastPulledAt": "2026-10-01T18:59:34.863Z"
+      "lastPulledAt": "2026-11-01T23:09:05.829Z"
     },
     "881": {
       "id": 881,
