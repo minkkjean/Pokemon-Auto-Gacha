@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 271,
-  "updatedAt": "2026-11-01T08:09:13.568Z",
+  "totalPulls": 272,
+  "updatedAt": "2026-11-01T15:13:02.235Z",
   "lastPull": {
-    "id": 789,
-    "name": "cosmog",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
+    "id": 360,
+    "name": "wynaut",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
     "types": [
       "psychic"
     ],
-    "totalStats": 200,
+    "totalStats": 260,
     "grade": "N",
-    "pulledAt": "2026-11-01T08:09:13.568Z"
+    "pulledAt": "2026-11-01T15:13:02.235Z"
   },
   "pulls": [
+    {
+      "id": 360,
+      "name": "wynaut",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-11-01T15:13:02.235Z"
+    },
     {
       "id": 789,
       "name": "cosmog",
@@ -117,17 +128,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-10-30T19:38:07.449Z"
-    },
-    {
-      "id": 136,
-      "name": "flareon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-30T14:28:28.007Z"
     }
   ],
   "pokemon": {
@@ -1458,6 +1458,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T17:29:40.795Z",
       "lastPulledAt": "2026-10-17T17:29:40.795Z"
+    },
+    "360": {
+      "id": 360,
+      "name": "wynaut",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-11-01T15:13:02.235Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T15:13:02.235Z",
+      "lastPulledAt": "2026-11-01T15:13:02.235Z"
     },
     "366": {
       "id": 366,
