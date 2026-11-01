@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 270,
-  "updatedAt": "2026-11-01T01:32:01.558Z",
+  "totalPulls": 271,
+  "updatedAt": "2026-11-01T08:09:13.568Z",
   "lastPull": {
-    "id": 544,
-    "name": "whirlipede",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+    "id": 789,
+    "name": "cosmog",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
     "types": [
-      "bug",
-      "poison"
+      "psychic"
     ],
-    "totalStats": 360,
+    "totalStats": 200,
     "grade": "N",
-    "pulledAt": "2026-11-01T01:32:01.558Z"
+    "pulledAt": "2026-11-01T08:09:13.568Z"
   },
   "pulls": [
+    {
+      "id": 789,
+      "name": "cosmog",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-11-01T08:09:13.568Z"
+    },
     {
       "id": 544,
       "name": "whirlipede",
@@ -118,18 +128,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-30T14:28:28.007Z"
-    },
-    {
-      "id": 715,
-      "name": "noivern",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
-      "types": [
-        "flying",
-        "dragon"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-30T07:20:24.997Z"
     }
   ],
   "pokemon": {
@@ -2887,6 +2885,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T22:14:26.543Z",
       "lastPulledAt": "2026-10-15T22:14:26.543Z"
+    },
+    "789": {
+      "id": 789,
+      "name": "cosmog",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-11-01T08:09:13.568Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T08:09:13.568Z",
+      "lastPulledAt": "2026-11-01T08:09:13.568Z"
     },
     "794": {
       "id": 794,
