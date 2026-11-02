@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 274,
-  "updatedAt": "2026-11-01T23:09:05.829Z",
+  "totalPulls": 275,
+  "updatedAt": "2026-11-02T02:33:00.241Z",
   "lastPull": {
-    "id": 880,
-    "name": "dracozolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+    "id": 337,
+    "name": "lunatone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
     "types": [
-      "electric",
-      "dragon"
+      "rock",
+      "psychic"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-11-01T23:09:05.829Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-11-02T02:33:00.241Z"
   },
   "pulls": [
+    {
+      "id": 337,
+      "name": "lunatone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-11-02T02:33:00.241Z"
+    },
     {
       "id": 880,
       "name": "dracozolt",
@@ -119,17 +131,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-31T08:52:35.901Z"
-    },
-    {
-      "id": 651,
-      "name": "quilladin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-31T02:31:45.461Z"
     }
   ],
   "pokemon": {
@@ -1382,6 +1383,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T04:59:46.309Z",
       "lastPulledAt": "2026-10-26T04:59:46.309Z"
+    },
+    "337": {
+      "id": 337,
+      "name": "lunatone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-11-02T02:33:00.241Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T02:33:00.241Z",
+      "lastPulledAt": "2026-11-02T02:33:00.241Z"
     },
     "344": {
       "id": 344,
