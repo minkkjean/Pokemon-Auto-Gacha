@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 277,
-  "updatedAt": "2026-11-02T20:15:05.895Z",
+  "totalPulls": 278,
+  "updatedAt": "2026-11-03T02:27:39.900Z",
   "lastPull": {
-    "id": 1,
-    "name": "bulbasaur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "id": 703,
+    "name": "carbink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
     "types": [
-      "grass",
-      "poison"
+      "rock",
+      "fairy"
     ],
-    "totalStats": 318,
-    "grade": "N",
-    "pulledAt": "2026-11-02T20:15:05.895Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-03T02:27:39.900Z"
   },
   "pulls": [
+    {
+      "id": 703,
+      "name": "carbink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T02:27:39.900Z"
+    },
     {
       "id": 1,
       "name": "bulbasaur",
@@ -120,18 +132,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-31T22:44:16.421Z"
-    },
-    {
-      "id": 304,
-      "name": "aron",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
-      "types": [
-        "steel",
-        "rock"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-31T19:22:53.124Z"
     }
   ],
   "pokemon": {
@@ -2687,6 +2687,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T07:06:11.728Z",
       "lastPulledAt": "2026-10-13T07:06:11.728Z"
+    },
+    "703": {
+      "id": 703,
+      "name": "carbink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T02:27:39.900Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T02:27:39.900Z",
+      "lastPulledAt": "2026-11-03T02:27:39.900Z"
     },
     "705": {
       "id": 705,
