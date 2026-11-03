@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 279,
-  "updatedAt": "2026-11-03T09:57:23.288Z",
+  "totalPulls": 280,
+  "updatedAt": "2026-11-03T17:42:57.104Z",
   "lastPull": {
-    "id": 664,
-    "name": "scatterbug",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+    "id": 877,
+    "name": "morpeko-full-belly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
     "types": [
-      "bug"
+      "electric",
+      "dark"
     ],
-    "totalStats": 200,
-    "grade": "N",
-    "pulledAt": "2026-11-03T09:57:23.288Z"
+    "totalStats": 436,
+    "grade": "R",
+    "pulledAt": "2026-11-03T17:42:57.104Z"
   },
   "pulls": [
+    {
+      "id": 877,
+      "name": "morpeko-full-belly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
+      "types": [
+        "electric",
+        "dark"
+      ],
+      "totalStats": 436,
+      "grade": "R",
+      "pulledAt": "2026-11-03T17:42:57.104Z"
+    },
     {
       "id": 664,
       "name": "scatterbug",
@@ -118,18 +131,6 @@
       "totalStats": 200,
       "grade": "N",
       "pulledAt": "2026-11-01T08:09:13.568Z"
-    },
-    {
-      "id": 544,
-      "name": "whirlipede",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-11-01T01:32:01.558Z"
     }
   ],
   "pokemon": {
@@ -3346,10 +3347,10 @@
       "totalStats": 436,
       "grade": "R",
       "pulledAt": "2026-10-07T19:39:29.520Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T19:39:29.520Z",
-      "lastPulledAt": "2026-10-07T19:39:29.520Z"
+      "lastPulledAt": "2026-11-03T17:42:57.104Z"
     },
     "880": {
       "id": 880,
