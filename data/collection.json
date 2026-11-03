@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 280,
-  "updatedAt": "2026-11-03T17:42:57.104Z",
+  "totalPulls": 281,
+  "updatedAt": "2026-11-03T22:35:18.213Z",
   "lastPull": {
-    "id": 877,
-    "name": "morpeko-full-belly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
+    "id": 916,
+    "name": "oinkologne-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
     "types": [
-      "electric",
-      "dark"
+      "normal"
     ],
-    "totalStats": 436,
+    "totalStats": 489,
     "grade": "R",
-    "pulledAt": "2026-11-03T17:42:57.104Z"
+    "pulledAt": "2026-11-03T22:35:18.213Z"
   },
   "pulls": [
+    {
+      "id": 916,
+      "name": "oinkologne-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-11-03T22:35:18.213Z"
+    },
     {
       "id": 877,
       "name": "morpeko-full-belly",
@@ -120,17 +130,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-11-01T15:13:02.235Z"
-    },
-    {
-      "id": 789,
-      "name": "cosmog",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 200,
-      "grade": "N",
-      "pulledAt": "2026-11-01T08:09:13.568Z"
     }
   ],
   "pokemon": {
@@ -3489,10 +3488,10 @@
       "totalStats": 489,
       "grade": "R",
       "pulledAt": "2026-10-21T20:09:28.494Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T20:09:28.494Z",
-      "lastPulledAt": "2026-10-21T20:09:28.494Z"
+      "lastPulledAt": "2026-11-03T22:35:18.213Z"
     },
     "930": {
       "id": 930,
