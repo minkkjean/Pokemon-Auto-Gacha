@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 278,
-  "updatedAt": "2026-11-03T02:27:39.900Z",
+  "totalPulls": 279,
+  "updatedAt": "2026-11-03T09:57:23.288Z",
   "lastPull": {
-    "id": 703,
-    "name": "carbink",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
+    "id": 664,
+    "name": "scatterbug",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
     "types": [
-      "rock",
-      "fairy"
+      "bug"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-03T02:27:39.900Z"
+    "totalStats": 200,
+    "grade": "N",
+    "pulledAt": "2026-11-03T09:57:23.288Z"
   },
   "pulls": [
+    {
+      "id": 664,
+      "name": "scatterbug",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-11-03T09:57:23.288Z"
+    },
     {
       "id": 703,
       "name": "carbink",
@@ -120,18 +130,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-11-01T01:32:01.558Z"
-    },
-    {
-      "id": 690,
-      "name": "skrelp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
-      "types": [
-        "poison",
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-31T22:44:16.421Z"
     }
   ],
   "pokemon": {
@@ -2531,6 +2529,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T16:58:18.359Z",
       "lastPulledAt": "2026-09-22T16:58:18.359Z"
+    },
+    "664": {
+      "id": 664,
+      "name": "scatterbug",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-11-03T09:57:23.288Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T09:57:23.288Z",
+      "lastPulledAt": "2026-11-03T09:57:23.288Z"
     },
     "670": {
       "id": 670,
