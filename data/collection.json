@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 281,
-  "updatedAt": "2026-11-03T22:35:18.213Z",
+  "totalPulls": 282,
+  "updatedAt": "2026-11-04T02:42:10.581Z",
   "lastPull": {
-    "id": 916,
-    "name": "oinkologne-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+    "id": 128,
+    "name": "tauros",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
     "types": [
       "normal"
     ],
-    "totalStats": 489,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-11-03T22:35:18.213Z"
+    "pulledAt": "2026-11-04T02:42:10.581Z"
   },
   "pulls": [
+    {
+      "id": 128,
+      "name": "tauros",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-04T02:42:10.581Z"
+    },
     {
       "id": 916,
       "name": "oinkologne-male",
@@ -119,17 +130,6 @@
       "totalStats": 262,
       "grade": "N",
       "pulledAt": "2026-11-01T19:47:20.858Z"
-    },
-    {
-      "id": 360,
-      "name": "wynaut",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 260,
-      "grade": "N",
-      "pulledAt": "2026-11-01T15:13:02.235Z"
     }
   ],
   "pokemon": {
@@ -596,6 +596,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T06:19:40.599Z",
       "lastPulledAt": "2026-10-05T06:19:40.599Z"
+    },
+    "128": {
+      "id": 128,
+      "name": "tauros",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-04T02:42:10.581Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T02:42:10.581Z",
+      "lastPulledAt": "2026-11-04T02:42:10.581Z"
     },
     "136": {
       "id": 136,
