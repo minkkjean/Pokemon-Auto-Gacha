@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 283,
-  "updatedAt": "2026-11-04T17:56:41.761Z",
+  "totalPulls": 284,
+  "updatedAt": "2026-11-04T23:33:26.761Z",
   "lastPull": {
-    "id": 910,
-    "name": "crocalor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
+    "id": 972,
+    "name": "houndstone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
     "types": [
-      "fire"
+      "ghost"
     ],
-    "totalStats": 411,
+    "totalStats": 488,
     "grade": "R",
-    "pulledAt": "2026-11-04T17:56:41.761Z"
+    "pulledAt": "2026-11-04T23:33:26.761Z"
   },
   "pulls": [
+    {
+      "id": 972,
+      "name": "houndstone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 488,
+      "grade": "R",
+      "pulledAt": "2026-11-04T23:33:26.761Z"
+    },
     {
       "id": 910,
       "name": "crocalor",
@@ -117,18 +128,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-11-02T02:33:00.241Z"
-    },
-    {
-      "id": 880,
-      "name": "dracozolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
-      "types": [
-        "electric",
-        "dragon"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-11-01T23:09:05.829Z"
     }
   ],
   "pokemon": {
@@ -3787,6 +3786,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T20:54:26.787Z",
       "lastPulledAt": "2026-10-06T20:54:26.787Z"
+    },
+    "972": {
+      "id": 972,
+      "name": "houndstone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 488,
+      "grade": "R",
+      "pulledAt": "2026-11-04T23:33:26.761Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T23:33:26.761Z",
+      "lastPulledAt": "2026-11-04T23:33:26.761Z"
     },
     "978": {
       "id": 978,
