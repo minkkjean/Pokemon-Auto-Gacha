@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 284,
-  "updatedAt": "2026-11-04T23:33:26.761Z",
+  "totalPulls": 285,
+  "updatedAt": "2026-11-05T03:43:27.659Z",
   "lastPull": {
-    "id": 972,
-    "name": "houndstone",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+    "id": 591,
+    "name": "amoonguss",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
     "types": [
-      "ghost"
+      "grass",
+      "poison"
     ],
-    "totalStats": 488,
+    "totalStats": 464,
     "grade": "R",
-    "pulledAt": "2026-11-04T23:33:26.761Z"
+    "pulledAt": "2026-11-05T03:43:27.659Z"
   },
   "pulls": [
+    {
+      "id": 591,
+      "name": "amoonguss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 464,
+      "grade": "R",
+      "pulledAt": "2026-11-05T03:43:27.659Z"
+    },
     {
       "id": 972,
       "name": "houndstone",
@@ -116,18 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-02T09:57:22.002Z"
-    },
-    {
-      "id": 337,
-      "name": "lunatone",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
-      "types": [
-        "rock",
-        "psychic"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-11-02T02:33:00.241Z"
     }
   ],
   "pokemon": {
@@ -2296,6 +2297,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T14:25:20.054Z",
       "lastPulledAt": "2026-10-17T14:25:20.054Z"
+    },
+    "591": {
+      "id": 591,
+      "name": "amoonguss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 464,
+      "grade": "R",
+      "pulledAt": "2026-11-05T03:43:27.659Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T03:43:27.659Z",
+      "lastPulledAt": "2026-11-05T03:43:27.659Z"
     },
     "599": {
       "id": 599,
