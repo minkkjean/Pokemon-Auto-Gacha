@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 287,
-  "updatedAt": "2026-11-05T19:00:15.133Z",
+  "totalPulls": 288,
+  "updatedAt": "2026-11-06T00:11:58.409Z",
   "lastPull": {
-    "id": 674,
-    "name": "pancham",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
+    "id": 352,
+    "name": "kecleon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
     "types": [
-      "fighting"
+      "normal"
     ],
-    "totalStats": 348,
-    "grade": "N",
-    "pulledAt": "2026-11-05T19:00:15.133Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-11-06T00:11:58.409Z"
   },
   "pulls": [
+    {
+      "id": 352,
+      "name": "kecleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-06T00:11:58.409Z"
+    },
     {
       "id": 674,
       "name": "pancham",
@@ -115,18 +126,6 @@
       "totalStats": 200,
       "grade": "N",
       "pulledAt": "2026-11-03T09:57:23.288Z"
-    },
-    {
-      "id": 703,
-      "name": "carbink",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
-      "types": [
-        "rock",
-        "fairy"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-03T02:27:39.900Z"
     }
   ],
   "pokemon": {
@@ -1505,6 +1504,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T14:59:50.864Z",
       "lastPulledAt": "2026-10-15T14:59:50.864Z"
+    },
+    "352": {
+      "id": 352,
+      "name": "kecleon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-11-06T00:11:58.409Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T00:11:58.409Z",
+      "lastPulledAt": "2026-11-06T00:11:58.409Z"
     },
     "356": {
       "id": 356,
