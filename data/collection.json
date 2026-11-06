@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 288,
-  "updatedAt": "2026-11-06T00:11:58.409Z",
+  "totalPulls": 289,
+  "updatedAt": "2026-11-06T07:00:21.435Z",
   "lastPull": {
-    "id": 352,
-    "name": "kecleon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+    "id": 460,
+    "name": "abomasnow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
     "types": [
-      "normal"
+      "grass",
+      "ice"
     ],
-    "totalStats": 440,
+    "totalStats": 494,
     "grade": "R",
-    "pulledAt": "2026-11-06T00:11:58.409Z"
+    "pulledAt": "2026-11-06T07:00:21.435Z"
   },
   "pulls": [
+    {
+      "id": 460,
+      "name": "abomasnow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "totalStats": 494,
+      "grade": "R",
+      "pulledAt": "2026-11-06T07:00:21.435Z"
+    },
     {
       "id": 352,
       "name": "kecleon",
@@ -115,17 +128,6 @@
       "totalStats": 436,
       "grade": "R",
       "pulledAt": "2026-11-03T17:42:57.104Z"
-    },
-    {
-      "id": 664,
-      "name": "scatterbug",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 200,
-      "grade": "N",
-      "pulledAt": "2026-11-03T09:57:23.288Z"
     }
   ],
   "pokemon": {
@@ -1982,10 +1984,10 @@
       "totalStats": 494,
       "grade": "R",
       "pulledAt": "2026-09-28T08:36:33.303Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T08:36:33.303Z",
-      "lastPulledAt": "2026-09-28T08:36:33.303Z"
+      "lastPulledAt": "2026-11-06T07:00:21.435Z"
     },
     "461": {
       "id": 461,
