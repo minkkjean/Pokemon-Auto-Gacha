@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 291,
-  "updatedAt": "2026-11-06T20:49:44.431Z",
+  "totalPulls": 292,
+  "updatedAt": "2026-11-07T00:32:09.996Z",
   "lastPull": {
-    "id": 960,
-    "name": "wiglett",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+    "id": 975,
+    "name": "cetitan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
     "types": [
-      "water"
+      "ice"
     ],
-    "totalStats": 245,
-    "grade": "N",
-    "pulledAt": "2026-11-06T20:49:44.431Z"
+    "totalStats": 521,
+    "grade": "SR",
+    "pulledAt": "2026-11-07T00:32:09.996Z"
   },
   "pulls": [
+    {
+      "id": 975,
+      "name": "cetitan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T00:32:09.996Z"
+    },
     {
       "id": 960,
       "name": "wiglett",
@@ -115,17 +126,6 @@
       "totalStats": 411,
       "grade": "R",
       "pulledAt": "2026-11-04T17:56:41.761Z"
-    },
-    {
-      "id": 128,
-      "name": "tauros",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-04T02:42:10.581Z"
     }
   ],
   "pokemon": {
@@ -3891,6 +3891,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-04T23:33:26.761Z",
       "lastPulledAt": "2026-11-04T23:33:26.761Z"
+    },
+    "975": {
+      "id": 975,
+      "name": "cetitan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T00:32:09.996Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T00:32:09.996Z",
+      "lastPulledAt": "2026-11-07T00:32:09.996Z"
     },
     "978": {
       "id": 978,
