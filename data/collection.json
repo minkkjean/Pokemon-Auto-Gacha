@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 292,
-  "updatedAt": "2026-11-07T00:32:09.996Z",
+  "totalPulls": 293,
+  "updatedAt": "2026-11-07T06:35:44.339Z",
   "lastPull": {
-    "id": 975,
-    "name": "cetitan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+    "id": 499,
+    "name": "pignite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
     "types": [
-      "ice"
+      "fire",
+      "fighting"
     ],
-    "totalStats": 521,
-    "grade": "SR",
-    "pulledAt": "2026-11-07T00:32:09.996Z"
+    "totalStats": 418,
+    "grade": "R",
+    "pulledAt": "2026-11-07T06:35:44.339Z"
   },
   "pulls": [
+    {
+      "id": 499,
+      "name": "pignite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-11-07T06:35:44.339Z"
+    },
     {
       "id": 975,
       "name": "cetitan",
@@ -115,17 +128,6 @@
       "totalStats": 488,
       "grade": "R",
       "pulledAt": "2026-11-04T23:33:26.761Z"
-    },
-    {
-      "id": 910,
-      "name": "crocalor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 411,
-      "grade": "R",
-      "pulledAt": "2026-11-04T17:56:41.761Z"
     }
   ],
   "pokemon": {
@@ -2109,6 +2111,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T23:36:36.387Z",
       "lastPulledAt": "2026-10-28T23:36:36.387Z"
+    },
+    "499": {
+      "id": 499,
+      "name": "pignite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+      "types": [
+        "fire",
+        "fighting"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-11-07T06:35:44.339Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T06:35:44.339Z",
+      "lastPulledAt": "2026-11-07T06:35:44.339Z"
     },
     "506": {
       "id": 506,
