@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 297,
-  "updatedAt": "2026-11-08T01:25:50.072Z",
+  "totalPulls": 298,
+  "updatedAt": "2026-11-08T07:53:43.784Z",
   "lastPull": {
-    "id": 32,
-    "name": "nidoran-m",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+    "id": 375,
+    "name": "metang",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
     "types": [
-      "poison"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 273,
-    "grade": "N",
-    "pulledAt": "2026-11-08T01:25:50.072Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-11-08T07:53:43.784Z"
   },
   "pulls": [
+    {
+      "id": 375,
+      "name": "metang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-08T07:53:43.784Z"
+    },
     {
       "id": 32,
       "name": "nidoran-m",
@@ -116,17 +129,6 @@
       "totalStats": 494,
       "grade": "R",
       "pulledAt": "2026-11-06T07:00:21.435Z"
-    },
-    {
-      "id": 352,
-      "name": "kecleon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-11-06T00:11:58.409Z"
     }
   ],
   "pokemon": {
@@ -1610,6 +1612,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T16:47:30.142Z",
       "lastPulledAt": "2026-09-17T16:47:30.142Z"
+    },
+    "375": {
+      "id": 375,
+      "name": "metang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-08T07:53:43.784Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T07:53:43.784Z",
+      "lastPulledAt": "2026-11-08T07:53:43.784Z"
     },
     "377": {
       "id": 377,
