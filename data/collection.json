@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 296,
-  "updatedAt": "2026-11-07T22:06:06.325Z",
+  "totalPulls": 297,
+  "updatedAt": "2026-11-08T01:25:50.072Z",
   "lastPull": {
-    "id": 377,
-    "name": "regirock",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+    "id": 32,
+    "name": "nidoran-m",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
     "types": [
-      "rock"
+      "poison"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-07T22:06:06.325Z"
+    "totalStats": 273,
+    "grade": "N",
+    "pulledAt": "2026-11-08T01:25:50.072Z"
   },
   "pulls": [
+    {
+      "id": 32,
+      "name": "nidoran-m",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 273,
+      "grade": "N",
+      "pulledAt": "2026-11-08T01:25:50.072Z"
+    },
     {
       "id": 377,
       "name": "regirock",
@@ -116,17 +127,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-11-06T00:11:58.409Z"
-    },
-    {
-      "id": 674,
-      "name": "pancham",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 348,
-      "grade": "N",
-      "pulledAt": "2026-11-05T19:00:15.133Z"
     }
   ],
   "pokemon": {
@@ -253,6 +253,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T10:05:44.495Z",
       "lastPulledAt": "2026-10-15T10:05:44.495Z"
+    },
+    "32": {
+      "id": 32,
+      "name": "nidoran-m",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 273,
+      "grade": "N",
+      "pulledAt": "2026-11-08T01:25:50.072Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T01:25:50.072Z",
+      "lastPulledAt": "2026-11-08T01:25:50.072Z"
     },
     "36": {
       "id": 36,
