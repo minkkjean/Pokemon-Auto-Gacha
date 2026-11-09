@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 302,
-  "updatedAt": "2026-11-09T02:41:01.662Z",
+  "totalPulls": 303,
+  "updatedAt": "2026-11-09T10:26:36.879Z",
   "lastPull": {
-    "id": 920,
-    "name": "lokix",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
+    "id": 599,
+    "name": "klink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
     "types": [
-      "bug",
-      "dark"
+      "steel"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-11-09T02:41:01.662Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-09T10:26:36.879Z"
   },
   "pulls": [
+    {
+      "id": 599,
+      "name": "klink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-09T10:26:36.879Z"
+    },
     {
       "id": 920,
       "name": "lokix",
@@ -118,18 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-07T13:33:07.850Z"
-    },
-    {
-      "id": 499,
-      "name": "pignite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 418,
-      "grade": "R",
-      "pulledAt": "2026-11-07T06:35:44.339Z"
     }
   ],
   "pokemon": {
@@ -2448,10 +2446,10 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-17T21:47:11.633Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T21:47:11.633Z",
-      "lastPulledAt": "2026-10-17T21:47:11.633Z"
+      "lastPulledAt": "2026-11-09T10:26:36.879Z"
     },
     "601": {
       "id": 601,
