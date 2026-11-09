@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 301,
-  "updatedAt": "2026-11-08T23:08:40.033Z",
+  "totalPulls": 302,
+  "updatedAt": "2026-11-09T02:41:01.662Z",
   "lastPull": {
-    "id": 321,
-    "name": "wailord",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
+    "id": 920,
+    "name": "lokix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
     "types": [
-      "water"
+      "bug",
+      "dark"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T23:08:40.033Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-11-09T02:41:01.662Z"
   },
   "pulls": [
+    {
+      "id": 920,
+      "name": "lokix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
+      "types": [
+        "bug",
+        "dark"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-09T02:41:01.662Z"
+    },
     {
       "id": 321,
       "name": "wailord",
@@ -117,17 +130,6 @@
       "totalStats": 418,
       "grade": "R",
       "pulledAt": "2026-11-07T06:35:44.339Z"
-    },
-    {
-      "id": 975,
-      "name": "cetitan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-11-07T00:32:09.996Z"
     }
   ],
   "pokemon": {
@@ -3674,6 +3676,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T20:09:28.494Z",
       "lastPulledAt": "2026-11-03T22:35:18.213Z"
+    },
+    "920": {
+      "id": 920,
+      "name": "lokix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
+      "types": [
+        "bug",
+        "dark"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-09T02:41:01.662Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T02:41:01.662Z",
+      "lastPulledAt": "2026-11-09T02:41:01.662Z"
     },
     "923": {
       "id": 923,
