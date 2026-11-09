@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 303,
-  "updatedAt": "2026-11-09T10:26:36.879Z",
+  "totalPulls": 304,
+  "updatedAt": "2026-11-09T21:00:07.599Z",
   "lastPull": {
-    "id": 599,
-    "name": "klink",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+    "id": 464,
+    "name": "rhyperior",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
     "types": [
-      "steel"
+      "ground",
+      "rock"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-09T10:26:36.879Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-11-09T21:00:07.599Z"
   },
   "pulls": [
+    {
+      "id": 464,
+      "name": "rhyperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T21:00:07.599Z"
+    },
     {
       "id": 599,
       "name": "klink",
@@ -116,18 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-07T18:18:22.303Z"
-    },
-    {
-      "id": 989,
-      "name": "sandy-shocks",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
-      "types": [
-        "electric",
-        "ground"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-07T13:33:07.850Z"
     }
   ],
   "pokemon": {
@@ -2080,6 +2081,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T20:41:59.249Z",
       "lastPulledAt": "2026-09-24T20:41:59.249Z"
+    },
+    "464": {
+      "id": 464,
+      "name": "rhyperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T21:00:07.599Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T21:00:07.599Z",
+      "lastPulledAt": "2026-11-09T21:00:07.599Z"
     },
     "465": {
       "id": 465,
