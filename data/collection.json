@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 307,
-  "updatedAt": "2026-11-10T18:54:21.082Z",
+  "totalPulls": 308,
+  "updatedAt": "2026-11-10T23:58:25.455Z",
   "lastPull": {
-    "id": 334,
-    "name": "altaria",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+    "id": 548,
+    "name": "petilil",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
     "types": [
-      "dragon",
-      "flying"
+      "grass"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-10T18:54:21.082Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-11-10T23:58:25.455Z"
   },
   "pulls": [
+    {
+      "id": 548,
+      "name": "petilil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-11-10T23:58:25.455Z"
+    },
     {
       "id": 334,
       "name": "altaria",
@@ -117,18 +127,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-11-08T14:57:55.617Z"
-    },
-    {
-      "id": 375,
-      "name": "metang",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-11-08T07:53:43.784Z"
     }
   ],
   "pokemon": {
@@ -2344,6 +2342,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T02:53:27.082Z",
       "lastPulledAt": "2026-10-04T02:53:27.082Z"
+    },
+    "548": {
+      "id": 548,
+      "name": "petilil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-11-10T23:58:25.455Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T23:58:25.455Z",
+      "lastPulledAt": "2026-11-10T23:58:25.455Z"
     },
     "550": {
       "id": 550,
