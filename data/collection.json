@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 304,
-  "updatedAt": "2026-11-09T21:00:07.599Z",
+  "totalPulls": 305,
+  "updatedAt": "2026-11-10T03:27:53.664Z",
   "lastPull": {
-    "id": 464,
-    "name": "rhyperior",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
+    "id": 854,
+    "name": "sinistea",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
     "types": [
-      "ground",
-      "rock"
+      "ghost"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-11-09T21:00:07.599Z"
+    "totalStats": 308,
+    "grade": "N",
+    "pulledAt": "2026-11-10T03:27:53.664Z"
   },
   "pulls": [
+    {
+      "id": 854,
+      "name": "sinistea",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-11-10T03:27:53.664Z"
+    },
     {
       "id": 464,
       "name": "rhyperior",
@@ -117,18 +127,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-07T22:06:06.325Z"
-    },
-    {
-      "id": 923,
-      "name": "pawmot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
-      "types": [
-        "electric",
-        "fighting"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-07T18:18:22.303Z"
     }
   ],
   "pokemon": {
@@ -3379,6 +3377,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T20:30:47.016Z",
       "lastPulledAt": "2026-09-23T20:30:47.016Z"
+    },
+    "854": {
+      "id": 854,
+      "name": "sinistea",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-11-10T03:27:53.664Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T03:27:53.664Z",
+      "lastPulledAt": "2026-11-10T03:27:53.664Z"
     },
     "855": {
       "id": 855,
