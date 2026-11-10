@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 306,
-  "updatedAt": "2026-11-10T11:40:35.962Z",
+  "totalPulls": 307,
+  "updatedAt": "2026-11-10T18:54:21.082Z",
   "lastPull": {
-    "id": 726,
-    "name": "torracat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
+    "id": 334,
+    "name": "altaria",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
     "types": [
-      "fire"
+      "dragon",
+      "flying"
     ],
-    "totalStats": 420,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-11-10T11:40:35.962Z"
+    "pulledAt": "2026-11-10T18:54:21.082Z"
   },
   "pulls": [
+    {
+      "id": 334,
+      "name": "altaria",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-10T18:54:21.082Z"
+    },
     {
       "id": 726,
       "name": "torracat",
@@ -116,17 +129,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-11-08T07:53:43.784Z"
-    },
-    {
-      "id": 32,
-      "name": "nidoran-m",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 273,
-      "grade": "N",
-      "pulledAt": "2026-11-08T01:25:50.072Z"
     }
   ],
   "pokemon": {
@@ -1441,6 +1443,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T00:52:04.855Z",
       "lastPulledAt": "2026-09-18T00:52:04.855Z"
+    },
+    "334": {
+      "id": 334,
+      "name": "altaria",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-10T18:54:21.082Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T18:54:21.082Z",
+      "lastPulledAt": "2026-11-10T18:54:21.082Z"
     },
     "336": {
       "id": 336,
