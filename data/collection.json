@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 311,
-  "updatedAt": "2026-11-11T21:23:25.877Z",
+  "totalPulls": 312,
+  "updatedAt": "2026-11-12T02:27:16.953Z",
   "lastPull": {
-    "id": 466,
-    "name": "electivire",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
+    "id": 22,
+    "name": "fearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
     "types": [
-      "electric"
+      "normal",
+      "flying"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-11-11T21:23:25.877Z"
+    "totalStats": 442,
+    "grade": "R",
+    "pulledAt": "2026-11-12T02:27:16.953Z"
   },
   "pulls": [
+    {
+      "id": 22,
+      "name": "fearow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 442,
+      "grade": "R",
+      "pulledAt": "2026-11-12T02:27:16.953Z"
+    },
     {
       "id": 466,
       "name": "electivire",
@@ -115,18 +128,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-09T10:26:36.879Z"
-    },
-    {
-      "id": 920,
-      "name": "lokix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
-      "types": [
-        "bug",
-        "dark"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-11-09T02:41:01.662Z"
     }
   ],
   "pokemon": {
@@ -219,10 +220,10 @@
       "totalStats": 442,
       "grade": "R",
       "pulledAt": "2026-09-19T19:23:26.973Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T19:23:26.973Z",
-      "lastPulledAt": "2026-09-19T19:23:26.973Z"
+      "lastPulledAt": "2026-11-12T02:27:16.953Z"
     },
     "23": {
       "id": 23,
