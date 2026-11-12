@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 313,
-  "updatedAt": "2026-11-12T10:12:00.431Z",
+  "totalPulls": 314,
+  "updatedAt": "2026-11-12T18:25:30.145Z",
   "lastPull": {
-    "id": 523,
-    "name": "zebstrika",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png",
+    "id": 615,
+    "name": "cryogonal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
     "types": [
-      "electric"
+      "ice"
     ],
-    "totalStats": 497,
-    "grade": "R",
-    "pulledAt": "2026-11-12T10:12:00.431Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-11-12T18:25:30.145Z"
   },
   "pulls": [
+    {
+      "id": 615,
+      "name": "cryogonal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-11-12T18:25:30.145Z"
+    },
     {
       "id": 523,
       "name": "zebstrika",
@@ -115,18 +126,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-11-10T03:27:53.664Z"
-    },
-    {
-      "id": 464,
-      "name": "rhyperior",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
-      "types": [
-        "ground",
-        "rock"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-11-09T21:00:07.599Z"
     }
   ],
   "pokemon": {
@@ -2557,6 +2556,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T23:33:10.272Z",
       "lastPulledAt": "2026-10-23T23:33:10.272Z"
+    },
+    "615": {
+      "id": 615,
+      "name": "cryogonal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-11-12T18:25:30.145Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T18:25:30.145Z",
+      "lastPulledAt": "2026-11-12T18:25:30.145Z"
     },
     "616": {
       "id": 616,
