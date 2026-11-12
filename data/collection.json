@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 314,
-  "updatedAt": "2026-11-12T18:25:30.145Z",
+  "totalPulls": 315,
+  "updatedAt": "2026-11-12T23:48:54.110Z",
   "lastPull": {
-    "id": 615,
-    "name": "cryogonal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
+    "id": 18,
+    "name": "pidgeot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
     "types": [
-      "ice"
+      "normal",
+      "flying"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-11-12T18:25:30.145Z"
+    "totalStats": 479,
+    "grade": "R",
+    "pulledAt": "2026-11-12T23:48:54.110Z"
   },
   "pulls": [
+    {
+      "id": 18,
+      "name": "pidgeot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-11-12T23:48:54.110Z"
+    },
     {
       "id": 615,
       "name": "cryogonal",
@@ -115,17 +128,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-11-10T11:40:35.962Z"
-    },
-    {
-      "id": 854,
-      "name": "sinistea",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 308,
-      "grade": "N",
-      "pulledAt": "2026-11-10T03:27:53.664Z"
     }
   ],
   "pokemon": {
@@ -176,6 +178,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T19:38:07.449Z",
       "lastPulledAt": "2026-10-30T19:38:07.449Z"
+    },
+    "18": {
+      "id": 18,
+      "name": "pidgeot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-11-12T23:48:54.110Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T23:48:54.110Z",
+      "lastPulledAt": "2026-11-12T23:48:54.110Z"
     },
     "19": {
       "id": 19,
