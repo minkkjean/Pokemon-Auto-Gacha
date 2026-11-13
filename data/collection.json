@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 315,
-  "updatedAt": "2026-11-12T23:48:54.110Z",
+  "totalPulls": 316,
+  "updatedAt": "2026-11-13T04:07:43.802Z",
   "lastPull": {
-    "id": 18,
-    "name": "pidgeot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "id": 436,
+    "name": "bronzor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
     "types": [
-      "normal",
-      "flying"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 479,
-    "grade": "R",
-    "pulledAt": "2026-11-12T23:48:54.110Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-13T04:07:43.802Z"
   },
   "pulls": [
+    {
+      "id": 436,
+      "name": "bronzor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-13T04:07:43.802Z"
+    },
     {
       "id": 18,
       "name": "pidgeot",
@@ -117,17 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-10T18:54:21.082Z"
-    },
-    {
-      "id": 726,
-      "name": "torracat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-11-10T11:40:35.962Z"
     }
   ],
   "pokemon": {
@@ -1969,6 +1970,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T11:01:27.394Z",
       "lastPulledAt": "2026-10-19T11:01:27.394Z"
+    },
+    "436": {
+      "id": 436,
+      "name": "bronzor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-13T04:07:43.802Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T04:07:43.802Z",
+      "lastPulledAt": "2026-11-13T04:07:43.802Z"
     },
     "437": {
       "id": 437,
