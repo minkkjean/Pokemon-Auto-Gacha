@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 316,
-  "updatedAt": "2026-11-13T04:07:43.802Z",
+  "totalPulls": 317,
+  "updatedAt": "2026-11-13T12:13:13.298Z",
   "lastPull": {
-    "id": 436,
-    "name": "bronzor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+    "id": 111,
+    "name": "rhyhorn",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
     "types": [
-      "steel",
-      "psychic"
+      "ground",
+      "rock"
     ],
-    "totalStats": 300,
+    "totalStats": 345,
     "grade": "N",
-    "pulledAt": "2026-11-13T04:07:43.802Z"
+    "pulledAt": "2026-11-13T12:13:13.298Z"
   },
   "pulls": [
+    {
+      "id": 111,
+      "name": "rhyhorn",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 345,
+      "grade": "N",
+      "pulledAt": "2026-11-13T12:13:13.298Z"
+    },
     {
       "id": 436,
       "name": "bronzor",
@@ -117,18 +129,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-11-10T23:58:25.455Z"
-    },
-    {
-      "id": 334,
-      "name": "altaria",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
-      "types": [
-        "dragon",
-        "flying"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-10T18:54:21.082Z"
     }
   ],
   "pokemon": {
@@ -551,6 +551,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T09:48:13.642Z",
       "lastPulledAt": "2026-09-26T22:58:58.922Z"
+    },
+    "111": {
+      "id": 111,
+      "name": "rhyhorn",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 345,
+      "grade": "N",
+      "pulledAt": "2026-11-13T12:13:13.298Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T12:13:13.298Z",
+      "lastPulledAt": "2026-11-13T12:13:13.298Z"
     },
     "113": {
       "id": 113,
