@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 320,
-  "updatedAt": "2026-11-14T07:30:27.350Z",
+  "totalPulls": 321,
+  "updatedAt": "2026-11-14T14:31:01.483Z",
   "lastPull": {
-    "id": 312,
-    "name": "minun",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+    "id": 393,
+    "name": "piplup",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
     "types": [
-      "electric"
+      "water"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-14T07:30:27.350Z"
+    "totalStats": 314,
+    "grade": "N",
+    "pulledAt": "2026-11-14T14:31:01.483Z"
   },
   "pulls": [
+    {
+      "id": 393,
+      "name": "piplup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 314,
+      "grade": "N",
+      "pulledAt": "2026-11-14T14:31:01.483Z"
+    },
     {
       "id": 312,
       "name": "minun",
@@ -118,17 +129,6 @@
       "totalStats": 442,
       "grade": "R",
       "pulledAt": "2026-11-12T02:27:16.953Z"
-    },
-    {
-      "id": 466,
-      "name": "electivire",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-11-11T21:23:25.877Z"
     }
   ],
   "pokemon": {
@@ -1814,6 +1814,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T02:23:32.928Z",
       "lastPulledAt": "2026-10-03T02:23:32.928Z"
+    },
+    "393": {
+      "id": 393,
+      "name": "piplup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 314,
+      "grade": "N",
+      "pulledAt": "2026-11-14T14:31:01.483Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T14:31:01.483Z",
+      "lastPulledAt": "2026-11-14T14:31:01.483Z"
     },
     "395": {
       "id": 395,
