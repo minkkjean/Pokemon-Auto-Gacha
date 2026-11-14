@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 322,
-  "updatedAt": "2026-11-14T19:28:17.771Z",
+  "totalPulls": 323,
+  "updatedAt": "2026-11-14T23:18:59.319Z",
   "lastPull": {
-    "id": 308,
-    "name": "medicham",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
+    "id": 75,
+    "name": "graveler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
     "types": [
-      "fighting",
-      "psychic"
+      "rock",
+      "ground"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-11-14T19:28:17.771Z"
+    "totalStats": 390,
+    "grade": "N",
+    "pulledAt": "2026-11-14T23:18:59.319Z"
   },
   "pulls": [
+    {
+      "id": 75,
+      "name": "graveler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-11-14T23:18:59.319Z"
+    },
     {
       "id": 308,
       "name": "medicham",
@@ -119,17 +131,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-11-12T18:25:30.145Z"
-    },
-    {
-      "id": 523,
-      "name": "zebstrika",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 497,
-      "grade": "R",
-      "pulledAt": "2026-11-12T10:12:00.431Z"
     }
   ],
   "pokemon": {
@@ -443,6 +444,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T16:52:02.615Z",
       "lastPulledAt": "2026-09-16T16:52:02.615Z"
+    },
+    "75": {
+      "id": 75,
+      "name": "graveler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 390,
+      "grade": "N",
+      "pulledAt": "2026-11-14T23:18:59.319Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T23:18:59.319Z",
+      "lastPulledAt": "2026-11-14T23:18:59.319Z"
     },
     "79": {
       "id": 79,
