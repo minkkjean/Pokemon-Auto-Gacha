@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 319,
-  "updatedAt": "2026-11-14T00:50:11.900Z",
+  "totalPulls": 320,
+  "updatedAt": "2026-11-14T07:30:27.350Z",
   "lastPull": {
-    "id": 369,
-    "name": "relicanth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png",
+    "id": 312,
+    "name": "minun",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
     "types": [
-      "water",
-      "rock"
+      "electric"
     ],
-    "totalStats": 485,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-11-14T00:50:11.900Z"
+    "pulledAt": "2026-11-14T07:30:27.350Z"
   },
   "pulls": [
+    {
+      "id": 312,
+      "name": "minun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-14T07:30:27.350Z"
+    },
     {
       "id": 369,
       "name": "relicanth",
@@ -119,18 +129,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-11-11T21:23:25.877Z"
-    },
-    {
-      "id": 966,
-      "name": "revavroom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
-      "types": [
-        "steel",
-        "poison"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-11T14:03:25.966Z"
     }
   ],
   "pokemon": {
@@ -1335,10 +1333,10 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-03T13:54:26.291Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T13:54:26.291Z",
-      "lastPulledAt": "2026-11-08T19:31:05.225Z"
+      "lastPulledAt": "2026-11-14T07:30:27.350Z"
     },
     "313": {
       "id": 313,
