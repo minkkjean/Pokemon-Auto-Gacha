@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 321,
-  "updatedAt": "2026-11-14T14:31:01.483Z",
+  "totalPulls": 322,
+  "updatedAt": "2026-11-14T19:28:17.771Z",
   "lastPull": {
-    "id": 393,
-    "name": "piplup",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
+    "id": 308,
+    "name": "medicham",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
     "types": [
-      "water"
+      "fighting",
+      "psychic"
     ],
-    "totalStats": 314,
-    "grade": "N",
-    "pulledAt": "2026-11-14T14:31:01.483Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-11-14T19:28:17.771Z"
   },
   "pulls": [
+    {
+      "id": 308,
+      "name": "medicham",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-14T19:28:17.771Z"
+    },
     {
       "id": 393,
       "name": "piplup",
@@ -117,18 +130,6 @@
       "totalStats": 497,
       "grade": "R",
       "pulledAt": "2026-11-12T10:12:00.431Z"
-    },
-    {
-      "id": 22,
-      "name": "fearow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 442,
-      "grade": "R",
-      "pulledAt": "2026-11-12T02:27:16.953Z"
     }
   ],
   "pokemon": {
@@ -1307,6 +1308,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-27T06:08:15.619Z",
       "lastPulledAt": "2026-10-27T06:08:15.619Z"
+    },
+    "308": {
+      "id": 308,
+      "name": "medicham",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-14T19:28:17.771Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T19:28:17.771Z",
+      "lastPulledAt": "2026-11-14T19:28:17.771Z"
     },
     "310": {
       "id": 310,
