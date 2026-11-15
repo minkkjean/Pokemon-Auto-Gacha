@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 325,
-  "updatedAt": "2026-11-15T10:38:39.977Z",
+  "totalPulls": 326,
+  "updatedAt": "2026-11-15T17:25:19.703Z",
   "lastPull": {
-    "id": 170,
-    "name": "chinchou",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+    "id": 408,
+    "name": "cranidos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
     "types": [
-      "water",
-      "electric"
+      "rock"
     ],
-    "totalStats": 330,
+    "totalStats": 350,
     "grade": "N",
-    "pulledAt": "2026-11-15T10:38:39.977Z"
+    "pulledAt": "2026-11-15T17:25:19.703Z"
   },
   "pulls": [
+    {
+      "id": 408,
+      "name": "cranidos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-11-15T17:25:19.703Z"
+    },
     {
       "id": 170,
       "name": "chinchou",
@@ -119,18 +129,6 @@
       "totalStats": 345,
       "grade": "N",
       "pulledAt": "2026-11-13T12:13:13.298Z"
-    },
-    {
-      "id": 436,
-      "name": "bronzor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-13T04:07:43.802Z"
     }
   ],
   "pokemon": {
@@ -1942,6 +1940,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T15:55:10.362Z",
       "lastPulledAt": "2026-10-24T15:55:10.362Z"
+    },
+    "408": {
+      "id": 408,
+      "name": "cranidos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-11-15T17:25:19.703Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T17:25:19.703Z",
+      "lastPulledAt": "2026-11-15T17:25:19.703Z"
     },
     "413": {
       "id": 413,
