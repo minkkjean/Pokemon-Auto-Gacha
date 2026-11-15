@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 324,
-  "updatedAt": "2026-11-15T02:53:55.515Z",
+  "totalPulls": 325,
+  "updatedAt": "2026-11-15T10:38:39.977Z",
   "lastPull": {
-    "id": 491,
-    "name": "darkrai",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
+    "id": 170,
+    "name": "chinchou",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
     "types": [
-      "dark"
+      "water",
+      "electric"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-15T02:53:55.515Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-11-15T10:38:39.977Z"
   },
   "pulls": [
+    {
+      "id": 170,
+      "name": "chinchou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-15T10:38:39.977Z"
+    },
     {
       "id": 491,
       "name": "darkrai",
@@ -118,18 +131,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-13T04:07:43.802Z"
-    },
-    {
-      "id": 18,
-      "name": "pidgeot",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 479,
-      "grade": "R",
-      "pulledAt": "2026-11-12T23:48:54.110Z"
     }
   ],
   "pokemon": {
@@ -735,6 +736,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T06:54:05.911Z",
       "lastPulledAt": "2026-11-01T19:47:20.858Z"
+    },
+    "170": {
+      "id": 170,
+      "name": "chinchou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-15T10:38:39.977Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T10:38:39.977Z",
+      "lastPulledAt": "2026-11-15T10:38:39.977Z"
     },
     "172": {
       "id": 172,
