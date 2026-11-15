@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 323,
-  "updatedAt": "2026-11-14T23:18:59.319Z",
+  "totalPulls": 324,
+  "updatedAt": "2026-11-15T02:53:55.515Z",
   "lastPull": {
-    "id": 75,
-    "name": "graveler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+    "id": 491,
+    "name": "darkrai",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
     "types": [
-      "rock",
-      "ground"
+      "dark"
     ],
-    "totalStats": 390,
-    "grade": "N",
-    "pulledAt": "2026-11-14T23:18:59.319Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-15T02:53:55.515Z"
   },
   "pulls": [
+    {
+      "id": 491,
+      "name": "darkrai",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-15T02:53:55.515Z"
+    },
     {
       "id": 75,
       "name": "graveler",
@@ -120,17 +130,6 @@
       "totalStats": 479,
       "grade": "R",
       "pulledAt": "2026-11-12T23:48:54.110Z"
-    },
-    {
-      "id": 615,
-      "name": "cryogonal",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-11-12T18:25:30.145Z"
     }
   ],
   "pokemon": {
@@ -2303,6 +2302,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T18:43:15.694Z",
       "lastPulledAt": "2026-10-31T15:14:21.998Z"
+    },
+    "491": {
+      "id": 491,
+      "name": "darkrai",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-15T02:53:55.515Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T02:53:55.515Z",
+      "lastPulledAt": "2026-11-15T02:53:55.515Z"
     },
     "498": {
       "id": 498,
