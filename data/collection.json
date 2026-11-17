@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 332,
-  "updatedAt": "2026-11-17T11:39:37.943Z",
+  "totalPulls": 333,
+  "updatedAt": "2026-11-17T20:03:20.104Z",
   "lastPull": {
-    "id": 744,
-    "name": "rockruff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
+    "id": 146,
+    "name": "moltres",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
     "types": [
-      "rock"
+      "fire",
+      "flying"
     ],
-    "totalStats": 280,
-    "grade": "N",
-    "pulledAt": "2026-11-17T11:39:37.943Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-11-17T20:03:20.104Z"
   },
   "pulls": [
+    {
+      "id": 146,
+      "name": "moltres",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T20:03:20.104Z"
+    },
     {
       "id": 744,
       "name": "rockruff",
@@ -117,18 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-15T02:53:55.515Z"
-    },
-    {
-      "id": 75,
-      "name": "graveler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 390,
-      "grade": "N",
-      "pulledAt": "2026-11-14T23:18:59.319Z"
     }
   ],
   "pokemon": {
@@ -736,6 +737,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-16T09:36:34.033Z",
       "lastPulledAt": "2026-11-16T09:36:34.033Z"
+    },
+    "146": {
+      "id": 146,
+      "name": "moltres",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T20:03:20.104Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T20:03:20.104Z",
+      "lastPulledAt": "2026-11-17T20:03:20.104Z"
     },
     "152": {
       "id": 152,
