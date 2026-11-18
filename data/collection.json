@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 333,
-  "updatedAt": "2026-11-17T20:03:20.104Z",
+  "totalPulls": 334,
+  "updatedAt": "2026-11-18T02:24:38.043Z",
   "lastPull": {
-    "id": 146,
-    "name": "moltres",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "id": 903,
+    "name": "sneasler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
     "types": [
-      "fire",
-      "flying"
+      "fighting",
+      "poison"
     ],
-    "totalStats": 580,
+    "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-11-17T20:03:20.104Z"
+    "pulledAt": "2026-11-18T02:24:38.043Z"
   },
   "pulls": [
+    {
+      "id": 903,
+      "name": "sneasler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
+      "types": [
+        "fighting",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-18T02:24:38.043Z"
+    },
     {
       "id": 146,
       "name": "moltres",
@@ -119,17 +131,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-11-15T10:38:39.977Z"
-    },
-    {
-      "id": 491,
-      "name": "darkrai",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-15T02:53:55.515Z"
     }
   ],
   "pokemon": {
@@ -3989,6 +3990,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T19:26:17.598Z",
       "lastPulledAt": "2026-10-20T19:26:17.598Z"
+    },
+    "903": {
+      "id": 903,
+      "name": "sneasler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
+      "types": [
+        "fighting",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-18T02:24:38.043Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T02:24:38.043Z",
+      "lastPulledAt": "2026-11-18T02:24:38.043Z"
     },
     "910": {
       "id": 910,
