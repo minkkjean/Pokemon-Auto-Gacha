@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 334,
-  "updatedAt": "2026-11-18T02:24:38.043Z",
+  "totalPulls": 335,
+  "updatedAt": "2026-11-18T10:37:11.720Z",
   "lastPull": {
-    "id": 903,
-    "name": "sneasler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
+    "id": 902,
+    "name": "basculegion-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
     "types": [
-      "fighting",
-      "poison"
+      "water",
+      "ghost"
     ],
-    "totalStats": 510,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-11-18T02:24:38.043Z"
+    "pulledAt": "2026-11-18T10:37:11.720Z"
   },
   "pulls": [
+    {
+      "id": 902,
+      "name": "basculegion-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-18T10:37:11.720Z"
+    },
     {
       "id": 903,
       "name": "sneasler",
@@ -119,18 +131,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-11-15T17:25:19.703Z"
-    },
-    {
-      "id": 170,
-      "name": "chinchou",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
-      "types": [
-        "water",
-        "electric"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-11-15T10:38:39.977Z"
     }
   ],
   "pokemon": {
@@ -3986,10 +3986,10 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-20T19:26:17.598Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T19:26:17.598Z",
-      "lastPulledAt": "2026-10-20T19:26:17.598Z"
+      "lastPulledAt": "2026-11-18T10:37:11.720Z"
     },
     "903": {
       "id": 903,
