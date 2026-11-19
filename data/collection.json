@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 337,
-  "updatedAt": "2026-11-19T01:11:12.316Z",
+  "totalPulls": 338,
+  "updatedAt": "2026-11-19T08:53:59.605Z",
   "lastPull": {
-    "id": 312,
-    "name": "minun",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+    "id": 644,
+    "name": "zekrom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
     "types": [
+      "dragon",
       "electric"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-19T01:11:12.316Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-11-19T08:53:59.605Z"
   },
   "pulls": [
+    {
+      "id": 644,
+      "name": "zekrom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+      "types": [
+        "dragon",
+        "electric"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-19T08:53:59.605Z"
+    },
     {
       "id": 312,
       "name": "minun",
@@ -118,17 +131,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-16T09:36:34.033Z"
-    },
-    {
-      "id": 837,
-      "name": "rolycoly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 240,
-      "grade": "N",
-      "pulledAt": "2026-11-16T02:00:25.738Z"
     }
   ],
   "pokemon": {
@@ -2933,6 +2935,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T13:56:30.596Z",
       "lastPulledAt": "2026-10-11T13:56:30.596Z"
+    },
+    "644": {
+      "id": 644,
+      "name": "zekrom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+      "types": [
+        "dragon",
+        "electric"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-19T08:53:59.605Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T08:53:59.605Z",
+      "lastPulledAt": "2026-11-19T08:53:59.605Z"
     },
     "649": {
       "id": 649,
