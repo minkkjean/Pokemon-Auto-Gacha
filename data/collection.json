@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 342,
-  "updatedAt": "2026-11-20T16:25:56.715Z",
+  "totalPulls": 343,
+  "updatedAt": "2026-11-20T22:46:24.612Z",
   "lastPull": {
-    "id": 517,
-    "name": "munna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+    "id": 910,
+    "name": "crocalor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
     "types": [
-      "psychic"
+      "fire"
     ],
-    "totalStats": 292,
-    "grade": "N",
-    "pulledAt": "2026-11-20T16:25:56.715Z"
+    "totalStats": 411,
+    "grade": "R",
+    "pulledAt": "2026-11-20T22:46:24.612Z"
   },
   "pulls": [
+    {
+      "id": 910,
+      "name": "crocalor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 411,
+      "grade": "R",
+      "pulledAt": "2026-11-20T22:46:24.612Z"
+    },
     {
       "id": 517,
       "name": "munna",
@@ -117,18 +128,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-18T02:24:38.043Z"
-    },
-    {
-      "id": 146,
-      "name": "moltres",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-17T20:03:20.104Z"
     }
   ],
   "pokemon": {
@@ -4108,10 +4107,10 @@
       "totalStats": 411,
       "grade": "R",
       "pulledAt": "2026-11-04T17:56:41.761Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-04T17:56:41.761Z",
-      "lastPulledAt": "2026-11-04T17:56:41.761Z"
+      "lastPulledAt": "2026-11-20T22:46:24.612Z"
     },
     "914": {
       "id": 914,
