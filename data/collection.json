@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 345,
-  "updatedAt": "2026-11-21T11:46:30.762Z",
+  "totalPulls": 346,
+  "updatedAt": "2026-11-21T18:17:24.011Z",
   "lastPull": {
-    "id": 478,
-    "name": "froslass",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
+    "id": 247,
+    "name": "pupitar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
     "types": [
-      "ice",
-      "ghost"
+      "rock",
+      "ground"
     ],
-    "totalStats": 480,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-11-21T11:46:30.762Z"
+    "pulledAt": "2026-11-21T18:17:24.011Z"
   },
   "pulls": [
+    {
+      "id": 247,
+      "name": "pupitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-21T18:17:24.011Z"
+    },
     {
       "id": 478,
       "name": "froslass",
@@ -117,17 +129,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-11-19T01:11:12.316Z"
-    },
-    {
-      "id": 78,
-      "name": "rapidash",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-18T19:04:42.844Z"
     }
   ],
   "pokemon": {
@@ -1199,6 +1200,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:41:21.024Z",
       "lastPulledAt": "2026-09-16T01:41:21.024Z"
+    },
+    "247": {
+      "id": 247,
+      "name": "pupitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-21T18:17:24.011Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T18:17:24.011Z",
+      "lastPulledAt": "2026-11-21T18:17:24.011Z"
     },
     "249": {
       "id": 249,
