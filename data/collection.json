@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 349,
-  "updatedAt": "2026-11-22T11:54:21.431Z",
+  "totalPulls": 350,
+  "updatedAt": "2026-11-22T19:25:16.999Z",
   "lastPull": {
-    "id": 86,
-    "name": "seel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+    "id": 814,
+    "name": "raboot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
     "types": [
-      "water"
+      "fire"
     ],
-    "totalStats": 325,
-    "grade": "N",
-    "pulledAt": "2026-11-22T11:54:21.431Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-11-22T19:25:16.999Z"
   },
   "pulls": [
+    {
+      "id": 814,
+      "name": "raboot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-22T19:25:16.999Z"
+    },
     {
       "id": 86,
       "name": "seel",
@@ -116,18 +127,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-11-20T07:46:12.125Z"
-    },
-    {
-      "id": 439,
-      "name": "mime-jr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-11-20T00:37:31.921Z"
     }
   ],
   "pokemon": {
@@ -3721,10 +3720,10 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-09T17:11:35.614Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T17:11:35.614Z",
-      "lastPulledAt": "2026-10-09T17:11:35.614Z"
+      "lastPulledAt": "2026-11-22T19:25:16.999Z"
     },
     "818": {
       "id": 818,
