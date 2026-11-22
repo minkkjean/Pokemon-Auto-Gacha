@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 348,
-  "updatedAt": "2026-11-22T03:26:30.290Z",
+  "totalPulls": 349,
+  "updatedAt": "2026-11-22T11:54:21.431Z",
   "lastPull": {
-    "id": 198,
-    "name": "murkrow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+    "id": 86,
+    "name": "seel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
     "types": [
-      "dark",
-      "flying"
+      "water"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-22T03:26:30.290Z"
+    "totalStats": 325,
+    "grade": "N",
+    "pulledAt": "2026-11-22T11:54:21.431Z"
   },
   "pulls": [
+    {
+      "id": 86,
+      "name": "seel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-11-22T11:54:21.431Z"
+    },
     {
       "id": 198,
       "name": "murkrow",
@@ -118,17 +128,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-11-20T00:37:31.921Z"
-    },
-    {
-      "id": 857,
-      "name": "hattrem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-11-19T18:08:30.902Z"
     }
   ],
   "pokemon": {
@@ -505,6 +504,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-17T02:51:35.147Z",
       "lastPulledAt": "2026-11-17T02:51:35.147Z"
+    },
+    "86": {
+      "id": 86,
+      "name": "seel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-11-22T11:54:21.431Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T11:54:21.431Z",
+      "lastPulledAt": "2026-11-22T11:54:21.431Z"
     },
     "87": {
       "id": 87,
