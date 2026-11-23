@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 350,
-  "updatedAt": "2026-11-22T19:25:16.999Z",
+  "totalPulls": 351,
+  "updatedAt": "2026-11-23T00:25:43.049Z",
   "lastPull": {
-    "id": 814,
-    "name": "raboot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+    "id": 408,
+    "name": "cranidos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
     "types": [
-      "fire"
+      "rock"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-11-22T19:25:16.999Z"
+    "totalStats": 350,
+    "grade": "N",
+    "pulledAt": "2026-11-23T00:25:43.049Z"
   },
   "pulls": [
+    {
+      "id": 408,
+      "name": "cranidos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-11-23T00:25:43.049Z"
+    },
     {
       "id": 814,
       "name": "raboot",
@@ -115,18 +126,6 @@
       "totalStats": 292,
       "grade": "N",
       "pulledAt": "2026-11-20T16:25:56.715Z"
-    },
-    {
-      "id": 220,
-      "name": "swinub",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png",
-      "types": [
-        "ice",
-        "ground"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-11-20T07:46:12.125Z"
     }
   ],
   "pokemon": {
@@ -2107,10 +2106,10 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-11-15T17:25:19.703Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-15T17:25:19.703Z",
-      "lastPulledAt": "2026-11-15T17:25:19.703Z"
+      "lastPulledAt": "2026-11-23T00:25:43.049Z"
     },
     "413": {
       "id": 413,
