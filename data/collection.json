@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 351,
-  "updatedAt": "2026-11-23T00:25:43.049Z",
+  "totalPulls": 352,
+  "updatedAt": "2026-11-23T08:04:17.495Z",
   "lastPull": {
-    "id": 408,
-    "name": "cranidos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
+    "id": 671,
+    "name": "florges",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
     "types": [
-      "rock"
+      "fairy"
     ],
-    "totalStats": 350,
-    "grade": "N",
-    "pulledAt": "2026-11-23T00:25:43.049Z"
+    "totalStats": 552,
+    "grade": "SR",
+    "pulledAt": "2026-11-23T08:04:17.495Z"
   },
   "pulls": [
+    {
+      "id": 671,
+      "name": "florges",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 552,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T08:04:17.495Z"
+    },
     {
       "id": 408,
       "name": "cranidos",
@@ -115,17 +126,6 @@
       "totalStats": 411,
       "grade": "R",
       "pulledAt": "2026-11-20T22:46:24.612Z"
-    },
-    {
-      "id": 517,
-      "name": "munna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 292,
-      "grade": "N",
-      "pulledAt": "2026-11-20T16:25:56.715Z"
     }
   ],
   "pokemon": {
@@ -3164,6 +3164,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:47:15.558Z",
       "lastPulledAt": "2026-09-22T06:47:15.558Z"
+    },
+    "671": {
+      "id": 671,
+      "name": "florges",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 552,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T08:04:17.495Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T08:04:17.495Z",
+      "lastPulledAt": "2026-11-23T08:04:17.495Z"
     },
     "673": {
       "id": 673,
