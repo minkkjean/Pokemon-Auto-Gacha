@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 353,
-  "updatedAt": "2026-11-23T20:10:14.997Z",
+  "totalPulls": 354,
+  "updatedAt": "2026-11-24T04:51:27.864Z",
   "lastPull": {
-    "id": 251,
-    "name": "celebi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+    "id": 636,
+    "name": "larvesta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
     "types": [
-      "psychic",
-      "grass"
+      "bug",
+      "fire"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-23T20:10:14.997Z"
+    "totalStats": 360,
+    "grade": "N",
+    "pulledAt": "2026-11-24T04:51:27.864Z"
   },
   "pulls": [
+    {
+      "id": 636,
+      "name": "larvesta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-11-24T04:51:27.864Z"
+    },
     {
       "id": 251,
       "name": "celebi",
@@ -117,17 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-11-21T11:46:30.762Z"
-    },
-    {
-      "id": 907,
-      "name": "floragato",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-11-21T03:33:51.953Z"
     }
   ],
   "pokemon": {
@@ -3042,6 +3043,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T04:56:19.711Z",
       "lastPulledAt": "2026-09-26T04:56:19.711Z"
+    },
+    "636": {
+      "id": 636,
+      "name": "larvesta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-11-24T04:51:27.864Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T04:51:27.864Z",
+      "lastPulledAt": "2026-11-24T04:51:27.864Z"
     },
     "639": {
       "id": 639,
