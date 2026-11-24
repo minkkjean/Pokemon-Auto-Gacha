@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 354,
-  "updatedAt": "2026-11-24T04:51:27.864Z",
+  "totalPulls": 355,
+  "updatedAt": "2026-11-24T15:40:58.885Z",
   "lastPull": {
-    "id": 636,
-    "name": "larvesta",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+    "id": 548,
+    "name": "petilil",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
     "types": [
-      "bug",
-      "fire"
+      "grass"
     ],
-    "totalStats": 360,
+    "totalStats": 280,
     "grade": "N",
-    "pulledAt": "2026-11-24T04:51:27.864Z"
+    "pulledAt": "2026-11-24T15:40:58.885Z"
   },
   "pulls": [
+    {
+      "id": 548,
+      "name": "petilil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-11-24T15:40:58.885Z"
+    },
     {
       "id": 636,
       "name": "larvesta",
@@ -117,18 +127,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-11-21T18:17:24.011Z"
-    },
-    {
-      "id": 478,
-      "name": "froslass",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
-      "types": [
-        "ice",
-        "ghost"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-11-21T11:46:30.762Z"
     }
   ],
   "pokemon": {
@@ -2748,10 +2746,10 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-11-10T23:58:25.455Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-10T23:58:25.455Z",
-      "lastPulledAt": "2026-11-10T23:58:25.455Z"
+      "lastPulledAt": "2026-11-24T15:40:58.885Z"
     },
     "550": {
       "id": 550,
