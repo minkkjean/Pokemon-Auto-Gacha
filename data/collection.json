@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 355,
-  "updatedAt": "2026-11-24T15:40:58.885Z",
+  "totalPulls": 356,
+  "updatedAt": "2026-11-25T00:09:58.531Z",
   "lastPull": {
-    "id": 548,
-    "name": "petilil",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
+    "id": 762,
+    "name": "steenee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
     "types": [
       "grass"
     ],
-    "totalStats": 280,
+    "totalStats": 290,
     "grade": "N",
-    "pulledAt": "2026-11-24T15:40:58.885Z"
+    "pulledAt": "2026-11-25T00:09:58.531Z"
   },
   "pulls": [
+    {
+      "id": 762,
+      "name": "steenee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-25T00:09:58.531Z"
+    },
     {
       "id": 548,
       "name": "petilil",
@@ -115,18 +126,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-11-21T23:29:12.211Z"
-    },
-    {
-      "id": 247,
-      "name": "pupitar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-11-21T18:17:24.011Z"
     }
   ],
   "pokemon": {
@@ -3618,6 +3617,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-17T11:39:37.943Z",
       "lastPulledAt": "2026-11-17T11:39:37.943Z"
+    },
+    "762": {
+      "id": 762,
+      "name": "steenee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-11-25T00:09:58.531Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T00:09:58.531Z",
+      "lastPulledAt": "2026-11-25T00:09:58.531Z"
     },
     "763": {
       "id": 763,
