@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 360,
-  "updatedAt": "2026-11-26T10:53:22.055Z",
+  "totalPulls": 361,
+  "updatedAt": "2026-11-26T20:03:31.450Z",
   "lastPull": {
-    "id": 866,
-    "name": "mr-rime",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+    "id": 76,
+    "name": "golem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
     "types": [
-      "ice",
-      "psychic"
+      "rock",
+      "ground"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-11-26T10:53:22.055Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-11-26T20:03:31.450Z"
   },
   "pulls": [
+    {
+      "id": 76,
+      "name": "golem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-26T20:03:31.450Z"
+    },
     {
       "id": 866,
       "name": "mr-rime",
@@ -118,17 +130,6 @@
       "totalStats": 552,
       "grade": "SR",
       "pulledAt": "2026-11-23T08:04:17.495Z"
-    },
-    {
-      "id": 408,
-      "name": "cranidos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-11-23T00:25:43.049Z"
     }
   ],
   "pokemon": {
@@ -458,6 +459,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-14T23:18:59.319Z",
       "lastPulledAt": "2026-11-14T23:18:59.319Z"
+    },
+    "76": {
+      "id": 76,
+      "name": "golem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-26T20:03:31.450Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T20:03:31.450Z",
+      "lastPulledAt": "2026-11-26T20:03:31.450Z"
     },
     "78": {
       "id": 78,
