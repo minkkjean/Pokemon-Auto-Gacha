@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 361,
-  "updatedAt": "2026-11-26T20:03:31.450Z",
+  "totalPulls": 362,
+  "updatedAt": "2026-11-27T02:49:53.783Z",
   "lastPull": {
-    "id": 76,
-    "name": "golem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "id": 358,
+    "name": "chimecho",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
     "types": [
-      "rock",
-      "ground"
+      "psychic"
     ],
-    "totalStats": 495,
+    "totalStats": 455,
     "grade": "R",
-    "pulledAt": "2026-11-26T20:03:31.450Z"
+    "pulledAt": "2026-11-27T02:49:53.783Z"
   },
   "pulls": [
+    {
+      "id": 358,
+      "name": "chimecho",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-27T02:49:53.783Z"
+    },
     {
       "id": 76,
       "name": "golem",
@@ -119,17 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-23T20:10:14.997Z"
-    },
-    {
-      "id": 671,
-      "name": "florges",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 552,
-      "grade": "SR",
-      "pulledAt": "2026-11-23T08:04:17.495Z"
     }
   ],
   "pokemon": {
@@ -1900,6 +1899,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T17:29:40.795Z",
       "lastPulledAt": "2026-10-17T17:29:40.795Z"
+    },
+    "358": {
+      "id": 358,
+      "name": "chimecho",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-27T02:49:53.783Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T02:49:53.783Z",
+      "lastPulledAt": "2026-11-27T02:49:53.783Z"
     },
     "360": {
       "id": 360,
