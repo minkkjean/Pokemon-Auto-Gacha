@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 363,
-  "updatedAt": "2026-11-27T11:39:18.116Z",
+  "totalPulls": 364,
+  "updatedAt": "2026-11-27T20:19:57.406Z",
   "lastPull": {
-    "id": 708,
-    "name": "phantump",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+    "id": 1003,
+    "name": "ting-lu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
     "types": [
-      "ghost",
-      "grass"
+      "dark",
+      "ground"
     ],
-    "totalStats": 309,
-    "grade": "N",
-    "pulledAt": "2026-11-27T11:39:18.116Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-27T20:19:57.406Z"
   },
   "pulls": [
+    {
+      "id": 1003,
+      "name": "ting-lu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+      "types": [
+        "dark",
+        "ground"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-27T20:19:57.406Z"
+    },
     {
       "id": 708,
       "name": "phantump",
@@ -118,18 +130,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-11-24T15:40:58.885Z"
-    },
-    {
-      "id": 636,
-      "name": "larvesta",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
-      "types": [
-        "bug",
-        "fire"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-11-24T04:51:27.864Z"
     }
   ],
   "pokemon": {
@@ -4959,6 +4959,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T23:42:01.256Z",
       "lastPulledAt": "2026-10-02T23:42:01.256Z"
+    },
+    "1003": {
+      "id": 1003,
+      "name": "ting-lu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+      "types": [
+        "dark",
+        "ground"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-27T20:19:57.406Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T20:19:57.406Z",
+      "lastPulledAt": "2026-11-27T20:19:57.406Z"
     },
     "1004": {
       "id": 1004,
