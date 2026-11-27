@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 362,
-  "updatedAt": "2026-11-27T02:49:53.783Z",
+  "totalPulls": 363,
+  "updatedAt": "2026-11-27T11:39:18.116Z",
   "lastPull": {
-    "id": 358,
-    "name": "chimecho",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
+    "id": 708,
+    "name": "phantump",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
     "types": [
-      "psychic"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-11-27T02:49:53.783Z"
+    "totalStats": 309,
+    "grade": "N",
+    "pulledAt": "2026-11-27T11:39:18.116Z"
   },
   "pulls": [
+    {
+      "id": 708,
+      "name": "phantump",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-11-27T11:39:18.116Z"
+    },
     {
       "id": 358,
       "name": "chimecho",
@@ -117,18 +130,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-11-24T04:51:27.864Z"
-    },
-    {
-      "id": 251,
-      "name": "celebi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
-      "types": [
-        "psychic",
-        "grass"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-23T20:10:14.997Z"
     }
   ],
   "pokemon": {
@@ -3495,6 +3496,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T17:27:33.392Z",
       "lastPulledAt": "2026-10-19T17:27:33.392Z"
+    },
+    "708": {
+      "id": 708,
+      "name": "phantump",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-11-27T11:39:18.116Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T11:39:18.116Z",
+      "lastPulledAt": "2026-11-27T11:39:18.116Z"
     },
     "709": {
       "id": 709,
