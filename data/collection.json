@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 366,
-  "updatedAt": "2026-11-28T11:35:19.391Z",
+  "totalPulls": 367,
+  "updatedAt": "2026-11-28T19:07:31.333Z",
   "lastPull": {
-    "id": 309,
-    "name": "electrike",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+    "id": 272,
+    "name": "ludicolo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
     "types": [
-      "electric"
+      "water",
+      "grass"
     ],
-    "totalStats": 295,
-    "grade": "N",
-    "pulledAt": "2026-11-28T11:35:19.391Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-11-28T19:07:31.333Z"
   },
   "pulls": [
+    {
+      "id": 272,
+      "name": "ludicolo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-28T19:07:31.333Z"
+    },
     {
       "id": 309,
       "name": "electrike",
@@ -117,18 +130,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-11-25T18:51:29.903Z"
-    },
-    {
-      "id": 561,
-      "name": "sigilyph",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
-      "types": [
-        "psychic",
-        "flying"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-25T08:42:11.662Z"
     }
   ],
   "pokemon": {
@@ -1416,10 +1417,10 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-16T01:47:10.843Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:10.843Z",
-      "lastPulledAt": "2026-09-16T01:47:10.843Z"
+      "lastPulledAt": "2026-11-28T19:07:31.333Z"
     },
     "278": {
       "id": 278,
