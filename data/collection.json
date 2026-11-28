@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 364,
-  "updatedAt": "2026-11-27T20:19:57.406Z",
+  "totalPulls": 365,
+  "updatedAt": "2026-11-28T02:51:37.928Z",
   "lastPull": {
-    "id": 1003,
-    "name": "ting-lu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+    "id": 745,
+    "name": "lycanroc-midday",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
     "types": [
-      "dark",
-      "ground"
+      "rock"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-27T20:19:57.406Z"
+    "totalStats": 487,
+    "grade": "R",
+    "pulledAt": "2026-11-28T02:51:37.928Z"
   },
   "pulls": [
+    {
+      "id": 745,
+      "name": "lycanroc-midday",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 487,
+      "grade": "R",
+      "pulledAt": "2026-11-28T02:51:37.928Z"
+    },
     {
       "id": 1003,
       "name": "ting-lu",
@@ -119,17 +129,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-11-25T00:09:58.531Z"
-    },
-    {
-      "id": 548,
-      "name": "petilil",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-11-24T15:40:58.885Z"
     }
   ],
   "pokemon": {
@@ -3715,6 +3714,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-17T11:39:37.943Z",
       "lastPulledAt": "2026-11-17T11:39:37.943Z"
+    },
+    "745": {
+      "id": 745,
+      "name": "lycanroc-midday",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 487,
+      "grade": "R",
+      "pulledAt": "2026-11-28T02:51:37.928Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-28T02:51:37.928Z",
+      "lastPulledAt": "2026-11-28T02:51:37.928Z"
     },
     "762": {
       "id": 762,
