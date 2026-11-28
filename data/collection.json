@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 365,
-  "updatedAt": "2026-11-28T02:51:37.928Z",
+  "totalPulls": 366,
+  "updatedAt": "2026-11-28T11:35:19.391Z",
   "lastPull": {
-    "id": 745,
-    "name": "lycanroc-midday",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
+    "id": 309,
+    "name": "electrike",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
     "types": [
-      "rock"
+      "electric"
     ],
-    "totalStats": 487,
-    "grade": "R",
-    "pulledAt": "2026-11-28T02:51:37.928Z"
+    "totalStats": 295,
+    "grade": "N",
+    "pulledAt": "2026-11-28T11:35:19.391Z"
   },
   "pulls": [
+    {
+      "id": 309,
+      "name": "electrike",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-11-28T11:35:19.391Z"
+    },
     {
       "id": 745,
       "name": "lycanroc-midday",
@@ -118,17 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-25T08:42:11.662Z"
-    },
-    {
-      "id": 762,
-      "name": "steenee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-11-25T00:09:58.531Z"
     }
   ],
   "pokemon": {
@@ -1560,6 +1560,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-14T19:28:17.771Z",
       "lastPulledAt": "2026-11-14T19:28:17.771Z"
+    },
+    "309": {
+      "id": 309,
+      "name": "electrike",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-11-28T11:35:19.391Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-28T11:35:19.391Z",
+      "lastPulledAt": "2026-11-28T11:35:19.391Z"
     },
     "310": {
       "id": 310,
